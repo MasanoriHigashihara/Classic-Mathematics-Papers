@@ -3,7 +3,6 @@ title: "Capitel I - スライド"
 date: 2025-11-29
 draft: false
 type: docs
-bookHidden: true
 ---
 
 # Capitel I - Die algebraische Zahl und der Zahlkörper
