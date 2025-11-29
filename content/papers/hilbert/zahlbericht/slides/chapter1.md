@@ -1,0 +1,115 @@
+---
+title: "Capitel I - スライド"
+date: 2025-11-29
+draft: false
+bookHidden: true
+---
+
+# Capitel I - Die algebraische Zahl und der Zahlkörper
+## 第1章 - 代数的数と数体
+
+### スライド資料
+
+<div id="pdf-viewer" style="text-align: center;">
+  <canvas id="pdf-canvas" style="border: 1px solid #ccc; max-width: 100%;"></canvas>
+  <div style="margin-top: 20px;">
+    <button id="prev-page" style="padding: 10px 20px; margin: 5px; font-size: 16px;">◀ 前のページ</button>
+    <span style="margin: 0 20px; font-size: 18px;">
+      ページ <span id="page-num"></span> / <span id="page-count"></span>
+    </span>
+    <button id="next-page" style="padding: 10px 20px; margin: 5px; font-size: 16px;">次のページ ▶</button>
+  </div>
+  <div style="margin-top: 10px;">
+    <a href="/slides/hilbert/zahlbericht/chapter1.pdf" target="_blank" style="font-size: 14px;">📥 PDFをダウンロード</a>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+  const url = '/slides/hilbert/zahlbericht/chapter1.pdf';
+  let pdfDoc = null;
+  let pageNum = 1;
+  let pageRendering = false;
+  let pageNumPending = null;
+  const scale = 1.5;
+  const canvas = document.getElementById('pdf-canvas');
+  const ctx = canvas.getContext('2d');
+
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+  function renderPage(num) {
+    pageRendering = true;
+    pdfDoc.getPage(num).then(function(page) {
+      const viewport = page.getViewport({scale: scale});
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      const renderContext = {
+        canvasContext: ctx,
+        viewport: viewport
+      };
+      const renderTask = page.render(renderContext);
+
+      renderTask.promise.then(function() {
+        pageRendering = false;
+        if (pageNumPending !== null) {
+          renderPage(pageNumPending);
+          pageNumPending = null;
+        }
+      });
+    });
+
+    document.getElementById('page-num').textContent = num;
+  }
+
+  function queueRenderPage(num) {
+    if (pageRendering) {
+      pageNumPending = num;
+    } else {
+      renderPage(num);
+    }
+  }
+
+  function onPrevPage() {
+    if (pageNum <= 1) {
+      return;
+    }
+    pageNum--;
+    queueRenderPage(pageNum);
+  }
+
+  function onNextPage() {
+    if (pageNum >= pdfDoc.numPages) {
+      return;
+    }
+    pageNum++;
+    queueRenderPage(pageNum);
+  }
+
+  document.getElementById('prev-page').addEventListener('click', onPrevPage);
+  document.getElementById('next-page').addEventListener('click', onNextPage);
+
+  // キーボードナビゲーション
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowLeft') onPrevPage();
+    if (e.key === 'ArrowRight') onNextPage();
+  });
+
+  pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+    pdfDoc = pdfDoc_;
+    document.getElementById('page-count').textContent = pdfDoc.numPages;
+    renderPage(pageNum);
+  });
+</script>
+
+---
+
+**内容:**
+- §1 Der Zahlkörper und die conjugierten Zahlkörper（数体と共役数体）
+- §2 Die ganze algebraische Zahl（整数代数的数）
+- §3 Die Norm, die Differente, die Discriminante einer Zahl（ノルム・ディフェレント・判別式）
+
+**操作方法:**
+- ボタンをクリックするか、キーボードの左右矢印キー（← →）でページを移動できます
+
+[目次に戻る](../)

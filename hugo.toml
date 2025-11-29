@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'Classic Mathematics Papers'
+theme = "hugo-book"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  # hugo-book theme configuration
+  BookSection = 'papers'
+  BookToC = true
+  BookSearch = true
+  
+  # MathJax support
+  math = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+

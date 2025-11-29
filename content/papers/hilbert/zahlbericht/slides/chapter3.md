@@ -1,0 +1,114 @@
+---
+title: "Capitel III - スライド"
+date: 2025-11-29
+draft: false
+bookHidden: true
+---
+
+# Capitel III - Die Congruenzen nach Idealen
+## 第3章 - イデアルに関する合同
+
+### スライド資料
+
+<div id="pdf-viewer" style="text-align: center;">
+  <canvas id="pdf-canvas" style="border: 1px solid #ccc; max-width: 100%;"></canvas>
+  <div style="margin-top: 20px;">
+    <button id="prev-page" style="padding: 10px 20px; margin: 5px; font-size: 16px;">◀ 前のページ</button>
+    <span style="margin: 0 20px; font-size: 18px;">
+      ページ <span id="page-num"></span> / <span id="page-count"></span>
+    </span>
+    <button id="next-page" style="padding: 10px 20px; margin: 5px; font-size: 16px;">次のページ ▶</button>
+  </div>
+  <div style="margin-top: 10px;">
+    <a href="/slides/hilbert/zahlbericht/chapter3.pdf" target="_blank" style="font-size: 14px;">📥 PDFをダウンロード</a>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+  const url = '/slides/hilbert/zahlbericht/chapter3.pdf';
+  let pdfDoc = null;
+  let pageNum = 1;
+  let pageRendering = false;
+  let pageNumPending = null;
+  const scale = 1.5;
+  const canvas = document.getElementById('pdf-canvas');
+  const ctx = canvas.getContext('2d');
+
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+  function renderPage(num) {
+    pageRendering = true;
+    pdfDoc.getPage(num).then(function(page) {
+      const viewport = page.getViewport({scale: scale});
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      const renderContext = {
+        canvasContext: ctx,
+        viewport: viewport
+      };
+      const renderTask = page.render(renderContext);
+
+      renderTask.promise.then(function() {
+        pageRendering = false;
+        if (pageNumPending !== null) {
+          renderPage(pageNumPending);
+          pageNumPending = null;
+        }
+      });
+    });
+
+    document.getElementById('page-num').textContent = num;
+  }
+
+  function queueRenderPage(num) {
+    if (pageRendering) {
+      pageNumPending = num;
+    } else {
+      renderPage(num);
+    }
+  }
+
+  function onPrevPage() {
+    if (pageNum <= 1) {
+      return;
+    }
+    pageNum--;
+    queueRenderPage(pageNum);
+  }
+
+  function onNextPage() {
+    if (pageNum >= pdfDoc.numPages) {
+      return;
+    }
+    pageNum++;
+    queueRenderPage(pageNum);
+  }
+
+  document.getElementById('prev-page').addEventListener('click', onPrevPage);
+  document.getElementById('next-page').addEventListener('click', onNextPage);
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowLeft') onPrevPage();
+    if (e.key === 'ArrowRight') onNextPage();
+  });
+
+  pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+    pdfDoc = pdfDoc_;
+    document.getElementById('page-count').textContent = pdfDoc.numPages;
+    renderPage(pageNum);
+  });
+</script>
+
+---
+
+**内容:**
+- §7 Die Norm eines Ideals und ihre Eigenschaften（イデアルのノルム）
+- §8 Der Fermat'sche Satz in der Idealtheorie und die Funktion $\varphi(\alpha)$（イデアル論におけるフェルマーの定理）
+- §9 Die Primitivzahlen nach einem Primideal（素イデアルに関する原始数）
+
+**操作方法:**
+- ボタンをクリックするか、キーボードの左右矢印キー（← →）でページを移動できます
+
+[目次に戻る](../)
