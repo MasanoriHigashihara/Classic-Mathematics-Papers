@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://masanorihigashihara.github.io/Classic-Mathematics-Papers/'
 languageCode = 'ja'
 title = 'Classic Mathematics Papers'
 theme = "hugo-book"
