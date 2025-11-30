@@ -5,16 +5,12 @@ draft: false
 type: docs
 ---
 
-# Capitel III - Die Congruenzen nach Idealen
-## 第3章 - イデアルに関する合同
+# Capitel III - Die Einheiten des Zahlkörpers
+## 第3章 - 数体の単数
 
 ### スライド資料
 
-{{< pdf-embed src="slides/hilbert/zahlbericht/chapter3.pdf" width="100%" height="800px" >}}
-
-<div style="text-align: center; margin-top: 20px;">
-  <a href="{{ "slides/hilbert/zahlbericht/chapter3.pdf" | relURL }}" download style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📥 PDFをダウンロード</a>
-</div>
+{{< pdf-embed "slides/hilbert/zahlbericht/chapter3.pdf" >}}
 
 <div style="margin-top: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
   <p><strong>💡 ヒント:</strong></p>
@@ -27,11 +23,6 @@ type: docs
 ---
 
 **内容:**
-- §7 Die Norm eines Ideals und ihre Eigenschaften（イデアルのノルム）
-- §8 Der Fermat'sche Satz in der Idealtheorie und die Funktion $\varphi(\alpha)$（イデアル論におけるフェルマーの定理）
-- §9 Die Primitivzahlen nach einem Primideal（素イデアルに関する原始数）
-
-**操作方法:**
-- ボタンをクリックするか、キーボードの左右矢印キー（← →）でページを移動できます
-
-[目次に戻る](../)
+- §8 Die Einheiten（単数）
+- §9 Die Grundeinheiten（基本単数）
+- §10 Die Regulatoren（レギュレーター）

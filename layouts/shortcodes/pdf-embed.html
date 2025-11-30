@@ -1,5 +1,10 @@
-{{- $pdfPath := .Get "src" -}}
-{{- $width := .Get "width" | default "100%" -}}
-{{- $height := .Get "height" | default "800px" -}}
+{{- $path := .Get 0 | relURL -}}
 
-<embed src="{{ $pdfPath | relURL }}" type="application/pdf" width="{{ $width }}" height="{{ $height }}" />
+<embed src="{{ $path }}" type="application/pdf" width="100%" height="800px" />
+
+<div style="text-align: center; margin-top: 20px;">
+    <a href="{{ $path }}" download
+        style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">
+        📥 PDFをダウンロード
+    </a>
+</div>
