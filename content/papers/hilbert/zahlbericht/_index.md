@@ -86,7 +86,7 @@ bookCollapseSection: false
 <summary>
 <strong>Capitel IV  Die Discriminante des Körpers und ihre Teiler<br>第4章  数体の判別式とその因数</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="slides/chapter4/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
@@ -109,7 +109,7 @@ bookCollapseSection: false
 <summary>
 <strong>Capitel V  Der Relativkörper<br>第5章  相対体</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="slides/chapter5/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
@@ -129,7 +129,7 @@ bookCollapseSection: false
 <summary>
 <strong>Capitel VI  Die Einheiten des Körpers<br>第6章  単元</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="slides/chapter6/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
