@@ -10,20 +10,16 @@ type: docs
 
 ### スライド資料
 
-{{< pdf-embed src="slides/hilbert/zahlbericht/chapter1.pdf" width="100%" height="800px" >}}
-
-<div style="text-align: center; margin-top: 20px;">
-  <a href="{{ "slides/hilbert/zahlbericht/chapter1.pdf" | relURL }}" download style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📥 PDFをダウンロード</a>
-</div>
+{{< embed-pdf url="slides/hilbert/zahlbericht/chapter1.pdf" >}}
 
 <div style="margin-top: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
   <p><strong>💡 ヒント:</strong></p>
   <ul>
-    <li>PDFが表示されない場合は、上のダウンロードボタンからPDFをダウンロードしてご覧ください</li>
-    <li>ブラウザによっては、PDFビューアーが自動的に表示されます</li>
+    <li>「Previous」「Next」ボタンでページを移動できます</li>
+    <li>右上のダウンロードボタンからPDFをダウンロードできます</li>
+    <li>キーボードの左右矢印キー(← →)でもページ移動が可能です</li>
   </ul>
 </div>
-
 
 ---
 
