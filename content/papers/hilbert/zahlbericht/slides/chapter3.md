@@ -10,10 +10,10 @@ type: docs
 
 ### スライド資料
 
-<embed src="/slides/hilbert/zahlbericht/chapter3.pdf" type="application/pdf" width="100%" height="800px" />
+{{< pdf-embed src="slides/hilbert/zahlbericht/chapter3.pdf" width="100%" height="800px" >}}
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="/slides/hilbert/zahlbericht/chapter3.pdf" download style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📥 PDFをダウンロード</a>
+  <a href="{{ "slides/hilbert/zahlbericht/chapter3.pdf" | relURL }}" download style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📥 PDFをダウンロード</a>
 </div>
 
 <div style="margin-top: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">

@@ -1,0 +1,5 @@
+{{- $pdfPath := .Get "src" -}}
+{{- $width := .Get "width" | default "100%" -}}
+{{- $height := .Get "height" | default "800px" -}}
+
+<embed src="{{ $pdfPath | relURL }}" type="application/pdf" width="{{ $width }}" height="{{ $height }}" />
