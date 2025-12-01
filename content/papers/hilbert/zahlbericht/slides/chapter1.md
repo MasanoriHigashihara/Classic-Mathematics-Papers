@@ -6,7 +6,7 @@ type: docs
 ---
 
 # Capitel I - Die algebraische Zahl und der Zahlkörper
-## 第1章 - 代数的数と数体
+## 第1章 - 代数的数と数体 [🔊](https://youtu.be/NY_TJq-P0KA?si=F4-2jsrGckcUwSEd)
 
 ### スライド資料
 
