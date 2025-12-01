@@ -22,7 +22,7 @@ Satz 1–4. …… 1
 定理1–4。…… 1
 
 **§ 2.** Kongruenzen und Restklassen. Die Eulersche Funktion φ(n). Fermatscher Satz.  
-**§2.** [合同式と剰余類。オイラー関数 φ(n)。フェルマーの小定理。](ch1-sec2/)  
+**§2.** 合同式と剰余類。オイラー関数 φ(n)。フェルマーの小定理。  
 Satz 5–9. …… 7  
 定理5–9。…… 7
 
