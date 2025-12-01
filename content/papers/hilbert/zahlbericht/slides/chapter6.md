@@ -6,8 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# Capitel VI - Die Galoissche Zahlkörper
-## 第6章 - ガロア数体
+# Capitel VI - Die Einheiten des Körpers
+## 第6章 - 数体の単元
 
 ### スライド資料
 
@@ -24,6 +24,8 @@ bookHidden: true
 ---
 
 **内容:**
-- §18 Die Galoissche Zahlkörper（ガロア数体）
-- §19 Die Trägheitsgruppe und die Zerlegungsgruppe（惰性群と分解群）
-- §20 Die Relativgruppe（相対群）
+- §17 Existenz conjungierter Zahlen mit bestimmten Ungleichungen（特定の不等式を満たす共役数の存在）
+- §18 Über die absolute Größe der Körperdiscriminante（判別式絶対値の評価）
+- §19 Existenzsatz der Einheiten（単元存在定理）
+- §20 Beweis des Existenzsatzes（証明）
+- §21 Grundeinheiten; Regulator（基本単元・レギュレーター）
