@@ -3,6 +3,7 @@ title: "Capitel IV - スライド"
 date: 2025-11-30
 draft: false
 type: docs
+bookHidden: true
 ---
 
 # Capitel IV - Die Discriminante des Körpers

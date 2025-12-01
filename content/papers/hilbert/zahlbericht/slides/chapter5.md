@@ -3,6 +3,7 @@ title: "Capitel V - スライド"
 date: 2025-11-30
 draft: false
 type: docs
+bookHidden: true
 ---
 
 # Capitel V - Der relative Körper

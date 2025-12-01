@@ -3,6 +3,7 @@ title: "Capitel VI - スライド"
 date: 2025-11-30
 draft: false
 type: docs
+bookHidden: true
 ---
 
 # Capitel VI - Die Galoissche Zahlkörper
