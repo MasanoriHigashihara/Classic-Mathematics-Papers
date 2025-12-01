@@ -485,7 +485,13 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 </details>
 
 <details>
-<summary><strong>Capitel XIX  Die Kreiskörper der 1. und 2. Stufe<br>第19章  第1階・第2階の円分体</strong></summary>
+<summary>
+<strong>Capitel XIX  Die Kreiskörper der 1. und 2. Stufe<br>第19章  第1階・第2階の円分体</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
 
 **§77** Kreiskörper 1. Stufe  
 第1階円分体  
@@ -504,7 +510,13 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 </details>
 
 <details>
-<summary><strong>Capitel XX  Die Bildung der Klassenkörper<br>第20章  類体生成（クラスフィールド生成）</strong></summary>
+<summary>
+<strong>Capitel XX  Die Bildung der Klassenkörper<br>第20章  類体生成（クラスフィールド生成）</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
 
 **§81** Allgemeines über Klassenkörper  
 類体（クラスフィールド）の一般論  
