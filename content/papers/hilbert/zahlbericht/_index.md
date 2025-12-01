@@ -201,7 +201,13 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 </details>
 
 <details>
-<summary><strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  数体の整数環</strong></summary>
+<summary>
+<strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  数体の整数環</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
 
 **§31** Zahlring; Ringideal und Eigenschaften  
 整数環・環イデアル
