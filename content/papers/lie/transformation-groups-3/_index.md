@@ -81,25 +81,33 @@ bookCollapseSection: false
 ---
 
 #### Abteilung IV. 第IV部
-**Untersuchungen über verschiedene Arten von Gruppen des n-fach ausgedehnten Raumes**  
-**n 次元空間における種々の群の研究**
+**Untersuchungen über verschiedene Arten von Gruppen des $n$-fach ausgedehnten Raumes**  
+**$n$ 次元空間における種々の群の研究**
 
 （Seite 263–392）
 
 **Kap. 14.** Gruppen, die mit gewissen projectiven Gruppen gleich zusammengesetzt sind. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第14章**　特定の射影群と同じ構成をもつ群
 
-**Kap. 15.** Allgemeines über gewisse primitive projective Gruppen des n-fach ausgedehnten Raumes. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第15章**　n 次元空間のある種のプリミティブ射影群についての一般論
+**Kap. 15.** Allgemeines über gewisse primitive projective Gruppen des $n$-fach ausgedehnten Raumes. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第15章**　$n$ 次元空間のプリミティブ射影群についての一般論
 
-**Kap. 16.** Bestimmung aller endlichen kontinuierlichen Gruppen des Rₙ, die möglichst transitiv sind. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第16章**　可能な限り遷移的な Rₙ の有限連続群のすべての決定
+**Kap. 16.** Bestimmung aller endlichen kontinuierlichen Gruppen des $R_n$, die möglichst transitiv sind. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第16章**　可能な限り遷移的な $R_n$ の有限連続群の決定
 
-**Kap. 17.** Gruppen des Rₙ mit einer invarianten Gleichung von der Form: ∑ fₖ(x₁, …, xₙ) dxₖ dxₘ = 0. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第17章**　形式 ∑ fₖ(x₁, …, xₙ) dxₖ dxₘ = 0 の不変方程式をもつ Rₙ の群
+**Kap. 17.** Gruppen des $R_n$ mit einer invarianten Gleichung der Form:
+
+$$\sum_{k=1}^{p} f_k(x_1,\ldots,x_n)\, dx_k \, dx_m = 0$$
+
+<span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第17章**　不変方程式
+
+$$\sum_{k=1}^{p} f_k(x_1,\ldots,x_n)\, dx_k \, dx_m = 0$$
+
+をもつ $R_n$ の群
 
 **Kap. 18.** Einige Eigenschaften der im vorigen Kapitel gefundenen Gruppen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第18章**　前章で見出された群のいくつかの性質
+**第18章**　前章で得られた群の性質
 
 **Kap. 19.** Die reellen Gruppen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第19章**　実数体上の群
@@ -112,8 +120,8 @@ bookCollapseSection: false
 
 （Seite 393–543）
 
-**Kap. 20.** Bestimmung aller Gruppen des R₃, bei denen zwei Punkte eine und nur eine, mehr als zwei Punkte dagegen keine wesentliche Invariante haben. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第20章**　R₃ において・2点はただ1つの本質的な不変量を持つが・3点以上は本質的な不変量を持たない、そのような群の全決定
+**Kap. 20.** Bestimmung aller Gruppen des $R_3$, bei denen zwei Punkte eine wesentliche Invariante haben, mehr als zwei Punkte dagegen nicht. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第20章**　$R_3$ において 2 点のみ本質的不変量を持ち、3点以上は持たない群の決定
 
 **Kap. 21.** Kritik der Helmholtz'schen Untersuchungen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第21章**　ヘルムホルツの研究の批判
@@ -124,7 +132,7 @@ bookCollapseSection: false
 **Kap. 23.** Zweite Lösung des Riemann–Helmholtzschen Problems. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第23章**　リーマン＝ヘルムホルツ問題の第2解
 
-**Kap. 24.** Kritik einiger neuerer Untersuchungen über die Grundlagen der Geometrie. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**Kap. 24.** Kritik neuerer Untersuchungen über die Grundlagen der Geometrie. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第24章**　幾何学基礎論に関する近年の研究の批判
 
 **Schlußbemerkungen zu Abteilung V.**  
@@ -141,22 +149,22 @@ bookCollapseSection: false
 **Kap. 25.** Die Fundamentalsätze der Gruppentheorie. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第25章**　群論の基本定理
 
-**Kap. 26.** Die Ueberführung der endlichen Gleichungen einer r-gliedrigen Gruppe in ihre kanonische Form. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第26章**　r 項群の有限連立方程式の正準形への変換
+**Kap. 26.** Die Überführung der endlichen Gleichungen einer $r$-gliedrigen Gruppe in ihre kanonische Form. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第26章**　$r$ 項群の有限方程式の正準形への変換
 
-**Kap. 27.** Die Bestimmung aller r-gliedrigen transitiven Gruppen von gegebener Zusammensetzung. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第27章**　与えられた構成をもつ r 項遷移群のすべての決定
+**Kap. 27.** Bestimmung aller $r$-gliedrigen transitiven Gruppen gegebener Zusammensetzung. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第27章**　与えられた構成をもつ $r$ 項遷移群の決定
 
-**Kap. 28.** Allgemeines über die Zusammensetzung r-gliedriger Gruppen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第28章**　r 項群の構成に関する一般論
+**Kap. 28.** Allgemeines über die Zusammensetzung $r$-gliedriger Gruppen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**第28章**　$r$ 項群の構成の一般論
 
 **Kap. 29.** Die gruppentheoretischen Arbeiten Andrer. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
-**第29章**　アンドラーによる群論研究
+**第29章**　アンドラーの群論研究
 
 ---
 
 **Sachregister zu Abschnitt I, II und III.**  
-**第I〜III部の事項索引**
+**第I～III部の事項索引**
 
 **Namenregister zu Abschnitt I, II und III.**  
-**第I〜III部の人名索引**
+**第I～III部の人名索引**
