@@ -6,8 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# Capitel III - Die Einheiten des Zahlkörpers
-## 第3章 - 数体の単数
+# Capitel III - Die Congruenzen nach Idealen
+## 第3章 - イデアルに関する合同
 
 ### スライド資料
 
