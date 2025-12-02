@@ -3,7 +3,6 @@ title: "Capitel II - スライド"
 date: 2025-11-29
 draft: false
 type: docs
-bookHidden: true
 ---
 
 # Capitel II - Die Idealtheorie
