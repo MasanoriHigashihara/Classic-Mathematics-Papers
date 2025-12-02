@@ -29,17 +29,17 @@ buildExpired = false
     name = "新着"
     weight = 1
   [[menu.before]]
-    name = "数論報告 第1章"
-    url = "/Classic-Mathematics-Papers/papers/hilbert/zahlbericht/slides/chapter1/"
+    name = "数論報告 第2章"
+    url = "/Classic-Mathematics-Papers/papers/hilbert/zahlbericht/slides/chapter2/"
     parent = "新着"
     weight = 1
   [[menu.before]]
-    name = "ヘッケ 第1章§2"
-    url = "/Classic-Mathematics-Papers/papers/hecke/algebraic-numbers/ch1-sec2/"
+    name = "数論報告 第1章"
+    url = "/Classic-Mathematics-Papers/papers/hilbert/zahlbericht/slides/chapter1/"
     parent = "新着"
     weight = 2
   [[menu.before]]
-    name = "リー 変換群 第3巻"
-    url = "/Classic-Mathematics-Papers/papers/lie/transformation-groups-3/"
+    name = "ヘッケ 第1章§2"
+    url = "/Classic-Mathematics-Papers/papers/hecke/algebraic-numbers/ch1-sec2/"
     parent = "新着"
     weight = 3
