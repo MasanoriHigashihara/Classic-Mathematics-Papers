@@ -1,10 +1,18 @@
-{{- $path := .Get 0 | relURL -}}
-{{- $filename := path.Base (.Get 0) -}}
+{{- $pdfPath := .Get 0 -}}
+{{- $filename := path.Base $pdfPath -}}
+{{- $pdfBaseURL := .Site.Params.pdfBaseURL | default "" -}}
+{{- $fullURL := "" -}}
 
-<embed src="{{ $path }}" type="application/pdf" width="100%" height="800px" />
+{{- if $pdfBaseURL -}}
+{{- $fullURL = printf "%s/%s" $pdfBaseURL $pdfPath -}}
+{{- else -}}
+{{- $fullURL = $pdfPath | relURL -}}
+{{- end -}}
+
+<embed src="{{ $fullURL }}" type="application/pdf" width="100%" height="800px" />
 
 <div style="text-align: center; margin-top: 20px;">
-    <a href="{{ $path }}" download="{{ $filename }}"
+    <a href="{{ $fullURL }}" download="{{ $filename }}"
         style="padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">
         📥 PDFをダウンロード
     </a>

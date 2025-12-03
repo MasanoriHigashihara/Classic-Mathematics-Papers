@@ -31,3 +31,10 @@ Thumbs.db
 *.log
 *.tmp
 add_icons.py
+
+# PDFs are stored in Cloudflare R2
+static/slides/**/*.pdf
+
+# Node.js and Wrangler
+node_modules/
+.wrangler/

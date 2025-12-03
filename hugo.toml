@@ -16,6 +16,11 @@ buildExpired = false
   
   # MathJax support
   math = true
+  
+  # Cloudflare R2 PDF storage
+  # Set this to your R2 public URL (e.g., "https://pub-xxxxx.r2.dev" or custom domain)
+  # Leave empty to use local static files
+  pdfBaseURL = "https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev"
 
 [markup]
   [markup.goldmark]
