@@ -21,6 +21,12 @@ bookHidden: true
   </ul>
 </div>
 
+### 🎧 音声解説
+
+このスライドの詳しい解説は、以下の音声コンテンツでご覧いただけます：
+
+📺 [YouTube: ヒルベルト数論報告 第3章 解説](https://youtu.be/KyADfrWfL6Y)
+
 ---
 
 **内容:**
