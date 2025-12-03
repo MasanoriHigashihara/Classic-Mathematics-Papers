@@ -33,7 +33,8 @@ Thumbs.db
 add_icons.py
 
 # PDFs are stored in Cloudflare R2
-static/slides/**/*.pdf
+# Temporarily disabled - using GitHub Pages for PDFs
+# static/slides/**/*.pdf
 
 # Node.js and Wrangler
 node_modules/
