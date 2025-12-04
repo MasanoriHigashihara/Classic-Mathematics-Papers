@@ -99,12 +99,13 @@
   }
 }
 
-/* Mobile Styles (767px and below) - Compact Single Screen Layout */
+/* Mobile Styles (767px and below) - Compact Single Screen Layout with Aspect Ratio */
 @media screen and (max-width: 767px) {
   .pdf-embed {
-    height: 50vh;
-    min-height: 250px;
-    max-height: 400px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    max-height: 50vh;
   }
 
   .pdf-download-btn {
@@ -150,8 +151,7 @@
 /* Small Mobile Styles (480px and below) */
 @media screen and (max-width: 480px) {
   .pdf-embed {
-    height: 45vh;
-    min-height: 200px;
+    max-height: 45vh;
   }
 
   .pdf-download-btn {
