@@ -1,0 +1,182 @@
+/* Mobile PDF Optimization Styles */
+
+/* PDF Container Responsive Styles */
+.pdf-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.pdf-embed {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Download Button Base Styles */
+.pdf-download-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #0066cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 102, 204, 0.3);
+
+  /* Touch optimization */
+  -webkit-tap-highlight-color: rgba(0, 102, 204, 0.3);
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.pdf-download-btn:hover {
+  background-color: #0052a3;
+  box-shadow: 0 4px 12px rgba(0, 102, 204, 0.4);
+  transform: translateY(-1px);
+}
+
+.pdf-download-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 102, 204, 0.3);
+}
+
+/* Mobile Notice */
+.mobile-notice {
+  display: none;
+  margin: 15px 0;
+  padding: 12px 16px;
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.mobile-notice strong {
+  color: #856404;
+}
+
+/* Hint Box */
+.pdf-hint {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+/* Desktop Styles (1024px and above) */
+@media screen and (min-width: 1024px) {
+  .pdf-embed {
+    height: 800px;
+  }
+
+  .pdf-download-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+}
+
+/* Tablet Styles (768px to 1023px) */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .pdf-embed {
+    height: 70vh;
+    min-height: 500px;
+  }
+
+  .pdf-download-btn {
+    padding: 14px 28px;
+    font-size: 17px;
+    min-height: 48px;
+  }
+
+  .mobile-notice {
+    display: block;
+  }
+}
+
+/* Mobile Styles (767px and below) - Compact Single Screen Layout */
+@media screen and (max-width: 767px) {
+  .pdf-embed {
+    height: 50vh;
+    min-height: 250px;
+    max-height: 400px;
+  }
+
+  .pdf-download-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 15px;
+    min-height: 44px;
+  }
+
+  .mobile-notice {
+    display: none;
+  }
+
+  .pdf-hint {
+    margin-top: 10px;
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .pdf-hint p {
+    margin: 0 0 4px 0;
+  }
+
+  .pdf-hint ul {
+    padding-left: 18px;
+    margin: 4px 0 0 0;
+  }
+
+  .pdf-hint li {
+    margin: 2px 0;
+    line-height: 1.4;
+  }
+
+  /* Reduce spacing around download button */
+  .pdf-container>div[style*="text-align: center"] {
+    margin-top: 10px !important;
+  }
+}
+
+/* Small Mobile Styles (480px and below) */
+@media screen and (max-width: 480px) {
+  .pdf-embed {
+    height: 45vh;
+    min-height: 200px;
+  }
+
+  .pdf-download-btn {
+    font-size: 14px;
+    padding: 10px 18px;
+  }
+
+  .pdf-hint {
+    font-size: 11px;
+    padding: 6px 10px;
+  }
+}
+
+/* Accessibility: Focus styles */
+.pdf-download-btn:focus {
+  outline: 3px solid #0066cc;
+  outline-offset: 2px;
+}
+
+/* Print styles */
+@media print {
+
+  .pdf-download-btn,
+  .mobile-notice,
+  .pdf-hint {
+    display: none;
+  }
+}
