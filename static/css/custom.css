@@ -1,0 +1,35 @@
+/* Mobile Optimization Styles */
+
+/* スマホ最適化①: Content width optimization for readability */
+@media screen and (max-width: 600px) {
+    .markdown-inner {
+        max-width: 90%;
+        margin: 0 auto;
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    .book-page {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+}
+
+/* Ensure proper spacing on mobile */
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+}

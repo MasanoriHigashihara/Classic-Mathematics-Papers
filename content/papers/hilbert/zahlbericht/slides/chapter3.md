@@ -9,7 +9,17 @@ bookHidden: true
 # Capitel III - Die Congruenzen nach Idealen
 ## 第3章 - イデアルに関する合同
 
-**🔊 [音声解説を聴く](https://youtu.be/KyADfrWfL6Y)**
+<div style="text-align:center; margin: 1.5rem 0;">
+  <iframe 
+    width="280" 
+    height="158" 
+    src="https://www.youtube.com/embed/KyADfrWfL6Y" 
+    style="border:none; border-radius:8px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説（NotebookLM）</p>
+</div>
 
 ### スライド資料
 

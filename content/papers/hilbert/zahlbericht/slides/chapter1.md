@@ -9,13 +9,23 @@ bookHidden: true
 # Capitel I - Die algebraische Zahl und der Zahlkörper
 ## 第1章 - 代数的数と数体
 
-**🔊 [音声解説を聴く](https://youtu.be/NY_TJq-P0KA?si=F4-2jsrGckcUwSEd)**
+<div style="text-align:center; margin: 1.5rem 0;">
+  <iframe 
+    width="280" 
+    height="158" 
+    src="https://www.youtube.com/embed/NY_TJq-P0KA" 
+    style="border:none; border-radius:8px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説（NotebookLM）</p>
+</div>
 
 ### スライド資料
 
 {{< pdf-embed "slides/hilbert/zahlbericht/chapter1.pdf" >}}
 
-<div style="margin-top: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
+<div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
   <ul>
     <li>PDFが表示されない場合は、上のダウンロードボタンからPDFをダウンロードしてご覧ください</li>
