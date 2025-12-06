@@ -146,6 +146,20 @@
   .pdf-container>div[style*="text-align: center"] {
     margin-top: 10px !important;
   }
+
+  /* Scale PDF to fit entire page on mobile */
+  .pdf-container>div[style*="height:85vh"] {
+    height: auto !important;
+    aspect-ratio: 16 / 9;
+    max-height: 60vh;
+  }
+
+  .pdf-container iframe {
+    transform: scale(0.5);
+    transform-origin: top left;
+    width: 200%;
+    height: 200%;
+  }
 }
 
 /* Small Mobile Styles (480px and below) */
