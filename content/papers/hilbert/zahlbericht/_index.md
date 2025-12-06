@@ -110,7 +110,7 @@ bookCollapseSection: false
 <strong>Capitel V  Der Relativkörper<br>第5章  相対体</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter5/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/djYBa4I3YBk" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
