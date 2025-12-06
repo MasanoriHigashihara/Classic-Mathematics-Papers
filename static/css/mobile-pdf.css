@@ -142,18 +142,41 @@
     line-height: 1.4;
   }
 
-  max-height: 45vh;
+  /* Reduce spacing around download button */
+  .pdf-container>div[style*="text-align: center"] {
+    margin-top: 10px !important;
+  }
+
+  /* Scale PDF to fit entire page on mobile - centered and readable */
+  .pdf-container>div[style*="height:85vh"] {
+    height: 80vh !important;
+    overflow: hidden;
+  }
+
+  .pdf-container iframe {
+    transform: scale(0.7);
+    transform-origin: top center;
+    width: 143%;
+    height: 143%;
+    margin-left: -21.5%;
+  }
 }
 
-.pdf-download-btn {
-  font-size: 14px;
-  padding: 10px 18px;
-}
+/* Small Mobile Styles (480px and below) */
+@media screen and (max-width: 480px) {
+  .pdf-embed {
+    max-height: 45vh;
+  }
 
-.pdf-hint {
-  font-size: 11px;
-  padding: 6px 10px;
-}
+  .pdf-download-btn {
+    font-size: 14px;
+    padding: 10px 18px;
+  }
+
+  .pdf-hint {
+    font-size: 11px;
+    padding: 6px 10px;
+  }
 }
 
 /* Accessibility: Focus styles */
