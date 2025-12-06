@@ -67,7 +67,7 @@ bookCollapseSection: false
 <strong>Capitel III  Die Congruenzen nach Idealen<br>第3章  イデアルに関する合同</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter3/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/-1ll5mQ0sYY" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/KyADfrWfL6Y" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
@@ -87,7 +87,7 @@ bookCollapseSection: false
 <strong>Capitel IV  Die Discriminante des Körpers und ihre Teiler<br>第4章  数体の判別式とその因数</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter4/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/jZ-Ub_pWO0U" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
