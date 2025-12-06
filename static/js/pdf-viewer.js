@@ -4,6 +4,10 @@ class PDFPageViewer {
     constructor(pdfUrl, canvasId) {
         this.pdfUrl = pdfUrl;
         this.canvas = document.getElementById(canvasId);
+        if (!this.canvas) {
+            console.error('Canvas element not found:', canvasId);
+            return;
+        }
         this.ctx = this.canvas.getContext('2d');
         this.pdfDoc = null;
         this.currentPage = 1;
@@ -15,14 +19,25 @@ class PDFPageViewer {
 
     async init() {
         try {
-            // Load PDF.js library
-            const pdfjsLib = window['pdfjs-dist/build/pdf'];
+            // Show loading message
+            this.showLoading();
+
+            // Wait for PDF.js library to load
+            if (typeof window.pdfjsLib === 'undefined') {
+                throw new Error('PDF.js library not loaded');
+            }
+
+            const pdfjsLib = window.pdfjsLib;
             pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+            console.log('Loading PDF from:', this.pdfUrl);
 
             // Load PDF document
             const loadingTask = pdfjsLib.getDocument(this.pdfUrl);
             this.pdfDoc = await loadingTask.promise;
             this.totalPages = this.pdfDoc.numPages;
+
+            console.log('PDF loaded successfully. Total pages:', this.totalPages);
 
             // Update page info
             this.updatePageInfo();
@@ -38,7 +53,7 @@ class PDFPageViewer {
 
         } catch (error) {
             console.error('Error loading PDF:', error);
-            this.showError('PDFの読み込みに失敗しました');
+            this.showError(`PDFの読み込みに失敗しました: ${error.message}`);
         }
     }
 
@@ -153,9 +168,16 @@ class PDFPageViewer {
         }
     }
 
+    showLoading() {
+        const container = this.canvas.parentElement;
+        container.innerHTML = '<div class="pdf-loading">PDFを読み込んでいます</div><canvas id="pdf-canvas"></canvas>';
+        this.canvas = document.getElementById('pdf-canvas');
+        this.ctx = this.canvas.getContext('2d');
+    }
+
     showError(message) {
         const container = this.canvas.parentElement;
-        container.innerHTML = `<div class="pdf-error">${message}</div>`;
+        container.innerHTML = `<div class="pdf-error" style="padding: 2rem; text-align: center; color: #d32f2f;">${message}</div>`;
     }
 }
 
