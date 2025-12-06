@@ -9,11 +9,13 @@ bookHidden: true
 # Capitel II - Die Idealtheorie
 ## 第2章 - イデアル論
 
+**🔊 [音声解説を聴く](https://youtu.be/-xwdSn234hI)**
+
 ### スライド資料
 
 {{< pdf-embed "slides/hilbert/zahlbericht/chapter2.pdf" >}}
 
-<div style="margin-top: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
+<div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
   <ul>
     <li>PDFが表示されない場合は、上のダウンロードボタンからPDFをダウンロードしてご覧ください</li>

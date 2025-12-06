@@ -9,6 +9,8 @@ bookHidden: true
 # Capitel IV - Die Discriminante des Körpers
 ## 第4章 - 判別式と分岐の法則
 
+**🔊 [音声解説を聴く](https://youtu.be/jZ-Ub_pWO0U)**
+
 ### スライド資料
 
 {{< pdf-embed "slides/hilbert/zahlbericht/chapter4.pdf" >}}
@@ -20,14 +22,6 @@ bookHidden: true
     <li>ブラウザによっては、PDFビューアーが自動的に表示されます</li>
   </ul>
 </div>
-
----
-
-### 音声解説
-
-NotebookLMによる音声解説をお聴きいただけます：
-
-📻 [第4章 音声解説を聴く](https://youtu.be/jZ-Ub_pWO0U)
 
 ---
 
