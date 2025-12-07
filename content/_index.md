@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #673AB7; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter7/">ヒルベルト『数論報告』第7章</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="papers/hilbert/zahlbericht/slides/chapter7/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/cOi00TA4U7w" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">イデアル類 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #009688; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter6/">ヒルベルト『数論報告』第6章</a></strong>
     <span style="margin-left: 10px;">
