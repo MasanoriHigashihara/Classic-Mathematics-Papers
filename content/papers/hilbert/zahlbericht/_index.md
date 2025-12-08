@@ -266,8 +266,8 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 <summary>
 <strong>Capitel XI  Die Komposition (Zusammensetzung) der Körper<br>第11章  数体の合成</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter11/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/jmKIzIrc3VQ" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
