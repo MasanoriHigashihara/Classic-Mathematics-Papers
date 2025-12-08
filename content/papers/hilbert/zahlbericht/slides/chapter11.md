@@ -1,6 +1,6 @@
 ---
 title: "Capitel XI - スライド"
-date: 2025-12-09
+date: 2025-12-08
 draft: false
 type: docs
 bookHidden: true
