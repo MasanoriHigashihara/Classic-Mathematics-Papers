@@ -204,8 +204,8 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 <summary>
 <strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  数体の整数環</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter9.pdf" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/g7RBQPtL59w" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
