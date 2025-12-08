@@ -18,7 +18,7 @@ bookHidden: true
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説(NotebookLM)</p>
+  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説（NotebookLM）</p>
 </div>
 
 ### スライド資料
