@@ -308,6 +308,10 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 根号による方程式解の可能性  
 （可解ガロア群と solvable の概念）
 
+**§50** Der Zerlegungssatz in Idealen  
+イデアルの分解定理  
+（例：$\mathfrak{p} \mathcal{O}_K = \prod \mathfrak{P}_i^{e_i}$）
+
 </details>
 
 <details>
@@ -319,19 +323,12 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 </span>
 </summary>
 
-**§50** Der Zerlegungssatz in Idealen  
-イデアルの分解定理  
-（例：$\mathfrak{p} \mathcal{O}_K = \prod \mathfrak{P}_i^{e_i}$）
-
 **§51** Trägheitsgesetz und Frobenius-Element  
 慣性指数とフロベニウス元  
 （例：$\mathrm{Frob}_\mathfrak{p}$）
 
 **§52** Unverzweigte Ideale in galoisschen Erweiterungen  
 ガロア拡大における非分岐イデアル
-
-**§53** Die Darstellung der absoluten Erweiterungen  
-絶対拡大の記述
 
 </details>
 
@@ -348,6 +345,9 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
+
+**§53** Die Darstellung der absoluten Erweiterungen  
+絶対拡大の記述
 
 **§54** Der reelle quadratische Körper und seine Zahlen  
 実二次数体およびその整数  
