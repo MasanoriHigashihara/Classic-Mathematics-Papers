@@ -3,7 +3,6 @@ title: "Capitel XV - スライド"
 date: 2025-12-10
 draft: false
 type: docs
-bookHidden: true
 ---
 
 # Capitel XV - Der relativ cyklische Körper vom Primzahlgrade

@@ -24,7 +24,7 @@ type: docs
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter14.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
       <a href="https://youtu.be/qyZn4K8waP8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
     </span><br>
-    <span style="color: #666; font-size: 0.9em;">実二次数体 - スライドと音声解説</span>
+    <span style="color: #666; font-size: 0.9em;">第1次素イデアルと類の概念 - スライドと音声解説</span>
   </div>
   <div style="padding: 15px; border-left: 4px solid #FFC107; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter13/">ヒルベルト『数論報告』第13章</a></strong>
