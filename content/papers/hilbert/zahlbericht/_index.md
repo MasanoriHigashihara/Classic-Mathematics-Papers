@@ -334,76 +334,80 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 
 ---
 
-## **Dritter Teil    Quadratische Körper**
-## **第三部    二次数体**
-
 <details>
 <summary>
-<strong>Capitel XIV  Der reelle quadratische Körper<br>第14章  実二次数体</strong>
+<strong>Capitel XIV  Die Primideale ersten Grades und der Klassenbegriff<br>第14章  第1次素イデアルと類の概念</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter14/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/qyZn4K8waP8" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§53** Die Darstellung der absoluten Erweiterungen  
-絶対拡大の記述
-
-**§54** Der reelle quadratische Körper und seine Zahlen  
-実二次数体およびその整数  
-（例：$K = \mathbb{Q}(\sqrt{d}),\ d > 0$）
-
-**§55** Die Grundeinheit des reellen quadratischen Körpers  
-実二次数体の基本単元  
-（例：Pell 方程式との関係）
-
-**§56** Die Klassenzahl des reellen quadratischen Körpers  
-実二次数体の類数
-
-**§57** Fortsetzung: Klassenzahlabschätzungen  
-類数の評価式、上界・下界  
-（例：$\log \epsilon$ やレギュレーターの寄与）
-
-**§58** Zusammensetzung der Formen und die Klassenzahl  
-二次形式の合成と類数の関係  
-（Gauss の形式論との接続）
+**§53** Die Erzeugung der Idealklassen durch Primideale ersten Grades  
+第1次素イデアルによるイデアル類の生成
 
 </details>
 
 <details>
 <summary>
-<strong>Capitel XV  Der imaginär quadratische Körper<br>第15章  虚二次数体</strong>
+<strong>Capitel XV  Der relativ cyklische Körper vom Primzahlgrade<br>第15章  素数次相対巡回体</strong>
 <span style="margin-left: 10px;">
-<a href="slides/chapter15/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§54** Die symbolische Potenz. Der Satz von den Zahlen mit der Relativnorm 1  
+記号的べき乗・相対ノルム1を持つ数の定理
+
+**§55** Das System von relativen Grundeinheiten und der Nachweis ihrer Existenz  
+相対基本単元系とその存在証明
+
+**§56** Die Existenz einer Einheit in K, welche die Relativnorm 1 besitzt  
+相対ノルム1を持つ単元の存在
+
+**§57** Die ambigen Ideale und die Relativdifferente des relativ-cyklischen Körpers K  
+両義的イデアルと相対巡回体の相対ディフェレント
+
+**§58** Der Fundamentalsatz von den relativ-cyklischen Körpern mit der Relativdifferente 1  
+相対ディフェレント1を持つ相対巡回体の基本定理・類体としての特徴付け
+
+</details>
+
+---
+
+## **Dritter Teil    Der quadratische Zahlkörper**
+## **第三部    二次数体**
+
+<details>
+<summary>
+<strong>Capitel XVI  Die Zerlegung der Zahlen im quadratischen Körper<br>第16章  二次数体における数の分解</strong>
+<span style="margin-left: 10px;">
+<a href="slides/chapter16/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/07u1mria_O0" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§59** Der imaginär quadratische Körper und seine Zahlen  
-虚二次数体（$d < 0$）  
-（例：$K = \mathbb{Q}(\sqrt{-d})$）
+**§59** Die Basis und die Discriminante des quadratischen Körpers  
+二次数体の基底と判別式
 
-**§60** Die Klassenzahl des imaginär quadratischen Körpers  
-虚二次数体の類数  
-（例：$h(-d)$）
+**§60** Die Zerlegung der Primzahlen  
+素数の分解
 
-**§61** Die Einheiten des imaginär quadratischen Körpers  
-虚二次数体の単元  
-（$\mathcal{O}_K^\times = \{\pm 1\}$ except for $d=1,3$）
+**§61** Die Einheiten des quadratischen Körpers  
+二次数体の単元
 
-**§62** Die Zahl der Diskriminanten mit gegebener Klassenzahl  
-類数が一定値をもつ判別式の個数  
-（いわゆる「類数1」問題の古典形）
+**§62** Die Klassenzahl  
+類数
 
-**§63** Die komplexen Multiplikationen und die Bildung der Klassenkörper  
-複素乗法（CM）と類体の生成  
-（Kronecker の Jugendtraum へ接続）
+**§63** Die Geschlechter der Idealklassen  
+イデアル類の種
 
 </details>
 
 <details>
 <summary>
-<strong>Capitel XVI  Weiteres über die quadratischen Formen<br>第16章  二次形式のさらに詳細</strong>
+<strong>Capitel XVII  Weiteres über die quadratischen Formen<br>第17章  二次形式のさらに詳細</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
@@ -423,6 +427,11 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 二次形式による類数の解析
 
 </details>
+
+---
+
+## **Vierter Teil    Der Kreiskörper**
+## **第四部    円分体**
 
 ---
 

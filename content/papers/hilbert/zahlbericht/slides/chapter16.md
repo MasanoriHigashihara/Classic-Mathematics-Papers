@@ -1,13 +1,13 @@
 ---
-title: "Capitel XV - スライド"
+title: "Capitel XVI - スライド"
 date: 2025-12-10
 draft: false
 type: docs
 bookHidden: true
 ---
 
-# Capitel XV - Der imaginär quadratische Körper
-## 第15章 - 虚二次数体
+# Capitel XVI - Die Zerlegung der Zahlen im quadratischen Körper
+## 第16章 - 二次数体における数の分解
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/chapter15.pdf" >}}
+{{< pdf-embed "slides/hilbert/zahlbericht/chapter16.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
@@ -36,8 +36,8 @@ bookHidden: true
 ---
 
 **内容:**
-- §59 Der imaginär quadratische Körper und seine Zahlen（虚二次数体およびその整数）
-- §60 Die Klassenzahl des imaginär quadratischen Körpers（虚二次数体の類数）
-- §61 Die Einheiten des imaginär quadratischen Körpers（虚二次数体の単元）
-- §62 Die Zahl der Diskriminanten mit gegebener Klassenzahl（類数が一定値をもつ判別式の個数）
-- §63 Die komplexen Multiplikationen und die Bildung der Klassenkörper（複素乗法と類体の生成）
+- §59 Die Basis und die Discriminante des quadratischen Körpers（二次数体の基底と判別式）
+- §60 Die Zerlegung der Primzahlen（素数の分解）
+- §61 Die Einheiten des quadratischen Körpers（二次数体の単元）
+- §62 Die Klassenzahl（類数）
+- §63 Die Geschlechter der Idealklassen（イデアル類の種）

@@ -6,8 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# Capitel XIV - Der reelle quadratische Körper
-## 第14章 - 実二次数体
+# Capitel XIV - Die Primideale ersten Grades und der Klassenbegriff
+## 第14章 - 第1次素イデアルと類の概念
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -36,9 +36,4 @@ bookHidden: true
 ---
 
 **内容:**
-- §53 Die Darstellung der absoluten Erweiterungen（絶対拡大の記述）
-- §54 Der reelle quadratische Körper und seine Zahlen（実二次数体およびその整数）
-- §55 Die Grundeinheit des reellen quadratischen Körpers（実二次数体の基本単元）
-- §56 Die Klassenzahl des reellen quadratischen Körpers（実二次数体の類数）
-- §57 Fortsetzung: Klassenzahlabschätzungen（類数の評価式、上界・下界）
-- §58 Zusammensetzung der Formen und die Klassenzahl（二次形式の合成と類数の関係）
+- §53 Die Erzeugung der Idealklassen durch Primideale ersten Grades（第1次素イデアルによるイデアル類の生成）
