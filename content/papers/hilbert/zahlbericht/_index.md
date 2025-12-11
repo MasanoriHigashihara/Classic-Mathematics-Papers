@@ -384,7 +384,7 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 <strong>Capitel XVI  Die Zerlegung der Zahlen im quadratischen Körper<br>第16章  二次数体における数の分解</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter16/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/07u1mria_O0" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/hA0QWkQVD4Y" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
