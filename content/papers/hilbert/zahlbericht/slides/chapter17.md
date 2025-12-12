@@ -1,19 +1,19 @@
 ---
-title: "Capitel XVI - スライド"
-date: 2025-12-11
+title: "Capitel XVII - スライド"
+date: 2025-12-12
 draft: false
 type: docs
 bookHidden: true
 ---
 
-# Capitel XVI - Die Zerlegung der Zahlen im quadratischen Körper
-## 第16章 - 二次数体における数の分解
+# Capitel XVII - Die Geschlechter im quadratischen Körper und ihre Charaktersysteme
+## 第17章 - 二次数体における種とその指標系
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/hA0QWkQVD4Y" 
+    src="https://www.youtube.com/embed/LT2gRKnQIDQ" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/chapter16.pdf" >}}
+{{< pdf-embed "slides/hilbert/zahlbericht/chapter17.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
@@ -36,8 +36,7 @@ bookHidden: true
 ---
 
 **内容:**
-- §59 Die Basis und die Discriminante des quadratischen Körpers（二次数体の基底と判別式）
-- §60 Die Zerlegung der Primzahlen（素数の分解）
-- §61 Die Einheiten des quadratischen Körpers（二次数体の単元）
-- §62 Die Klassenzahl（類数）
-- §63 Die Geschlechter der Idealklassen（イデアル類の種）
+- §64 Das Symbol $\left(\frac{n,m}{\omega}\right)$（記号）
+- §65 Die Geschlechtscharaktere（種指標）
+- §66 Die Anzahl der Geschlechter（種の個数）
+- §67 Der Zusammenhang mit den Formen（形式との関連）

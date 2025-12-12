@@ -407,24 +407,24 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 
 <details>
 <summary>
-<strong>Capitel XVII  Weiteres über die quadratischen Formen<br>第17章  二次形式のさらに詳細</strong>
+<strong>Capitel XVII  Die Geschlechter im quadratischen Körper und ihre Charaktersysteme<br>第17章  二次数体における種とその指標系</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter17/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/LT2gRKnQIDQ" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§64** Theorie der reduzierten Formen  
-縮小二次形式の理論（Gauss の縮小法）
+**§64** Das Symbol $\left(\frac{n,m}{\omega}\right)$  
+記号（ヒルベルト記号の原型）
 
-**§65** Der Zusammenhang der Formen mit dem Körper  
-二次形式と数体の対応（Gauss–Dedekindの対応）
+**§65** Die Geschlechtscharaktere  
+種指標
 
-**§66** Die Zusammensetzung der Formen  
-形式の合成律（Gauss の構成則）
+**§66** Die Anzahl der Geschlechter  
+種の個数
 
-**§67** Anwendungen auf die Klassenzahl des Körpers  
-二次形式による類数の解析
+**§67** Der Zusammenhang mit den Formen  
+形式との関連
 
 </details>
 
@@ -433,14 +433,9 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 ## **Vierter Teil    Der Kreiskörper**
 ## **第四部    円分体**
 
----
-
-## **Vierter Teil    Der Kreiskörper**
-## **第四部    円分体**
-
 <details>
 <summary>
-<strong>Capitel XVII  Der Kreiskörper und seine Diskriminante<br>第17章  円分体とその判別式</strong>
+<strong>Capitel XVIII  Der Kreiskörper und seine Diskriminante<br>第18章  円分体とその判別式</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
