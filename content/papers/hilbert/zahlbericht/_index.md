@@ -604,37 +604,45 @@ m 次単位根の円分体の群
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
 <details>
 <summary>
-<strong>Capitel XXIV  Die Theorie der Idealzahlen<br>第24章  イデアル数の理論</strong>
+<strong>Capitel XXIV  Die Wurzelzahlen des Kreiskörpers der lten Einheitswurzeln<br>第24章  l 次単位根の円分体の根数</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§98** Einleitung in die Idealzahlentheorie  
-イデアル数理論への導入（Kummer の原型）
+**§105** Die Definition und Existenz der Normalbasis  
+正規基底の定義と存在
 
-**§99** Darstellung durch Faktoren der Größen  
-大きさの因子による表現  
-（理想数＝"ideal factors" の概念）
+**§106** Der Abel'sche Körper vom Primzahlgrade l und von der Discriminante p^{l−1}. Die Wurzelzahlen dieses Körpers  
+素数次数 l をもち、判別式 p^{l−1} をもつアーベル体。この体の根数
 
-**§100** Definition der Idealzahlen  
-理想数の定義
+**§107** Die charakteristischen Eigenschaften der Wurzelzahlen  
+根数の特徴的性質
 
-**§101** Die Verknüpfung der Idealzahlen  
-理想数の結合・積構造
+**§108** Die Zerlegung der lten Potenz einer Wurzelzahl im Körper der lten Einheitswurzeln  
+l 次単位根の体における、ある根数の l 乗の分解
 
-**§102** Anwendungen auf die Klassenkörperbildung  
-類体生成への応用
+**§109** Eine Aequivalenz für die Primideale ersten Grades des Körpers der lten Einheitswurzeln  
+l 次単位根の体の一次素イデアルに対するある同値性
+
+**§110** Die Construction sämmtlicher Normalbasen und Wurzelzahlen  
+すべての正規基底と根数の構成
+
+**§111** Die Lagrange'sche Normalbasis und die Lagrange'sche Wurzelzahl  
+ラグランジュの正規基底とラグランジュの根数
+
+**§112** Die charakteristischen Eigenschaften der Lagrange'schen Wurzelzahl  
+ラグランジュの根数の特徴的性質
 
 </details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
 
 <details>
 <summary>
