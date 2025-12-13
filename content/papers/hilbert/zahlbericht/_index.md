@@ -160,29 +160,29 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§22** Idealklasse; Endlichkeit der Anzahl der Idealklassen  
-イデアル類と類数有限性
+**§22** Die Idealklasse. Die Endlichkeit der Anzahl der Idealklassen  
+イデアル類。イデアル類の個数の有限性
 
-**§23** Anwendungen  
-応用
+**§23** Anwendungen des Satzes von der Endlichkeit der Klassenzahl  
+類数の有限性定理の応用
 
-**§24** Aufstellung des Systems der Idealklassen  
-類体系の構成
+**§24** Aufstellung des Systems der Idealklassen. Engere Fassung des Klassenbegriffes  
+イデアル類の体系の構成。類概念のより狭い定式化
 
-**§25** Hilfssatz über die asymptotische Anzahl der Hauptideale  
-主イデアルの漸近個数
+**§25** Ein Hilfssatz über den asymptotischen Werth der Anzahl aller Hauptideale, welche durch ein festes Ideal theilbar sind  
+固定したイデアルで割り切れるすべての主イデアルの個数の漸近値に関する補助定理
 
-**§26** Bestimmung der Klassenzahl durch das Residuum der Funktion $\zeta(s)$ bei $s=1$  
-$\zeta(s)$ の $s=1$ における留数 → 類数決定
+**§26** Die Bestimmung der Klassenzahl durch das Residuum der Function ζ(s) für s = 1  
+s = 1 における関数 ζ(s) の留数による類数の決定
 
-**§27** Unendliche Entwicklungen der Funktion $\zeta(s)$  
-ゼータ関数の展開
+**§27** Andere unendliche Entwickelungen der Function ζ(s)  
+関数 ζ(s) の他の無限展開
 
-**§28** Zusammensetzung der Idealklassen  
-イデアル類の構成
+**§28** Die Zusammensetzung der Idealklassen eines Körpers  
+ある体のイデアル類の合成
 
-**§29** Charaktere der Idealklassen; Verallgemeinerung der $\zeta(s)$  
-ゼータの一般化・キャラクター
+**§29** Die Charaktere einer Idealklasse. Eine Verallgemeinerung der Function ζ(s)  
+イデアル類の指標（キャラクター）。関数 ζ(s) の一般化
 
 </details>
 
