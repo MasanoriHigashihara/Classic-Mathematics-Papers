@@ -114,14 +114,14 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§14** Relativnorm, Relativdifferente, Relativdiscriminante  
-相対ノルム・相対ディフェレント・相対判別式（例：$N_{L/K}$）
+**§14** Die Relativnorm, die Relativdifferente und die Relativdiscriminante  
+相対ノルム・相対ディファレント・相対判別式
 
-**§15** Eigenschaften der Relativdifferente und der Relativdiscriminante  
-性質
+**§15** Eigenschaften der Relativdifferente und der Relativdiscriminante eines Körpers  
+ある体の相対ディファレントと相対判別式の性質
 
-**§16** Zerlegung eines Elementes in den Oberkörper $K$; Der Satz von der Differente des Oberkörpers $K$  
-上位体 $K$ への分解、ディフェレント定理
+**§16** Die Zerlegung eines Elementes des Körpers k im Oberkörper K. Der Satz von der Differente des Oberkörpers K  
+上位体 K における体 k の元の分解。上位体 K のディファレントに関する定理
 
 </details>
 
