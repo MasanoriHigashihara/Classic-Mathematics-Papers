@@ -575,34 +575,39 @@ m 次単位根の円分体。この体の次数・判別式・素イデアル
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
 <details>
 <summary>
-<strong>Capitel XXIII  Die Bildung der Klassenkörper bei den Kummerschen Körpern<br>第23章  クンマー体における類体生成</strong>
+<strong>Capitel XXIII  Der Kreiskörper in seiner Eigenschaft als Abel'scher Körper<br>第23章  アーベル体としての円分体</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§94** Hilfskörper und ihre Konstruktion  
-補助体の構成
+**§99** Die Gruppe des Kreiskörpers der mten Einheitswurzeln  
+m 次単位根の円分体の群
 
-**§95** Bildung des Klassenkörpers  
-類体の生成
+**§100** Der allgemeine Begriff des Kreiskörpers. Der Fundamentalsatz über die Abel'schen Körper  
+円分体の一般概念。アーベル体に関する基本定理
 
-**§96** Die Bedeutung der $p$-Potenzreste  
-$p$ 乗剰余の意義  
-（Kummer の不正則素数へ接続）
+**§101** Ein allgemeiner Hilfssatz über cyklische Körper  
+巡回体に関する一般補助定理
 
-**§97** Zusammenhang mit den Idealzahlen  
-理想数との関係（Kummer ideal numbers）
+**§102** Von gewissen Primzahlen in der Discriminante eines cyklischen Körpers vom Grade u^h  
+次数 u^h の巡回体の判別式に現れるある種の素数について
+
+**§103** Der cyklische Körper vom Grade u, dessen Discriminante nur u enthält, und die cyklischen Körper vom Grade u^h und z^h, in denen U₁ bez. Π₁ als Unterkörper enthalten ist  
+判別式が u のみを含む次数 u の巡回体、および U₁ あるいは Π₁ を部分体として含む次数 u^h と z^h の巡回体
+
+**§104** Beweis des Fundamentalsatzes über Abel'sche Körper  
+アーベル体に関する基本定理の証明
 
 </details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
 
 <details>
 <summary>
