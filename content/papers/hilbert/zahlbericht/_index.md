@@ -274,25 +274,18 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XI  Die Komposition (Zusammensetzung) der Körper<br>第11章  数体の合成</strong>
+<strong>Capitel XI  Die Differenten und Discriminanten des Galois'schen Körpers und seiner Unterkörper<br>第11章  ガロア数体とその部分体のディファレントおよび判別式</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter11/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/jmKIzIrc3VQ" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§42** Die Komposition zweier Körper  
-2つの数体の合成（例：$KL$）
+**§46** Die Differenten des Trägheitskörpers und der Verzweigungskörper  
+惰性体と分岐体のディファレント
 
-**§43** Eigenschaften des Kompositums  
-合成体の性質（次数、判別式、分岐など）
-
-**§44** Die Komposition beliebig vieler Körper  
-任意個の数体の合成
-
-**§45** Anwendungen auf die Galoisschen Körper  
-ガロア体への応用  
-（例：ガロア群が積構造を持つ場合など）
+**§47** Die Teiler der Discriminante des Galois'schen Körpers  
+ガロア数体の判別式の約数
 
 </details>
 
