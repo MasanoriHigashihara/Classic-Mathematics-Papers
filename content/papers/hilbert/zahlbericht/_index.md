@@ -685,29 +685,30 @@ m 次単位根の円分体における類数の表式
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
 <details>
 <summary>
-<strong>Capitel XXVII  Schluss und Übersicht<br>第27章  結論と総覧</strong>
+<strong>Capitel XXVII  Anwendungen der Theorie des Kreiskörpers auf den quadratischen Körper<br>第27章  円分体の理論の二次数体への応用</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§112** Übersicht der behandelten Körpertheorien  
-本書で扱った体の理論の総覧  
-（一般数体 → ガロア体 → 二次数体 → 円分体 → クンマー体）
+**§121** Die Erzeugung der Einheiten des reellen quadratischen Körpers aus Kreiseinheiten  
+円分単元から実二次数体の単元を生成すること
 
-**§113** Zusammenhang zwischen den verschiedenen Theorien  
-各理論の相互関係（類体論の祖形）
+**§122** Das Reciprocitätsgesetz für quadratische Reste  
+二次剰余に関する相互法則
 
-**§114** Ausblick auf weitere Forschungen  
-今後の研究への展望  
-（Hilbert の Zahlbericht らしい締め）
+**§123** Der imaginäre quadratische Körper mit einer Primzahldiscriminante  
+素数判別式をもつ虚二次数体
+
+**§124** Die Bestimmung des Vorzeichens der Gauss'schen Summe  
+ガウス和の符号の決定
 
 </details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
