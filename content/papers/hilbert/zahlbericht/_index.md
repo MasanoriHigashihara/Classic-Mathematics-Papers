@@ -311,19 +311,18 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XIII  Die Darstellung der Galoisschen Theorie in der Idealtheorie<br>第13章  イデアル論によるガロア理論</strong>
+<strong>Capitel XIII  Die Zusammensetzung der Zahlkörper<br>第13章  数体の合成</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter13/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/qCqkRkTyMwE" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§51** Trägheitsgesetz und Frobenius-Element  
-慣性指数とフロベニウス元  
-（例：$\mathrm{Frob}_\mathfrak{p}$）
+**§51** Der aus einem Körper und dessen conjugirten zusammengesetzte Galois'sche Körper  
+ある体とその共役体から合成されるガロア体
 
-**§52** Unverzweigte Ideale in galoisschen Erweiterungen  
-ガロア拡大における非分岐イデアル
+**§52** Die Zusammensetzung zweier Körper, deren Discriminanten zu einander prim sind  
+判別式が互いに素である二つの体の合成
 
 </details>
 
