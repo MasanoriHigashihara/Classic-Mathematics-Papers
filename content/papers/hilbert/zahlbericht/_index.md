@@ -202,27 +202,27 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  数体の整数環</strong>
+<strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  体の数環</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter9/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/g7RBQPtL59w" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§31** Zahlring; Ringideal und Eigenschaften  
-整数環・環イデアル
+**§31** Der Zahlring. Das Ringideal und seine wichtigsten Eigenschaften  
+数環。環イデアルとその主要な性質
 
-**§32** Durch eine Zahl bestimmte Ringe; Differente-Satz  
-整数で定まる環・ディフェレント定理
+**§32** Die durch eine ganze Zahl bestimmten Ringe. Der Satz von der Differente einer ganzen Zahl des Körpers  
+ある整数によって定まる環。体の代数的整数のディファレントに関する定理
 
-**§33** Reguläre Ringideale und Teilbarkeitssätze  
-正則環イデアル・可除性
+**§33** Die regulären Ringideale und ihre Theilbarkeitsgesetze  
+正則環イデアルとその整除法則
 
-**§34** Ergänzungen des Ringes; Ringklassen  
-環の補充・環類
+**§34** Die Einheiten eines Ringes. Die Ringklassen  
+環の単元。環類
 
-**§35** Modul und Modulusklasse  
-モジュルとモジュル類
+**§35** Der Modul und die Modulklasse  
+モジュールとモジュール類
 
 </details>
 
