@@ -549,38 +549,36 @@ l と異なる有理素数の、l 次単位根の円分体における分解
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
 <details>
 <summary>
-<strong>Capitel XXII  Die Kummerschen Körper<br>第22章  クンマー体</strong>
+<strong>Capitel XXII  Die Einheitswurzeln für einen zusammengesetzten Wurzelexponenten m und der durch sie bestimmte Kreiskörper<br>第22章  合成数の根指数 m に対する単位根と、それによって定まる円分体</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§89** Der Kummersche Körper $K = \mathbb{Q}(\zeta_p, \sqrt[p]{\alpha})$  
-クンマー体の定義  
-（円分体に $p$ 乗根を付加した拡大）
+**§94** Der Kreiskörper der mten Einheitswurzeln  
+m 次単位根の円分体
 
-**§90** Die ideale Darstellung im Kummerschen Körper  
-クンマー体のイデアル表示
+**§95** Der Grad des Kreiskörpers der l^t ten Einheitswurzeln und die Zerlegung der Primzahl l in diesem Körper  
+l^t 次単位根の円分体の次数と、この体における素数 l の分解
 
-**§91** Die Diskriminante des Kummerschen Körpers  
-クンマー体の判別式
+**§96** Die Basis und die Discriminante des Kreiskörpers der l^t ten Einheitswurzeln  
+l^t 次単位根の円分体の基底と判別式
 
-**§92** Die Zerlegung der Primideale  
-素イデアルの分解  
-（例：$p$ による分岐・指数）
+**§97** Der Kreiskörper der mten Einheitswurzeln. Der Grad, die Discriminante und die Primideale dieses Körpers  
+m 次単位根の円分体。この体の次数・判別式・素イデアル
 
-**§93** Der Zusammenhang mit den Kreiskörpern  
-円分体との関係（Kummer vs Cyclotomic）
+**§98** Die Einheiten des Kreiskörpers k(e^{2πi/m}). Die Definition der Kreiseinheiten  
+円分体 k(e^{2πi/m}) の単元。円分単元（Kreiseinheiten）の定義
 
 </details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
 
 <details>
 <summary>
