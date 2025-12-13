@@ -912,3 +912,89 @@ m 次単位根の円分体における類数の表式
 正則クンマー体の数の相対ノルムに関する定理
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXXV  Neue Begründung der Theorie des regulären Kummer'schen Körpers<br>第35章  正則クンマー体の理論の新しい基礎づけ</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§166** Die wesentlichen Eigenschaften der Einheiten des regulären Kreiskörpers  
+正則円分体の単元の本質的性質
+
+**§167** Beweis einer Eigenschaft für die Primärzahlen von Primidealen der zweiten Art  
+第二種の素イデアルに対する一次数（Primärzahlen）のある性質の証明
+
+**§168** Beweis des Reciprocitätsgesetzes für die Fälle, dass eines der beiden Primideale von der zweiten Art ist  
+二つの素イデアルのうち一方が第二種である場合の相互法則の証明
+
+**§169** Ein Hülfsatz über das Product, wo alle von verschiedenen Primideale durchläuft  
+積に関する補助定理。ここではと異なるすべての素イデアルを走る
+
+**§170** Das Symbol und das Reciprocitätsgesetz zwischen zwei beliebigen Primidealen  
+記号と、任意の二つの素イデアルの間の相互法則
+
+**§171** Uebereinstimmung des Symbols mit dem Symbol  
+記号が記号と一致すること
+
+</details>
+
+<details>
+<summary>
+<strong>Capitel XXXVI  Die Diophantische Gleichung<br>第36章  ディオファントス方程式</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§172** Die Unmöglichkeit der Diophantischen Gleichung für reguläre Primzahlexponenten  
+正則素数指数に対するディオファントス方程式の不可能性
+
+**§173** Weitere Untersuchungen über die Unmöglichkeit der Diophantischen Gleichung  
+ディオファントス方程式の不可能性に関するさらなる研究
+
+</details>
+
+---
+
+## **付録 / Anhang**
+
+<details>
+<summary>
+<strong>Verzeichniss der Litteratur<br>文献目録</strong>
+</summary>
+
+ヒルベルト『数論報告』で引用された文献の一覧
+
+</details>
+
+<details>
+<summary>
+<strong>Druckfehler, Berichtigungen und Zusätze<br>誤植・訂正・補遺</strong>
+</summary>
+
+原著における誤植の訂正と補足事項
+
+</details>
+
+<details>
+<summary>
+<strong>Verzeichniss der Sätze und Hülfsätze<br>定理および補助定理の目録</strong>
+</summary>
+
+本書で扱われた定理と補助定理の索引
+
+</details>
+
+<details>
+<summary>
+<strong>Verzeichniss der Begriffsnamen<br>用語索引</strong>
+</summary>
+
+本書で使用された数学用語の索引
+
+</details>
