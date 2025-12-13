@@ -810,3 +810,47 @@ m 次単位根の円分体における類数の表式
 正則円分体における「一次（primär）数」の概念
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXXII  Die ambigen Idealklassen und die Geschlechter im regulären Kummer'schen Körper<br>第32章  正則クンマー体における両義的イデアル類と種（ジェシュレヒト）</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§143** Der Begriff der Einheitenschar im regulären Kreiskörper  
+正則円分体における単元族（Einheitenschar）の概念
+
+**§144** Die ambigen Ideale und die ambigen Idealklassen eines regulären Kummer'schen Körpers  
+正則クンマー体の両義的イデアルと両義的イデアル類
+
+**§145** Der Begriff der Klassenschar im regulären Kummer'schen Körper  
+正則クンマー体における類族（Klassenschar）の概念
+
+**§146** Zwei allgemeine Hilfssätze über die relativen Grundeinheiten eines relativ-cyklischen Körpers von ungeradem Primzahlgrade  
+奇素数次数の相対巡回体における相対基本単元についての、二つの一般補助定理
+
+**§147** Die durch ambige Ideale bestimmten Idealklassen  
+両義的イデアルによって定まるイデアル類
+
+**§148** Die sämtlichen ambigen Idealklassen  
+すべての両義的イデアル類
+
+**§149** Das Charaktersystem einer Zahl und eines Ideals im regulären Kummer'schen Körper  
+正則クンマー体における数とイデアルの指標体系
+
+**§150** Das Charaktersystem einer Idealklasse und der Begriff des Geschlechtes  
+イデアル類の指標体系と、種（ジェシュレヒト）の概念
+
+**§151** Obere Grenze für den Grad der aus sämtlichen ambigen Klassen bestehenden Klassenschar  
+すべての両義的類から成る類族の次数に対する上界
+
+**§152** Die Complexe des regulären Kummer'schen Körpers  
+正則クンマー体のコンプレックス（複合体／Complexe）
+
+**§153** Obere Grenze für die Anzahl der Geschlechter in einem regulären Kummer'schen Körper  
+正則クンマー体における種（ジェシュレヒト）の個数に対する上界
+
+</details>
