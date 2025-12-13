@@ -491,31 +491,6 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XVIII  Die Klassen des Kreiskörpers<br>第18章  円分体のイデアル類</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
-</summary>
-
-**§73** Die Klassenzahl des Kreiskörpers  
-円分体の類数 $h_K$
-
-**§74** Zusammensetzung des Klassenzahlsystems  
-類数の構成・分解
-
-**§75** Die Einheiten des Kreiskörpers  
-円分体の単元  
-（例：cyclotomic units）
-
-**§76** Der Zusammenhang zwischen Einheiten und Klassen  
-単元と類数の関係  
-（レギュレーターとの関係）
-
-</details>
-
-<details>
-<summary>
 <strong>Capitel XIX  Die Kreiskörper der 1. und 2. Stufe<br>第19章  第1階・第2階の円分体</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
