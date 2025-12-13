@@ -659,42 +659,6 @@ l 次単位根の体の一次素イデアルに対するある同値性
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
-<details>
-<summary>
-<strong>Capitel XXVI  Das Fermat'sche Problem<br>第26章  フェルマーの問題（Fermat 方程式）</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
-</summary>
-
-**§107** Darstellung des Fermat'schen Problems  
-フェルマー問題の設定  
-（$x^p + y^p = z^p$）
-
-**§108** Die Bedeutung der unregulären Primzahlen  
-不正則素数の影響  
-（$p$ 正則 → FLT がクンマー理論で成立）
-
-**§109** Die Zerlegung in Idealzahlen  
-理想数による分解  
-（$x + y = z$ 型のイデアル分解）
-
-**§110** Kummer's Reduktionsmethoden  
-クンマーの還元法
-
-**§111** Weitere Konsequenzen für das Fermat'sche Problem  
-FLT へのさらなる帰結  
-（現代の「Kummer 正則素数の場合の証明」）
-
-</details>
-
-<details>
 <summary>
 <strong>Capitel XXVII  Schluss und Übersicht<br>第27章  結論と総覧</strong>
 <span style="margin-left: 10px;">
