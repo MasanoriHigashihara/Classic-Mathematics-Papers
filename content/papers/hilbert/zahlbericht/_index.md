@@ -484,35 +484,30 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 </details>
 
----
-
-## **Vierter Teil    Der Kreiskörper**
-## **第四部    円分体**
-
 <details>
 <summary>
-<strong>Capitel XIX  Die Kreiskörper der 1. und 2. Stufe<br>第19章  第1階・第2階の円分体</strong>
+<strong>Capitel XIX  Die Bestimmung der Anzahl der Idealklassen des quadratischen Körpers<br>第19章  二次数体のイデアル類の個数の決定</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§77** Kreiskörper 1. Stufe  
-第1階円分体  
-（例：$\mathbb{Q}(\zeta_p)$）
+**§85** Das Symbol für eine zusammengesetzte Zahl n  
+合成数 n に対する記号
 
-**§78** Kreiskörper 2. Stufe  
-第2階円分体  
-（例：$\mathbb{Q}(\zeta_{p^2})$）
+**§86** Der geschlossene Ausdruck für die Anzahl der Idealklassen  
+イデアル類の個数に対する閉形式の表現
 
-**§79** Erweiterungen höherer Stufe  
-高階拡大
-
-**§80** Die Struktur der Galoisschen Gruppe $\mathrm{Gal}(\mathbb{Q}(\zeta_m)/\mathbb{Q})$  
-ガロア群の構造（例：$(\mathbb{Z}/m\mathbb{Z})^\times$）
+**§87** Der Dirichlet'sche quadratische Zahlkörper  
+ディリクレの二次数体
 
 </details>
+
+---
+
+## **Vierter Teil    Der Kreiskörper**
+## **第四部    円分体**
 
 <details>
 <summary>
