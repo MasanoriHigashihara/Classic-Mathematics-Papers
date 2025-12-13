@@ -531,26 +531,21 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XXI  Die Relativkörper des Kreiskörpers<br>第21章  円分体の相対体</strong>
+<strong>Capitel XXI  Die Einheitswurzeln mit Primzahlexponent l und der durch sie bestimmte Kreiskörper<br>第21章  素数指数 l をもつ単位根と、それによって定まる円分体</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§85** Relativkörper innerhalb des Kreiskörpers  
-円分体の部分相対体（中間拡大）
+**§91** Der Grad des Kreiskörpers der lten Einheitswurzeln und die Zerlegung der Primzahl l in diesem Körper  
+l 次単位根の円分体の次数と、この体における素数 l の分解
 
-**§86** Relativdiskriminante und ihre Eigenschaften  
-相対判別式とその性質
+**§92** Die Basis und die Discriminante des Kreiskörpers der lten Einheitswurzeln  
+l 次単位根の円分体の基底と判別式
 
-**§87** Relativklassenkörper und ihre Konstruktion  
-相対類体とその構成
-
-
-**§88** Beispiele und Anwendungen  
-例と応用  
-（円分体を用いた類数計算）
+**§93** Die Zerlegung der von l verschiedenen rationalen Primzahlen im Kreiskörper der lten Einheitswurzeln  
+l と異なる有理素数の、l 次単位根の円分体における分解
 
 </details>
 
