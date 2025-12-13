@@ -240,25 +240,35 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 </span>
 </summary>
 
-**§36** Definition der galoisschen Erweiterung; Die Gruppe des Körpers  
-ガロア拡大の定義、数体のガロア群  
-（例：$G = \mathrm{Gal}(K/L)$）
+**§36** Die eindeutige Zerlegung der Ideale des Galois'schen Körpers in Primideale  
+ガロア数体のイデアルの素イデアルへの一意分解
 
-**§37** Die Unterteilungen des Galoisschen Körpers  
-ガロア体の部分構造・中間体
+**§37** Die Elemente, die Differente und die Discriminante des Galois'schen Körpers  
+ガロア数体の元・ディファレント・判別式
 
-**§38** Die Untergruppen und die Zwischenerweiterungen  
-部分群と中間拡大の対応（基本定理の原型）
+**§38** Die Unterkörper des Galois'schen Körpers  
+ガロア数体の部分体
 
-**§39** Die Theorie der unverzweigten Körper  
-非分岐拡大の理論
+**§39** Der Zerlegungskörper und der Trägheitskörper eines Primideals 𝔓  
+素イデアル 𝔓 の分解体と惰性体
 
-**§40** Die Theorie der vollständig zerlegten Körper  
-完全分解体の理論
+**§40** Ein Satz über den Zerlegungskörper  
+分解体に関する一つの定理
 
-**§41** Der Zerlegungskörper einer Gleichung  
-方程式の分解体  
-（例：多項式 $f(x)$ の分解体）
+**§41** Der Verzweigungskörper eines Primideals 𝔓  
+素イデアル 𝔓 の分岐体
+
+**§42** Ein Satz über den Trägheitskörper  
+惰性体に関する一つの定理
+
+**§43** Sätze über die Verzweigungsgruppe und den Verzweigungskörper  
+分岐群と分岐体に関する諸定理
+
+**§44** Die überschriebene Verzweigungskörper eines Primideals 𝔓  
+素イデアル 𝔓 の「überschriebene」分岐体
+
+**§45** Kurze Zusammenfassung der Sätze über die Zerlegung einer rationalen Primzahl p im Galois'schen Körper  
+ガロア数体における有理素数 p の分解に関する諸定理の簡潔な総括
 
 </details>
 
