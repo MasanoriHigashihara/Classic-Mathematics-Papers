@@ -761,3 +761,52 @@ m 次単位根の円分体における類数の表式
 ノルム剰余とノルム非剰余を区別するための記号
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXX  Das Vorhandensein unendlich vieler Primideale mit vorgeschriebenen Potenzcharakteren im Kummer'schen Körper<br>第30章  クンマー体において、指定された冪指標をもつ素イデアルが無限に多く存在すること</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§134** Der Grenzwerth eines gewissen unendlichen Productes  
+ある無限積の極限値
+
+**§135** Primideale des Kreiskörpers mit vorgeschriebenen Potenzcharakteren  
+指定された冪指標をもつ円分体の素イデアル
+
+</details>
+
+<details>
+<summary>
+<strong>Capitel XXXI  Der reguläre Kreiskörper<br>第31章  正則円分体</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§136** Die Definition des regulären Kreiskörpers, der regulären Primzahl und des regulären Kummer'schen Körpers  
+正則円分体・正則素数・正則クンマー体の定義
+
+**§137** Ein Hilfssatz über die Teilbarkeit des ersten Factors der Klassenanzahl von durch  
+の類数の第一因子がで割り切れることに関する補助定理
+
+**§138** Ein Hilfssatz über die Einheiten des Kreiskörpers für den Fall, dass in den Zählern der ersten Bernoulli'schen Zahlen nicht aufgeht  
+が最初の個のベルヌーイ数の分子を割らない場合に関する、円分体の単元についての補助定理
+
+**§139** Ein Kriterium für die regulären Primzahlen  
+正則素数の判定基準
+
+**§140** Ein besonderes System von unabhängigen Einheiten im regulären Kreiskörper  
+正則円分体における独立単元の特別な体系
+
+**§141** Eine charakteristische Eigenschaft für die Einheiten eines regulären Kreiskörpers  
+正則円分体の単元に対する特徴づけとなる性質
+
+**§142** Der Begriff der primären Zahl im regulären Kreiskörper  
+正則円分体における「一次（primär）数」の概念
+
+</details>
