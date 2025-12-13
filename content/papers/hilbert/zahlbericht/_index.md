@@ -344,7 +344,7 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XV  Der relativ cyklische Körper vom Primzahlgrade<br>第15章  素数次相対巡回体</strong>
+<strong>Capitel XV  Der relativ-cyklische Körper vom Primzahlgrade<br>第15章  素数次数の相対巡回体</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter15/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/07u1mria_O0" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
@@ -352,19 +352,19 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 </summary>
 
 **§54** Die symbolische Potenz. Der Satz von den Zahlen mit der Relativnorm 1  
-記号的べき乗・相対ノルム1を持つ数の定理
+記号的冪。相対ノルム 1 をもつ数に関する定理
 
-**§55** Das System von relativen Grundeinheiten und der Nachweis ihrer Existenz  
-相対基本単元系とその存在証明
+**§55** Das System von relativen Grundeinheiten und der Nachweis ihres Existenz  
+相対基本単元の体系とその存在の証明
 
-**§56** Die Existenz einer Einheit in K, welche die Relativnorm 1 besitzt  
-相対ノルム1を持つ単元の存在
+**§56** Die Existenz einer Einheit in K, welche die Relativnorm 1 besitzt und doch nicht dem Quotienten zweier conjugirter Einheiten gleich wird  
+相対ノルム 1 をもつが、二つの共役単元の商には等しくならない、K における単元の存在
 
-**§57** Die ambigen Ideale und die Relativdifferente des relativ-cyklischen Körpers K  
-両義的イデアルと相対巡回体の相対ディフェレント
+**§57** Das amboige Ideal und die Relativdifferente des relativ-cyklischen Körpers K  
+両側イデアルと相対巡回体 K の相対ディファレント
 
-**§58** Der Fundamentalsatz von den relativ-cyklischen Körpern mit der Relativdifferente 1  
-相対ディフェレント1を持つ相対巡回体の基本定理・類体としての特徴付け
+**§58** Der Fundamentalsatz von den relativ-cyklischen Körpern mit der Relativdifferente. Die Beziehung dieser Körper als Klassenkörper  
+相対ディファレントをもつ相対巡回体に関する基本定理。これらの体を類体として捉える関係
 
 </details>
 
