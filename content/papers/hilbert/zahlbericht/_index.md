@@ -854,3 +854,38 @@ m 次単位根の円分体における類数の表式
 正則クンマー体における種（ジェシュレヒト）の個数に対する上界
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXXIII  Das Reciprocitätsgesetz für te Potenzreste im regulären Kreiskörper<br>第33章  正則円分体における乗剰余の相互法則</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§154** Das Reciprocitätsgesetz für te Potenzreste und die Ergänzungssätze  
+乗剰余の相互法則と補充定理
+
+**§155** Die Primideale erster und zweiter Art im regulären Kreiskörper  
+正則円分体における第一種および第二種の素イデアル
+
+**§156** Hilfssätze über Primideale erster Art im regulären Kreiskörper  
+正則円分体における第一種の素イデアルについての補助定理
+
+**§157** Ein besonderer Fall des Reciprocitätsgesetzes für zwei Primideale  
+二つの素イデアルに対する相互法則の特別な場合
+
+**§158** Das Vorhandensein gewisser Hülfsprimideale, für welche das Reciprocitätsgesetz gilt  
+相互法則が成り立つような、ある種の補助素イデアルの存在
+
+**§159** Beweis des ersten Ergänzungssatzes zum Reciprocitätsgesetz  
+相互法則に対する第一補充定理の証明
+
+**§160** Beweis des Reciprocitätsgesetzes zwischen zwei beliebigen Primidealen  
+任意の二つの素イデアルの間の相互法則の証明
+
+**§161** Beweis des zweiten Ergänzungssatzes zum Reciprocitätsgesetz  
+相互法則に対する第二補充定理の証明
+
+</details>
