@@ -291,29 +291,21 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XII  Galois's Theorie der Gleichungen<br>第12章  ガロアの方程式論</strong>
+<strong>Capitel XII  Die Beziehungen der arithmetischen zu algebraischen Eigenschaften des Galois'schen Körpers<br>第12章  ガロア数体の算術的性質と代数的性質の関係</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter12/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/kHFJ91KwC3w" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§46** Die Fortsetzung des Körpers durch Adjunktion der Wurzel einer Gleichung  
-方程式の根を付加して数体を拡大する（Adjunktion）
+**§48** Der relativ Galois'sche, relativ Abel'sche und der relativ-cyklische Körper  
+相対ガロア体・相対アーベル体・相対巡回体
 
-**§47** Die Darstellung der Galoisschen Gruppe der Gleichung  
-方程式のガロア群の表現と生成系
+**§49** Die algebraischen Eigenschaften des Trägheitskörpers und der Verzweigungskörper. Die Darstellung der Zahlen des Galois'schen Körpers durch Wurzeln im Bereiche des Zerlegungskörpers  
+惰性体と分岐体の代数的性質。分解体の範囲における根によるガロア数体の数の表示
 
-**§48** Die resolventen Gleichungen  
-解冪方程式（分解式）
-
-**§49** Die Lösung der Gleichungen durch Radikale  
-根号による方程式解の可能性  
-（可解ガロア群と solvable の概念）
-
-**§50** Der Zerlegungssatz in Idealen  
-イデアルの分解定理  
-（例：$\mathfrak{p} \mathcal{O}_K = \prod \mathfrak{P}_i^{e_i}$）
+**§50** Die Dichtigkeit der Primideale ersten Grades und der Zusammenhang dieser Dichtigkeit mit den algebraischen Eigenschaften eines Zahlkörpers  
+一次の素イデアルの密度と、この密度と数体の代数的性質との関係
 
 </details>
 
