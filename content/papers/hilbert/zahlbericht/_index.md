@@ -659,6 +659,38 @@ l 次単位根の体の一次素イデアルに対するある同値性
 
 </details>
 
+<details>
+<summary>
+<strong>Capitel XXVI  Die Bestimmung der Anzahl der Idealklassen im Kreiskörper der mten Einheitswurzeln<br>第26章  m 次単位根の円分体におけるイデアル類の個数の決定</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§116** Das Symbol  
+記号
+
+**§117** Die Ausdrücke für die Klassenanzahl im Kreiskörper der mten Einheitswurzeln  
+m 次単位根の円分体における類数の表式
+
+**§118** Die Ableitung der aufgestellten Ausdrücke für die Klassenanzahl des Kreiskörpers  
+円分体の類数について立てた表式の導出
+
+**§119** Das Vorhandensein von unendlich vielen rationalen Primzahlen, welche nach einer gegebenen Zahl einen vorgeschriebenen, zu ihr primen Rest lassen  
+与えられた数に関して、あらかじめ指定された（その数と互いに素な）剰余をとるような有理素数が無限に存在すること
+
+**§120** Die Darstellung sämmtlicher Einheiten des Kreiskörpers durch die Kreiseinheiten  
+円分単元（Kreiseinheiten）による円分体のすべての単元の表示
+
+</details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
+
+<details>
 <summary>
 <strong>Capitel XXVII  Schluss und Übersicht<br>第27章  結論と総覧</strong>
 <span style="margin-left: 10px;">
