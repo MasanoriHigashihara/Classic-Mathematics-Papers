@@ -889,3 +889,26 @@ m 次単位根の円分体における類数の表式
 相互法則に対する第二補充定理の証明
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXXIV  Die Anzahl der vorhandenen Geschlechter im regulären Kummer'schen Körper<br>第34章  正則クンマー体に存在する種（ジェシュレヒト）の個数</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§162** Ein Satz über das Symbol  
+記号に関する一つの定理
+
+**§163** Der Fundamentalsatz über die Geschlechter eines regulären Kummer'schen Körpers  
+正則クンマー体の種（ジェシュレヒト）に関する基本定理
+
+**§164** Die Klassen des Hauptgeschlechtes in einem regulären Kummer'schen Körper  
+正則クンマー体における主種（ハウプトゲシュレヒト）の類
+
+**§165** Der Satz von den Relativnormen der Zahlen eines regulären Kummer'schen Körpers  
+正則クンマー体の数の相対ノルムに関する定理
+
+</details>
