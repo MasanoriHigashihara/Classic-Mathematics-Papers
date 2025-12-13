@@ -431,11 +431,6 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 </details>
 
----
-
-## **Vierter Teil    Der Kreiskörper**
-## **第四部    円分体**
-
 <details>
 <summary>
 <strong>Capitel XVIII  Die Existenz der Geschlechter im quadratischen Körper<br>第18章  二次数体における種（ジェシュレヒト）の存在</strong>
@@ -488,6 +483,11 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 新しい類概念および種概念に対する基本定理
 
 </details>
+
+---
+
+## **Vierter Teil    Der Kreiskörper**
+## **第四部    円分体**
 
 <details>
 <summary>
