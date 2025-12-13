@@ -134,20 +134,20 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§17** Existenz conjungierter Zahlen mit bestimmten Ungleichungen  
-特定の不等式を満たす共役数の存在
+**§17** Die Existenz conjugirter Zahlen, deren absolute Beträge gewissen Ungleichungen genügen  
+絶対値がある不等式を満たす共役数の存在
 
-**§18** Über die absolute Größe der Körperdiscriminante  
-判別式絶対値の評価
+**§18** Sätze über die absolute Grösse der Körperdiscriminante  
+体の判別式の絶対的な大きさに関する定理
 
-**§19** Existenzsatz der Einheiten; Hilfssatz  
-単元存在定理
+**§19** Der Satz von der Existenz der Einheiten eines Körpers. Ein Hilfssatz über die Existenz einer Einheit von besonderer Eigenschaft  
+体の単元の存在定理。特別な性質をもつ単元の存在に関する補助定理
 
-**§20** Beweis des Existenzsatzes  
-証明
+**§20** Beweis des Satzes von der Existenz der Einheiten  
+単元の存在定理の証明
 
-**§21** Grundeinheiten; Regulator; unabhängiges Einheitensystem  
-基本単元・レギュレーター・独立単元系（例：$R_K$）
+**§21** Die Grundeinheiten. Der Regulator des Körpers. Ein System von unabhängigen Einheiten  
+基本単元。体のレギュレータ。独立な単元系
 
 </details>
 
