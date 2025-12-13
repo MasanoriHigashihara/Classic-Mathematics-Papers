@@ -504,35 +504,30 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 </details>
 
----
-
-## **Vierter Teil    Der Kreiskörper**
-## **第四部    円分体**
-
 <details>
 <summary>
-<strong>Capitel XX  Die Bildung der Klassenkörper<br>第20章  類体生成（クラスフィールド生成）</strong>
+<strong>Capitel XX  Die Zahlringe und Moduli des quadratischen Körpers<br>第20章  二次数体の数環とモジュライ</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§81** Allgemeines über Klassenkörper  
-類体（クラスフィールド）の一般論  
-（Kronecker–Weber のテーマ）
+**§88** Die Zahlringe des quadratischen Körpers  
+二次数体の数環
 
-**§82** Konstruktion der Hilfskörper  
-補助体（Hilfskörper）の構成
+**§89** Ein Satz von den Modulkassen des quadratischen Körpers. Die binären quadratischen Formen  
+二次数体のモジュラス類に関する定理。二変数二次形式
 
-**§83** Darstellung der Klassenkörper durch Kreiskörper  
-円分体による類体の表現  
-（Kronecker–Weber の古典的形）
-
-**§84** Die Bedeutung der Rechnung modulo $m$  
-$m$ 乗根を用いた合同計算と類体生成の関係
+**§90** Die niedere und die höhere Theorie des quadratischen Zahlkörpers  
+二次数体の低次理論と高次理論
 
 </details>
+
+---
+
+## **Vierter Teil    Der Kreiskörper**
+## **第四部    円分体**
 
 <details>
 <summary>
