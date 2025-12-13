@@ -435,10 +435,10 @@ $\zeta(s)$ の $s=1$ における留数 → 類数決定
 
 <details>
 <summary>
-<strong>Capitel XVIII  Der Kreiskörper und seine Diskriminante<br>第18章  円分体とその判別式</strong>
+<strong>Capitel XVIII  Der Kreiskörper und seine Diskriminante<br>第18章  二次体における類の存在</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter18/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/0k7OhfKpO7s" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
