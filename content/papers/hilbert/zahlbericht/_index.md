@@ -385,17 +385,17 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 **§59** Die Basis und die Discriminante des quadratischen Körpers  
 二次数体の基底と判別式
 
-**§60** Die Zerlegung der Primzahlen  
-素数の分解
+**§60** Die Primideale des quadratischen Körpers  
+二次数体の素イデアル
 
-**§61** Die Einheiten des quadratischen Körpers  
+**§61** Das Symbol  
+記号
+
+**§62** Die Einheiten des quadratischen Körpers  
 二次数体の単元
 
-**§62** Die Klassenzahl  
-類数
-
-**§63** Die Geschlechter der Idealklassen  
-イデアル類の種
+**§63** Die Aufstellung des Systems der Idealklassen  
+イデアル類体系の構成
 
 </details>
 
