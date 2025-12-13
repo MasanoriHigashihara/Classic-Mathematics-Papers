@@ -401,24 +401,33 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XVII  Die Geschlechter im quadratischen Körper und ihre Charaktersysteme<br>第17章  二次数体における種とその指標系</strong>
+<strong>Capitel XVII  Die Geschlechter im quadratischen Körper und ihre Charaktersysteme<br>第17章  二次数体における種（ジェシュレヒト）とその指標体系</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter17/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/LT2gRKnQIDQ" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§64** Das Symbol $\left(\frac{n,m}{\omega}\right)$  
-記号（ヒルベルト記号の原型）
+**§64** Das Symbol  
+記号
 
-**§65** Die Geschlechtscharaktere  
-種指標
+**§65** Das Charaktersystem eines Ideals  
+イデアルの指標体系
 
-**§66** Die Anzahl der Geschlechter  
-種の個数
+**§66** Das Charaktersystem einer Idealklasse und der Begriff des Geschlechts  
+イデアル類の指標体系と種（ジェシュレヒト）の概念
 
-**§67** Der Zusammenhang mit den Formen  
-形式との関連
+**§67** Der Fundamentalsatz über die Geschlechter des quadratischen Körpers  
+二次数体の種に関する基本定理
+
+**§68** Ein Hilfssatz über diejenigen quadratischen Körper, deren Discriminanten nur durch einige Primzahl theilbar sind  
+判別式がいくつかの素数によってのみ割り切れる二次数体に関する補助定理
+
+**§69** Das Reciprocitätsgesetz für quadratische Reste. Ein Hilfssatz über das Symbol  
+二次剰余に関する相互法則。記号に関する補助定理
+
+**§70** Beweis der im Fundamentalsatz 100 ausgesprochenen Beziehung zwischen den sämtlichen Charakteren eines Geschlechts  
+基本定理100で述べられた、ある種（ジェシュレヒト）に属するすべての指標の間の関係の証明
 
 </details>
 
