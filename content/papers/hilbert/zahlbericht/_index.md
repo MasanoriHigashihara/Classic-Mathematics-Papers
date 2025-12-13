@@ -735,3 +735,29 @@ m 次単位根の円分体における類数の表式
 クンマー体の素イデアル
 
 </details>
+
+<details>
+<summary>
+<strong>Capitel XXIX  Die Normenreste und Normennichtreste des Kummer'schen Körpers<br>第29章  クンマー体のノルム剰余とノルム非剰余</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+**§129** Die Definition der Normenreste und Normennichtreste  
+ノルム剰余とノルム非剰余の定義
+
+**§130** Der Satz von der Anzahl der Normenreste. Die Verzweigungsideale  
+ノルム剰余の個数に関する定理。分岐イデアル
+
+**§131** Das Symbol  
+記号
+
+**§132** Einige Hilfssätze über das Symbol und über Normenreste nach dem Primideal l  
+記号と、素イデアルに関するノルム剰余についてのいくつかの補助定理
+
+**§133** Das Symbol zur Unterscheidung zwischen Normenresten und Normennichtresten  
+ノルム剰余とノルム非剰余を区別するための記号
+
+</details>
