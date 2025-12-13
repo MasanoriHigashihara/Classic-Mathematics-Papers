@@ -639,35 +639,30 @@ l 次単位根の体の一次素イデアルに対するある同値性
 
 </details>
 
----
-
-## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
-## **第五部    クンマー体とフェルマー問題**
-
 <details>
 <summary>
-<strong>Capitel XXV  Die unregulären Primzahlen<br>第25章  不正則素数</strong>
+<strong>Capitel XXV  Das Reciprocitätsgesetz für lte Potenzreste zwischen einer rationalen Zahl und einer Zahl des Körpers der lten Einheitswurzeln<br>第25章  有理数と l 次単位根の体の数との間の、l 乗剰余に関する相互法則</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§103** Definition der unregulären Primzahlen  
-不正則素数の定義  
-（例：$p$ がベルヌーイ数 $B_k$ を割るとき）
+**§113** Der Potenzcharakter einer Zahl und das Symbol  
+数の冪指標と記号
 
-**§104** Die Bedeutung für die Klassenzahl der Kreiskörper  
-円分体の類数への影響
+**§114** Ein Hilfssatz über den Potenzcharakter der lten Potenz der Lagrange'schen Wurzelzahl  
+ラグランジュの根数の l 乗の冪指標に関する補助定理
 
-**§105** Die Kummer'schen Kongruenzen  
-クンマー合同式  
-（例：$B_{2k} \equiv 0 \pmod p$）
-
-**§106** Zusammenhang mit den Idealzahlen  
-理想数との関係
+**§115** Beweis des Reciprocitätsgesetzes im Körper k(ζ) zwischen einer rationalen und einer beliebigen Zahl  
+体 k(ζ) における、有理数と任意の数との間の相互法則の証明
 
 </details>
+
+---
+
+## **Fünfter Teil    Kummersche Körper und Fermatsches Problem**
+## **第五部    クンマー体とフェルマー問題**
 
 <details>
 <summary>
