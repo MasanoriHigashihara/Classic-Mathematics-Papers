@@ -91,14 +91,14 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§10** Der Satz über die Teiler der Discriminante  
-判別式の因数に関する定理
+**§10** Der Satz über die Theiler der Discriminante des Körpers. Hilfssätze über ganze Functionen  
+数体の判別式の約数に関する定理。整関数に関する補助定理
 
 **§11** Zerlegung der linken Seite der Fundamentalgleichung; Die Discriminante der Fundamentalgleichung  
 基本方程式の左辺の分解、基本方程式の判別式
 
-**§12** Die Elemente und die Differente des Körpers; Beweis über die Teiler der Discriminante  
-元・ディフェレント・判別式因子の証明
+**§12** Die Elemente und die Differente des Körpers. Beweis des Satzes über die Theiler der Körperdiscriminante  
+数体の元とディファレント。数体判別式の約数に関する定理の証明
 
 **§13** Aufstellung der Primideale; Der feste Zahlteiler der rationalen Einheitstform $U$  
 素イデアルの構成、有理一次式 $U$ の固定因子
