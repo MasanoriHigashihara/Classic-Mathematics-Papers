@@ -438,31 +438,54 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 
 <details>
 <summary>
-<strong>Capitel XVIII  Der Kreiskörper und seine Diskriminante<br>第18章  二次体における類の存在</strong>
+<strong>Capitel XVIII  Die Existenz der Geschlechter im quadratischen Körper<br>第18章  二次数体における種（ジェシュレヒト）の存在</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter18/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/0k7OhfKpO7s" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-**§68** Der Kreiskörper $K = \mathbb{Q}(\zeta_m)$  
-円分体の定義（$m$ 次の原始 $m$ 乗根 $\zeta_m$）
+**§71** Der Satz von den Normen der Zahlen eines quadratischen Körpers  
+二次数体の数のノルムに関する定理
 
-**§69** Der Ganzheitsring des Kreiskörpers  
-円分体の整数環  
-（例：$\mathcal{O}_K = \mathbb{Z}[\zeta_m]$）
+**§72** Die Klassen des Hauptgeschlechtes  
+主種（ハウプトゲシュレヒト）の類
 
-**§70** Die Diskriminante des Kreiskörpers  
-円分体の判別式  
-（例：$|\Delta_K| = m^{\varphi(m)} \prod p^{\dots}$）
+**§73** Die ambigen Ideale  
+両義的イデアル
 
-**§71** Eigenschaften der Diskriminante  
-判別式の性質  
-（分岐素数との関係など）
+**§74** Die ambigen Idealklassen  
+両義的イデアル類
 
-**§72** Zerlegung der Primzahlen im Kreiskörper  
-円分体における素数の分解  
-（例：$p \equiv 1 \pmod m$ と分解度）
+**§75** Die durch ambige Ideale bestimmten ambigen Idealklassen  
+両義的イデアルによって定まる両義的イデアル類
+
+**§76** Die ambigen Idealklassen, welche kein ambiges Ideal enthalten  
+両義的イデアルを含まない両義的イデアル類
+
+**§77** Die Anzahl aller ambigen Klassen  
+すべての両義的類の個数
+
+**§78** Der arithmetische Beweis für die Existenz der Geschlechter  
+種（ジェシュレヒト）の存在に対する算術的証明
+
+**§79** Die transzendente Darstellung der Klassenzahl und eine Anwendung darauf, dass der Grenzwert gewisser unendlichen Productes positiv ist  
+類数の超越的表示と、ある無限積の極限値が正であることへの応用
+
+**§80** Das Vorhandensein unendlich vieler rationaler Primzahlen, nach denen gegebene Zahlen unendlich viele quadratische Restcharaktere haben  
+与えられた数が無限に多くの二次剰余指標をもつような有理素数が無限に存在すること
+
+**§81** Das Vorhandensein unendlich vieler Primideale mit vorgeschriebenen Charakteren in einem quadratischen Körper  
+二次数体において、あらかじめ指定された指標をもつ素イデアルが無限に存在すること
+
+**§82** Der transzendente Beweis für die Existenz der Geschlechter und für die übrigen in §§ 71 bis § 77 erlangten Resultate  
+種（ジェシュレヒト）の存在および §§71〜77 で得られた他の結果に対する超越的証明
+
+**§83** Die engere Fassung des Äquivalenz- und Klassenbegriffes  
+同値概念および類概念のより厳密な定式化
+
+**§84** Der Fundamentalsatz für den neuen Klassen- und Geschlechtsbegriff  
+新しい類概念および種概念に対する基本定理
 
 </details>
 
