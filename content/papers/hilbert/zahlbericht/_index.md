@@ -489,6 +489,7 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 <strong>Capitel XIX  Die Bestimmung der Anzahl der Idealklassen des quadratischen Körpers<br>第19章  二次数体のイデアル類の個数の決定</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter19/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/WwJpsg8Pgi4" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 

@@ -9,6 +9,18 @@ bookHidden: true
 # Capitel XIX - Die Bestimmung der Anzahl der Idealklassen des quadratischen Körpers
 ## 第19章 - 二次数体のイデアル類の個数の決定
 
+<div style="text-align:center; margin: 1.5rem 0;">
+  <iframe 
+    width="280" 
+    height="158" 
+    src="https://www.youtube.com/embed/WwJpsg8Pgi4" 
+    style="border:none; border-radius:8px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説（NotebookLM）</p>
+</div>
+
 ### スライド資料
 
 {{< pdf-embed "slides/hilbert/zahlbericht/chapter19.pdf" >}}
