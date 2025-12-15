@@ -533,8 +533,8 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 <summary>
 <strong>Capitel XXI  Die Einheitswurzeln mit Primzahlexponent l und der durch sie bestimmte Kreiskörper<br>第21章  素数指数 l をもつ単位根と、それによって定まる円分体</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter21/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/kTuxUVtWUjY" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
