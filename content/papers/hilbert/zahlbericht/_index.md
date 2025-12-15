@@ -508,8 +508,8 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 <summary>
 <strong>Capitel XX  Die Zahlringe und Moduli des quadratischen Körpers<br>第20章  二次数体の数環とモジュライ</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter20/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/tlyI_9a9VJw" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
