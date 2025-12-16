@@ -663,8 +663,8 @@ l 次単位根の体の一次素イデアルに対するある同値性
 <summary>
 <strong>Capitel XXVI  Die Bestimmung der Anzahl der Idealklassen im Kreiskörper der mten Einheitswurzeln<br>第26章  m 次単位根の円分体におけるイデアル類の個数の決定</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter26/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/Zm6jF9HC720" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
