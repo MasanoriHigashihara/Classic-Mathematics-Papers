@@ -717,8 +717,8 @@ m 次単位根の円分体における類数の表式
 <summary>
 <strong>Capitel XXVIII  Die Zerlegung der Zahlen des Kreiskörpers im Kummer'schen Körper<br>第28章  クンマー体における円分体の数の分解</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/chapter28/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/RPHtdVeDchA" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
