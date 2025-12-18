@@ -1,0 +1,23 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Ensure markdown files always use LF line endings (for Hugo compatibility)
+*.md text eol=lf
+
+# Ensure HTML and related files use LF
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.toml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
