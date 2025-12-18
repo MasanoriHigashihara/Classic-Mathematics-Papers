@@ -1,6 +1,6 @@
 ---
 title: "Capitel XXVIII - スライド"
-date: 2025-12-19
+date: 2025-12-18
 draft: false
 type: docs
 bookHidden: true
