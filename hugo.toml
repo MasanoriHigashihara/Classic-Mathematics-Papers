@@ -42,12 +42,12 @@ buildExpired = false
     name = "数論報告 第32章"
     url = "/papers/hilbert/zahlbericht/slides/chapter32/"
     parent = "新着"
-    weight = 3
+    weight = 2
   [[menu.before]]
     name = "数論報告 第31章"
     url = "/papers/hilbert/zahlbericht/slides/chapter31/"
     parent = "新着"
-    weight = 2
+    weight = 3
   [[menu.before]]
     name = "数論報告 第30章"
     url = "/papers/hilbert/zahlbericht/slides/chapter30/"
