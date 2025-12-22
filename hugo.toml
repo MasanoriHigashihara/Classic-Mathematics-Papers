@@ -34,30 +34,35 @@ buildExpired = false
     name = "新着"
     weight = 1
   [[menu.before]]
+    name = "数論報告 第34章"
+    url = "/papers/hilbert/zahlbericht/slides/chapter34/"
+    parent = "新着"
+    weight = 1
+  [[menu.before]]
     name = "数論報告 第33章"
     url = "/papers/hilbert/zahlbericht/slides/chapter33/"
     parent = "新着"
-    weight = 1
+    weight = 2
   [[menu.before]]
     name = "数論報告 第32章"
     url = "/papers/hilbert/zahlbericht/slides/chapter32/"
     parent = "新着"
-    weight = 2
+    weight = 3
   [[menu.before]]
     name = "数論報告 第31章"
     url = "/papers/hilbert/zahlbericht/slides/chapter31/"
     parent = "新着"
-    weight = 3
+    weight = 4
   [[menu.before]]
     name = "数論報告 第30章"
     url = "/papers/hilbert/zahlbericht/slides/chapter30/"
     parent = "新着"
-    weight = 3
+    weight = 5
   [[menu.before]]
     name = "数論報告 第29章"
     url = "/papers/hilbert/zahlbericht/slides/chapter29/"
     parent = "新着"
-    weight = 5
+    weight = 6
   [[menu.before]]
     name = "数論報告 第28章"
     url = "/papers/hilbert/zahlbericht/slides/chapter28/"
