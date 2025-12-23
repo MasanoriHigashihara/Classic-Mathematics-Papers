@@ -1,6 +1,6 @@
 ---
 title: "Capitel XXXVI - スライド"
-date: 2025-12-24
+date: 2025-12-23
 draft: false
 type: docs
 bookHidden: true
