@@ -895,7 +895,7 @@ m 次単位根の円分体における類数の表式
 <strong>Capitel XXXIV  Die Anzahl der vorhandenen Geschlechter im regulären Kummer'schen Körper<br>第34章  正則クンマー体に存在する種（ジェシュレヒト）の個数</strong>
 <span style="margin-left: 10px;">
   <a href="slides/chapter34/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-  <a href="https://youtu.be/72TtevMiGQQ" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+  <a href="https://youtu.be/LjH9dM22LoA" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 

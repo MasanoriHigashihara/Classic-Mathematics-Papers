@@ -14,7 +14,7 @@ type: docs
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter34/">ヒルベルト『数論報告』第34章</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter34.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="https://youtu.be/72TtevMiGQQ" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+      <a href="https://youtu.be/LjH9dM22LoA" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
     </span><br>
     <span style="color: #666; font-size: 0.9em;">正則クンマー体に存在する種（ジェシュレヒト）の個数 - スライドと音声解説</span>
   </div>
