@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter36/">ヒルベルト『数論報告』第36章</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter36.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/bm3MfWTf4cE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ディオファントス方程式 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #FF9800; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter35/">ヒルベルト『数論報告』第35章</a></strong>
     <span style="margin-left: 10px;">

@@ -34,178 +34,183 @@ buildExpired = false
     name = "新着"
     weight = 1
   [[menu.before]]
+    name = "数論報告 第36章"
+    url = "/papers/hilbert/zahlbericht/slides/chapter36/"
+    parent = "新着"
+    weight = 1
+  [[menu.before]]
     name = "数論報告 第35章"
     url = "/papers/hilbert/zahlbericht/slides/chapter35/"
     parent = "新着"
-    weight = 1
+    weight = 2
   [[menu.before]]
     name = "数論報告 第34章"
     url = "/papers/hilbert/zahlbericht/slides/chapter34/"
     parent = "新着"
-    weight = 2
+    weight = 3
   [[menu.before]]
     name = "数論報告 第33章"
     url = "/papers/hilbert/zahlbericht/slides/chapter33/"
     parent = "新着"
-    weight = 3
+    weight = 4
   [[menu.before]]
     name = "数論報告 第32章"
     url = "/papers/hilbert/zahlbericht/slides/chapter32/"
     parent = "新着"
-    weight = 4
+    weight = 5
   [[menu.before]]
     name = "数論報告 第31章"
     url = "/papers/hilbert/zahlbericht/slides/chapter31/"
     parent = "新着"
-    weight = 5
+    weight = 6
   [[menu.before]]
     name = "数論報告 第30章"
     url = "/papers/hilbert/zahlbericht/slides/chapter30/"
     parent = "新着"
-    weight = 6
+    weight = 7
   [[menu.before]]
     name = "数論報告 第29章"
     url = "/papers/hilbert/zahlbericht/slides/chapter29/"
     parent = "新着"
-    weight = 7
+    weight = 8
   [[menu.before]]
     name = "数論報告 第28章"
     url = "/papers/hilbert/zahlbericht/slides/chapter28/"
     parent = "新着"
-    weight = 8
+    weight = 9
   [[menu.before]]
     name = "数論報告 第27章"
     url = "/papers/hilbert/zahlbericht/slides/chapter27/"
     parent = "新着"
-    weight = 9
+    weight = 10
   [[menu.before]]
     name = "数論報告 第26章"
     url = "/papers/hilbert/zahlbericht/slides/chapter26/"
     parent = "新着"
-    weight = 10
+    weight = 11
   [[menu.before]]
     name = "数論報告 第25章"
     url = "/papers/hilbert/zahlbericht/slides/chapter25/"
     parent = "新着"
-    weight = 11
+    weight = 12
   [[menu.before]]
     name = "数論報告 第24章"
     url = "/papers/hilbert/zahlbericht/slides/chapter24/"
     parent = "新着"
-    weight = 12
+    weight = 13
   [[menu.before]]
     name = "数論報告 第23章"
     url = "/papers/hilbert/zahlbericht/slides/chapter23/"
     parent = "新着"
-    weight = 13
+    weight = 14
   [[menu.before]]
     name = "数論報告 第22章"
     url = "/papers/hilbert/zahlbericht/slides/chapter22/"
     parent = "新着"
-    weight = 14
+    weight = 15
   [[menu.before]]
     name = "数論報告 第21章"
     url = "/papers/hilbert/zahlbericht/slides/chapter21/"
     parent = "新着"
-    weight = 15
+    weight = 16
   [[menu.before]]
     name = "数論報告 第20章"
     url = "/papers/hilbert/zahlbericht/slides/chapter20/"
     parent = "新着"
-    weight = 16
+    weight = 17
   [[menu.before]]
     name = "数論報告 第19章"
     url = "/papers/hilbert/zahlbericht/slides/chapter19/"
     parent = "新着"
-    weight = 17
+    weight = 18
   [[menu.before]]
     name = "数論報告 第18章"
     url = "/papers/hilbert/zahlbericht/slides/chapter18/"
     parent = "新着"
-    weight = 18
+    weight = 19
   [[menu.before]]
     name = "数論報告 第17章"
     url = "/papers/hilbert/zahlbericht/slides/chapter17/"
     parent = "新着"
-    weight = 19
+    weight = 20
   [[menu.before]]
     name = "数論報告 第16章"
     url = "/papers/hilbert/zahlbericht/slides/chapter16/"
     parent = "新着"
-    weight = 20
+    weight = 21
   [[menu.before]]
     name = "数論報告 第15章"
     url = "/papers/hilbert/zahlbericht/slides/chapter15/"
     parent = "新着"
-    weight = 21
+    weight = 22
   [[menu.before]]
     name = "数論報告 第14章"
     url = "/papers/hilbert/zahlbericht/slides/chapter14/"
     parent = "新着"
-    weight = 22
+    weight = 23
   [[menu.before]]
     name = "数論報告 第13章"
     url = "/papers/hilbert/zahlbericht/slides/chapter13/"
     parent = "新着"
-    weight = 23
+    weight = 24
   [[menu.before]]
     name = "数論報告 第12章"
     url = "/papers/hilbert/zahlbericht/slides/chapter12/"
     parent = "新着"
-    weight = 24
+    weight = 25
   [[menu.before]]
     name = "数論報告 第11章"
     url = "/papers/hilbert/zahlbericht/slides/chapter11/"
     parent = "新着"
-    weight = 25
+    weight = 26
   [[menu.before]]
     name = "数論報告 第10章"
     url = "/papers/hilbert/zahlbericht/slides/chapter10/"
     parent = "新着"
-    weight = 26
+    weight = 27
   [[menu.before]]
     name = "数論報告 第9章"
     url = "/papers/hilbert/zahlbericht/slides/chapter9/"
     parent = "新着"
-    weight = 27
+    weight = 28
   [[menu.before]]
     name = "数論報告 第8章"
     url = "/papers/hilbert/zahlbericht/slides/chapter8/"
     parent = "新着"
-    weight = 28
+    weight = 29
   [[menu.before]]
     name = "数論報告 第7章"
     url = "/papers/hilbert/zahlbericht/slides/chapter7/"
     parent = "新着"
-    weight = 29
+    weight = 30
   [[menu.before]]
     name = "数論報告 第6章"
     url = "/papers/hilbert/zahlbericht/slides/chapter6/"
     parent = "新着"
-    weight = 30
+    weight = 31
   [[menu.before]]
     name = "数論報告 第5章"
     url = "/papers/hilbert/zahlbericht/slides/chapter5/"
     parent = "新着"
-    weight = 31
+    weight = 32
   [[menu.before]]
     name = "数論報告 第4章"
     url = "/papers/hilbert/zahlbericht/slides/chapter4/"
     parent = "新着"
-    weight = 32
+    weight = 33
   [[menu.before]]
     name = "数論報告 第3章"
     url = "/papers/hilbert/zahlbericht/slides/chapter3/"
     parent = "新着"
-    weight = 33
+    weight = 34
   [[menu.before]]
     name = "数論報告 第2章"
     url = "/papers/hilbert/zahlbericht/slides/chapter2/"
     parent = "新着"
-    weight = 34
+    weight = 35
   [[menu.before]]
     name = "数論報告 第1章"
     url = "/papers/hilbert/zahlbericht/slides/chapter1/"
     parent = "新着"
-    weight = 35
+    weight = 36
 
