@@ -18,6 +18,21 @@ bookCollapseSection: false
 
 ---
 
+<details>
+<summary>
+<strong>Vorwort<br>序文</strong>
+<span style="margin-left: 10px;">
+<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+ヒルベルトによる序文
+
+</details>
+
+---
+
 ## **Erster Teil    Die Theorie des allgemeinen Zahlkörpers**
 ## **第一部    一般数体の理論**
 
