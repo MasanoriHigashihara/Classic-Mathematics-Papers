@@ -62,7 +62,7 @@ bookCollapseSection: false
 <strong>Capitel II  Die Ideale des Zahlkörpers<br>第2章  数体のイデアル</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter2/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/-xwdSn234hI" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/maE8s5-QYoc" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
