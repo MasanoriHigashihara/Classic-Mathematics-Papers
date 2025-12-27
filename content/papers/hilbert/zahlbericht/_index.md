@@ -145,7 +145,7 @@ bookCollapseSection: false
 <strong>Capitel VI  Die Einheiten des Körpers<br>第6章  単元</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter6/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/OGVi5u3dq34" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/VneH52YYg4w" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
