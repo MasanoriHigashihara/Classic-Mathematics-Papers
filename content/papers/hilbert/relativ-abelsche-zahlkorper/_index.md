@@ -1,11 +1,20 @@
 ---
 title: "Über die Theorie der relativ-Abelschen Zahlkörper"
-weight: 2
+weight: 3
 bookCollapseSection: false
 ---
 
 # Über die Theorie der relativ-Abelschen Zahlkörper
 **相対アーベル数体の理論について**
+
+<div style="margin: 1rem 0;">
+  <span style="font-size: 1.2em;">
+    📊 スライド
+  </span>
+  <span style="font-size: 1.2em; margin-left: 1rem;">
+    🎧 音声解説
+  </span>
+</div>
 
 **著者**: David Hilbert  
 **原題**: Über die Theorie der relativ-Abelschen Zahlkörper  

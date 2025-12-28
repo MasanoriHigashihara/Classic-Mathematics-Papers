@@ -1,11 +1,20 @@
 ---
 title: "Über die Theorie des relativ-quadratischen Zahlkörpers"
-weight: 1
+weight: 2
 bookCollapseSection: false
 ---
 
 # Über die Theorie des relativ-quadratischen Zahlkörpers
 **相対二次体の理論について**
+
+<div style="margin: 1rem 0;">
+  <span style="font-size: 1.2em;">
+    📊 スライド
+  </span>
+  <span style="font-size: 1.2em; margin-left: 1rem;">
+    🎧 音声解説
+  </span>
+</div>
 
 **著者**: David Hilbert  
 **原題**: Über die Theorie des relativ-quadratischen Zahlkörpers  
