@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 1 - スライド"
+title: "概要 - スライド"
 date: 2025-12-28
 draft: false
 type: docs
 bookHidden: true
 ---
 
-# Chapitre 1. Théorie des identités de première espèce
-## 第1章　第1種の同一性理論
+# Recherches sur la théorie de la démonstration
+## 証明論に関する研究 - 概要
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -36,10 +36,5 @@ bookHidden: true
 ---
 
 **内容:**
-- 1. Les signes（記号）
-- 2. Les règles du raisonnement（推論の規則）
-- 3. Conséquences（帰結）
-- 4. La valeur logique（論理値）
-- 5. Les deux formes normales d'une proposition（命題の2つの標準形）
-- 6. Un critère algébrique（代数的判定基準）
-- 7. Transformation des propositions primitives en règles（原始命題の規則への変換）
+
+この論文は、エルブランの博士論文であり、証明論の基礎を築いた重要な研究です。ゲーデルの不完全性定理と並んで、数理論理学の発展に大きな影響を与えました。
