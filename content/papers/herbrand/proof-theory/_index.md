@@ -37,8 +37,8 @@ bookCollapseSection: false
 <summary>
 <strong>Chapitre 1. Théorie des identités de première espèce<br>第1章　第1種の同一性理論</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/herbrand/prooftheory/chapter1.pdf" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/9mxDeZslWK0" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
