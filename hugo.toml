@@ -47,49 +47,39 @@ weight = 2
 name = "証明論について 序文"
 url = "/papers/herbrand/proof-theory/slides/introduction/"
 parent = "新着"
-weight = 2
+weight = 3
 [[menu.before]]
 name = "証明論について 概要"
 url = "/papers/herbrand/proof-theory/slides/chapter1/"
 parent = "新着"
-weight = 3
+weight = 4
 [[menu.before]]
 name = "数論報告 序文"
 url = "/papers/hilbert/zahlbericht/slides/vorwort/"
 parent = "新着"
-weight = 4
+weight = 5
 [[menu.before]]
 name = "数論報告 第36章"
 url = "/papers/hilbert/zahlbericht/slides/chapter36/"
 parent = "新着"
-weight = 5
+weight = 6
 [[menu.before]]
 name = "数論報告 第35章"
 url = "/papers/hilbert/zahlbericht/slides/chapter35/"
 parent = "新着"
-weight = 5
+weight = 7
 [[menu.before]]
 name = "数論報告 第34章"
 url = "/papers/hilbert/zahlbericht/slides/chapter34/"
 parent = "新着"
-weight = 6
+weight = 8
 [[menu.before]]
 name = "数論報告 第33章"
 url = "/papers/hilbert/zahlbericht/slides/chapter33/"
 parent = "新着"
-weight = 7
+weight = 9
 [[menu.before]]
 name = "数論報告 第32章"
 url = "/papers/hilbert/zahlbericht/slides/chapter32/"
-parent = "新着"
-weight = 8
-[[menu.before]]
-name = "数論報告 第31章"
-url = "/papers/hilbert/zahlbericht/slides/chapter31/"
-parent = "新着"
-weight = 9
-[[menu.before]]
-name = "数論報告 第30章"
-url = "/papers/hilbert/zahlbericht/slides/chapter30/"
 parent = "新着"
 weight = 10
