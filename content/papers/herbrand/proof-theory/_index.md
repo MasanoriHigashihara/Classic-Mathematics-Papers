@@ -81,11 +81,24 @@ bookCollapseSection: false
 <details>
 <summary>
 <strong>Chapitre 2. Théorie des identités de deuxième espèce<br>第2章　第2種の同一性理論</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
 </summary>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0;">
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§1-5</strong> 記号・推論規則・第1種との関連
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter2-1-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/CnfbakYPUR8" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§6-9</strong> 別の方法・有限体・応用
+    <span style="margin-left: 10px;">
+      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+</div>
 
 1. Les signes. / 記号。
 2. Les règles du raisonnement. / 推論の規則。
