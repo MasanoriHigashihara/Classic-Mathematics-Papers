@@ -94,8 +94,8 @@ bookCollapseSection: false
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§6-9</strong> 別の方法・有限体・応用
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="slides/chapter2-6-9/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/dl6o_HNh8jA" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
 </div>
