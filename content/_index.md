@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #673AB7; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter1-4-7/">エルブラン『証明論に関する研究』第1章 §4-7</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="papers/herbrand/proof-theory/slides/chapter1-4-7/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/bgVN8uLLbQk" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">第1章 論理値・標準形・代数的判定基準 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #E91E63; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter1-1-3/">エルブラン『証明論に関する研究』第1章 §1-3</a></strong>
     <span style="margin-left: 10px;">

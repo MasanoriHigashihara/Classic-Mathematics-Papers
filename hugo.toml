@@ -34,10 +34,15 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "証明論について 第1章 §4-7"
+url = "/papers/herbrand/proof-theory/slides/chapter1-4-7/"
+parent = "新着"
+weight = 1
+[[menu.before]]
 name = "証明論について 第1章 §1-3"
 url = "/papers/herbrand/proof-theory/slides/chapter1-1-3/"
 parent = "新着"
-weight = 1
+weight = 2
 [[menu.before]]
 name = "証明論について 序文"
 url = "/papers/herbrand/proof-theory/slides/introduction/"
