@@ -49,11 +49,24 @@ bookCollapseSection: false
 <details>
 <summary>
 <strong>Chapitre 1. Théorie des identités de première espèce<br>第1章　第1種の同一性理論</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
 </summary>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0;">
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§1-3</strong> 記号・推論の規則・帰結
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter1-1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/Zb-xrog47QQ" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§4-7</strong> 論理値・標準形・代数的判定基準
+    <span style="margin-left: 10px;">
+      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+</div>
 
 1. Les signes. / 記号。
 2. Les règles du raisonnement. / 推論の規則。
