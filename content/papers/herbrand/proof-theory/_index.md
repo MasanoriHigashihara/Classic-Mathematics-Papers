@@ -134,11 +134,17 @@ bookCollapseSection: false
 <details>
 <summary>
 <strong>Chapitre 4. L'arithmétique<br>第4章　算術</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
 </summary>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0;">
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§1-4</strong> 算術・無矛盾性・標準形・真理判定
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter4-1-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/rgEJFPaVe7E" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+</div>
 
 1. L'arithmétique sans variables apparentes. / 表面的に顕在な変数を伴わない算術。
 2. Un théorème de non-contradiction. / 無矛盾性に関するある定理。

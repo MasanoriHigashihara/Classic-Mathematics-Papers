@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter4-1-4/">エルブラン『証明論に関する研究』第4章 §1-4</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="papers/herbrand/proof-theory/slides/chapter4-1-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/rgEJFPaVe7E" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">第4章 算術・無矛盾性・標準形・真理判定 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter3/">エルブラン『証明論に関する研究』第3章</a></strong>
     <span style="margin-left: 10px;">
