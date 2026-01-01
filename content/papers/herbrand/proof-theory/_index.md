@@ -144,6 +144,13 @@ bookCollapseSection: false
       <a href="https://youtu.be/rgEJFPaVe7E" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§5-8</strong> 変数導入・真理条件・帰納法公理
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter4-5-8/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/XxvLRAgO-C4" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
 </div>
 
 1. L'arithmétique sans variables apparentes. / 表面的に顕在な変数を伴わない算術。
