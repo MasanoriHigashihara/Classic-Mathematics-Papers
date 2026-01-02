@@ -202,6 +202,13 @@ bookCollapseSection: false
       <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
+  <div style="padding: 8px; background-color: #e8f4e8; border-radius: 5px;">
+    <strong>補足</strong> champとは何か？
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter5-supp/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/Ij7ZP41PPXE" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
 </div>
 
 1. Etude approfondie des règles de passage. / 移行規則の詳細研究。
