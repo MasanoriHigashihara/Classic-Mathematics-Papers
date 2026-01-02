@@ -192,7 +192,7 @@ bookCollapseSection: false
     <strong>§3-4</strong> 性質B・C・無限体
     <span style="margin-left: 10px;">
       <a href="slides/chapter5-3-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="https://youtu.be/CS7Sx29A1XM" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
