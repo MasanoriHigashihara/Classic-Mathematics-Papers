@@ -171,11 +171,38 @@ bookCollapseSection: false
 <details>
 <summary>
 <strong>Chapitre 5. Les propriétés des propositions vraies<br>第5章　真なる命題の性質</strong>
-<span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
-</span>
 </summary>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0;">
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>概要</strong> 第5章の概要
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/ygk21eLLLsA" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§1-2</strong> 移行規則・性質A
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter5-1-2/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§3-4</strong> 性質B・C・無限体
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter5-3-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+  <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
+    <strong>§5-6</strong> 基本定理・帰結
+    <span style="margin-left: 10px;">
+      <a href="slides/chapter5-5-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+    </span>
+  </div>
+</div>
 
 1. Etude approfondie des règles de passage. / 移行規則の詳細研究。
 2. La propriété A. / 性質A。
@@ -183,6 +210,21 @@ bookCollapseSection: false
 4. Les champs infinis. / 無限体。
 5. Théorème fondamental. / 基本定理。
 6. Conséquences. / 帰結。
+
+</details>
+
+---
+
+<details>
+<summary>
+<strong>Supplément / 補足</strong>
+<span style="margin-left: 10px;">
+<a href="slides/supplement/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+エルブランによる補足・付録
 
 </details>
 
