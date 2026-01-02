@@ -185,7 +185,7 @@ bookCollapseSection: false
     <strong>§1-2</strong> 移行規則・性質A
     <span style="margin-left: 10px;">
       <a href="slides/chapter5-1-2/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="https://youtu.be/Jzl7YW3LK3A" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
