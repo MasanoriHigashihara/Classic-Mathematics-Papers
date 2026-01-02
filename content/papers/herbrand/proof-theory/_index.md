@@ -224,10 +224,10 @@ bookCollapseSection: false
 
 <details>
 <summary>
-<strong>Supplément / 補足</strong>
+<strong>Supplément / 補足：champとは何か？</strong>
 <span style="margin-left: 10px;">
 <a href="slides/supplement/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/Ij7ZP41PPXE" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
