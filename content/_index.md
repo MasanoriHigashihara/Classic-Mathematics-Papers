@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #7E57C2; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter5-5-6/">エルブラン『証明論に関する研究』第5章 §5-6</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="papers/herbrand/proof-theory/slides/chapter5-5-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/Q-3S_z8PnXE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">第5章 §5-6 基本定理・帰結 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #FF7043; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/herbrand/proof-theory/slides/chapter5-3-4/">エルブラン『証明論に関する研究』第5章 §3-4</a></strong>
     <span style="margin-left: 10px;">

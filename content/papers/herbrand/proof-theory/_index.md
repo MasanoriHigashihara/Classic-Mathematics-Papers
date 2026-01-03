@@ -199,7 +199,7 @@ bookCollapseSection: false
     <strong>§5-6</strong> 基本定理・帰結
     <span style="margin-left: 10px;">
       <a href="slides/chapter5-5-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="https://youtu.be/Q-3S_z8PnXE" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #e8f4e8; border-radius: 5px;">
