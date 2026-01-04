@@ -13,7 +13,7 @@ bookHidden: true
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/b7p8Obb_l4M" 
+    src="https://www.youtube.com/embed/Jxtityt0gPo" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
