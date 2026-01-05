@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/chapter9.pdf" >}}
+{{< pdf-embed "https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter9.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>

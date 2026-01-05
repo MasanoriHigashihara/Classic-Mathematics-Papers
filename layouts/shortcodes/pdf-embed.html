@@ -3,7 +3,9 @@
 {{- $pdfBaseURL := .Site.Params.pdfBaseURL | default "" -}}
 {{- $fullURL := "" -}}
 
-{{- if $pdfBaseURL -}}
+{{- if or (hasPrefix $pdfPath "http://") (hasPrefix $pdfPath "https://") -}}
+{{- $fullURL = $pdfPath -}}
+{{- else if $pdfBaseURL -}}
 {{- $fullURL = printf "%s/%s" $pdfBaseURL $pdfPath -}}
 {{- else -}}
 {{- $fullURL = $pdfPath | relURL -}}
