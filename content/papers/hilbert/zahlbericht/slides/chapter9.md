@@ -13,7 +13,7 @@ bookHidden: true
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/g7RBQPtL59w" 
+    src="https://www.youtube.com/embed/5iCBWaqra3Q" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/chapter9.pdf" >}}
+{{< pdf-embed "https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/chapter9.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>

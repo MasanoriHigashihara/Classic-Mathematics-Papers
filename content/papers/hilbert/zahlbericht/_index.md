@@ -220,7 +220,7 @@ s = 1 における関数 ζ(s) の留数による類数の決定
 <strong>Capitel IX  Die Zahlringe des Körpers<br>第9章  体の数環</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter9/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/g7RBQPtL59w" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/5iCBWaqra3Q" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
