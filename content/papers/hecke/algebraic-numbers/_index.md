@@ -15,7 +15,7 @@ bookCollapseSection: false
 
 ### Vorwort（序文）
 
-<span style="margin-left: 10px;"><a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/heche_vorwort.pdf" target="_blank" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/2LR4uKoopxc" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
+<span style="margin-left: 10px;"><a href="slides/vorwort" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/2LR4uKoopxc" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 ---
 
