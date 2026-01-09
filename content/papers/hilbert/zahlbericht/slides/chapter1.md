@@ -1,6 +1,6 @@
 ---
 title: "Capitel I - スライド"
-date: 2026-01-10
+date: 2025-01-10
 draft: false
 type: docs
 bookHidden: true
