@@ -41,7 +41,7 @@ bookCollapseSection: false
 <strong>Capitel I  Die algebraische Zahl und der Zahlkörper<br>第1章  代数的数と数体</strong>
 <span style="margin-left: 10px;">
 <a href="slides/chapter1/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="https://youtu.be/zYjprsvkSqY" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="https://youtu.be/pGU6vNPiChE" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 

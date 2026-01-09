@@ -1,6 +1,6 @@
 ---
 title: "Capitel I - スライド"
-date: 2025-11-29
+date: 2026-01-10
 draft: false
 type: docs
 bookHidden: true
@@ -13,7 +13,7 @@ bookHidden: true
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/zYjprsvkSqY" 
+    src="https://www.youtube.com/embed/pGU6vNPiChE" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/chapter1.pdf" >}}
+{{< pdf-embed "slides/hilbert/zahlbericht/zchapter1.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
