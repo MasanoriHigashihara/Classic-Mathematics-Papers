@@ -1,6 +1,6 @@
 ---
 title: "Vorwort - スライド"
-date: 2026-01-09
+date: 2025-01-09
 draft: false
 type: docs
 bookHidden: true

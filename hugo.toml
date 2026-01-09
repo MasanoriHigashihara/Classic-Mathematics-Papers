@@ -34,20 +34,30 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "数論報告 第1章 修正版"
+url = "/papers/hilbert/zahlbericht/slides/chapter1/"
+parent = "新着"
+weight = 1
+[[menu.before]]
+name = "代数的整数論講義 序文"
+url = "/papers/hecke/algebraic-numbers/slides/vorwort/"
+parent = "新着"
+weight = 2
+[[menu.before]]
 name = "数論報告 第9章 修正版"
 url = "/papers/hilbert/zahlbericht/slides/chapter9/"
 parent = "新着"
-weight = 1
+weight = 3
 [[menu.before]]
 name = "証明論について 第5章 §5-6"
 url = "/papers/herbrand/proof-theory/slides/chapter5-5-6/"
 parent = "新着"
-weight = 2
+weight = 4
 [[menu.before]]
 name = "証明論について 第5章 §3-4"
 url = "/papers/herbrand/proof-theory/slides/chapter5-3-4/"
 parent = "新着"
-weight = 3
+weight = 5
 [[menu.before]]
 name = "証明論について 第5章 §1-2"
 url = "/papers/herbrand/proof-theory/slides/chapter5-1-2/"

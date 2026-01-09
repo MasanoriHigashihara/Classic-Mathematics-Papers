@@ -10,6 +10,22 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #E91E63; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter1/">ヒルベルト『数論報告』第1章 修正版</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/zchapter1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/pGU6vNPiChE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">代数的数と数体 - スライドと音声解説</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #9C27B0; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/vorwort/">ヘッケ『代数的整数論講義』序文</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/heche_vorwort.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/2LR4uKoopxc" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ヘッケによる序文 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter9/">ヒルベルト『数論報告』第9章 修正版</a></strong>
     <span style="margin-left: 10px;">
