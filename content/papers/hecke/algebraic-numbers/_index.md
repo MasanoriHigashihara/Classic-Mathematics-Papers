@@ -20,7 +20,7 @@ bookCollapseSection: false
 ---
 
 ### Kapitel I. Elemente der rationalen Zahlentheorie
-### 第I章　有理数論の基本
+### 第I章　有理数論の基本 <span style="margin-left: 10px;"><a href="slides/chapter1" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/AymqIaHrKeY" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 **§ 1.** Teilbarkeit. Größter gemeinsamer Teiler. Moduln. Primzahlen. Fundamentalsatz der Zahlentheorie.  
 **§1.** 可除性。最大公約数。法（モジュロ）。素数。整数論の基本定理。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
