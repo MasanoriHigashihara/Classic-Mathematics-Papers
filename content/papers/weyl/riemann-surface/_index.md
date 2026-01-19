@@ -15,7 +15,7 @@ bookCollapseSection: false
 
 ## Vorwort und Einleitung（序文と導入）
 
-<span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
+<span style="margin-left: 10px;"><a href="slides/vorwort/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/g86XyeHfW6Q" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 ---
 
