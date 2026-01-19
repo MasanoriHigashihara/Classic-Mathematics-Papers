@@ -51,7 +51,7 @@ bookCollapseSection: false
 **§2** Die ganze algebraische Zahl <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 整数代数的数
 
-**§3** Die Norm, die Differente, die Discriminante einer Zahl; Die Basis des Zahlkörpers <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§3** Die Norm, die Differente, die Discriminante einer Zahl; Die Basis des Zahlkörpers <span style="margin-left: 10px;"><a href="slides/chapter1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/h9DVytRpBy0" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 ノルム・ディフェレント・判別式・数体の基底  
 （例：$N(\alpha)$, $\Delta_K$）
 
