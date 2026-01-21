@@ -39,10 +39,15 @@ url = "/papers/logic/slides/decision-problem/"
 parent = "新着"
 weight = 1
 [[menu.before]]
+name = "リーマン面のイデー 第1章 §1"
+url = "/papers/weyl/riemann-surface/slides/chapter1-1/"
+parent = "新着"
+weight = 2
+[[menu.before]]
 name = "リーマン面のイデー 序文"
 url = "/papers/weyl/riemann-surface/slides/vorwort/"
 parent = "新着"
-weight = 2
+weight = 3
 [[menu.before]]
 name = "数論報告 第1章 §1"
 url = "/papers/hilbert/zahlbericht/slides/chapter1-1/"

@@ -33,7 +33,7 @@ bookCollapseSection: false
 ### Begriff und Topologie der Riemannschen Flächen
 ### リーマン面の概念と位相
 
-**§1.** Weierstraß' Begriff der analytischen Funktion <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§1.** Weierstraß' Begriff der analytischen Funktion <span style="margin-left: 10px;"><a href="slides/chapter1-1/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/GoiVbcEPhSA" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 ワイエルシュトラスによる解析関数の概念 …… 1
 
 **§2.** Begriff des analytischen Gebildes <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

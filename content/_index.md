@@ -18,6 +18,14 @@ type: docs
     </span><br>
     <span style="color: #666; font-size: 0.9em;">決定問題（Entscheidungsproblem）に関する解説 - スライドと音声解説</span>
   </div>
+  <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-1/">ワイル『リーマン面のイデー』第1章 §1</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Weyl/RiemannSurface/weyl_riemann_surface_1_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/GoiVbcEPhSA" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ワイエルシュトラスによる解析関数の概念 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #42A5F5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/vorwort/">ワイル『リーマン面のイデー』序文</a></strong>
     <span style="margin-left: 10px;">
