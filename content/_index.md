@@ -29,7 +29,7 @@ type: docs
   <div style="padding: 15px; border-left: 4px solid #FF7043; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter1-1/">ヘッケ『代数的整数論講義』第I章 §1</a></strong>
     <span style="margin-left: 10px;">
-      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/hecke_chapter1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
       <a href="https://youtu.be/QGLeFT0v6bs" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
     </span><br>
     <span style="color: #666; font-size: 0.9em;">可除性・最大公約数・素数・整数論の基本定理 - スライドと音声解説</span>
@@ -69,7 +69,7 @@ type: docs
   <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter1/">ヘッケ『代数的整数論講義』第I章</a></strong>
     <span style="margin-left: 10px;">
-      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/hecke_chapter1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
       <a href="https://youtu.be/AymqIaHrKeY" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
     </span><br>
     <span style="color: #666; font-size: 0.9em;">有理数論の基本 - スライドと音声解説</span>

@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hecke/algebraicnumbers/hecke_chapter1.pdf" >}}
+{{< pdf-embed "slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_1.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
