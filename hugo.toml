@@ -35,7 +35,7 @@ name = "新着"
 weight = 1
 [[menu.before]]
 name = "エルデシュ問題#728"
-url = "/papers/ai-math/"
+url = "/papers/ai-math/slides/erdos-728/"
 parent = "新着"
 weight = 1
 [[menu.before]]

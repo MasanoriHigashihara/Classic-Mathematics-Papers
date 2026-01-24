@@ -11,7 +11,7 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #FFC107; background-color: #f9f9f9;">
-    <strong>📊 <a href="papers/ai-math/">エルデシュ問題#728</a></strong>
+    <strong>📊 <a href="papers/ai-math/slides/erdos-728/">エルデシュ問題#728</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/AImath/erdos_chapter.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
       <a href="https://youtu.be/NMq61Xyc-vg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
