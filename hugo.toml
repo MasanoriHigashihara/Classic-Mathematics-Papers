@@ -34,10 +34,15 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "エルデシュ問題#728"
+url = "/papers/ai-math/"
+parent = "新着"
+weight = 1
+[[menu.before]]
 name = "代数的整数論講義 第I章 §1"
 url = "/papers/hecke/algebraic-numbers/slides/chapter1-1/"
 parent = "新着"
-weight = 1
+weight = 2
 [[menu.before]]
 name = "決定問題"
 url = "/papers/logic/slides/decision-problem/"
