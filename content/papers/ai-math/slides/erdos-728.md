@@ -6,9 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# エルデシュ問題#728
-
-AIと数学に関するエルデシュ問題#728の解説です。
+# Erdős Problem #728
+## エルデシュ問題#728
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -33,3 +32,8 @@ AIと数学に関するエルデシュ問題#728の解説です。
     <li>ブラウザによっては、PDFビューアーが自動的に表示されます</li>
   </ul>
 </div>
+
+---
+
+**内容:**
+- AIと数学に関するエルデシュ問題#728の解説
