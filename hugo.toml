@@ -34,10 +34,15 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "リーマン面のイデー 第1章 §2"
+url = "/papers/weyl/riemann-surface/slides/chapter1-2/"
+parent = "新着"
+weight = 1
+[[menu.before]]
 name = "数論報告 第2章 §4"
 url = "/papers/hilbert/zahlbericht/slides/chapter2-4/"
 parent = "新着"
-weight = 1
+weight = 2
 [[menu.before]]
 name = "論理的推論の研究 I 概要"
 url = "/papers/gentzen/logical-investigations/slides/overview/"
@@ -47,42 +52,42 @@ weight = 2
 name = "エルデシュ問題#728"
 url = "/papers/ai-math/slides/erdos-728/"
 parent = "新着"
-weight = 2
+weight = 3
 [[menu.before]]
 name = "代数的整数論講義 第I章 §1"
 url = "/papers/hecke/algebraic-numbers/slides/chapter1-1/"
 parent = "新着"
-weight = 2
+weight = 4
 [[menu.before]]
 name = "決定問題"
 url = "/papers/logic/slides/decision-problem/"
 parent = "新着"
-weight = 2
+weight = 5
 [[menu.before]]
 name = "リーマン面のイデー 第1章 §1"
 url = "/papers/weyl/riemann-surface/slides/chapter1-1/"
 parent = "新着"
-weight = 3
+weight = 6
 [[menu.before]]
 name = "リーマン面のイデー 序文"
 url = "/papers/weyl/riemann-surface/slides/vorwort/"
 parent = "新着"
-weight = 4
+weight = 7
 [[menu.before]]
 name = "数論報告 第1章 §1"
 url = "/papers/hilbert/zahlbericht/slides/chapter1-1/"
 parent = "新着"
-weight = 5
+weight = 8
 [[menu.before]]
 name = "数論報告 第1章 §2"
 url = "/papers/hilbert/zahlbericht/slides/chapter1-2/"
 parent = "新着"
-weight = 6
+weight = 9
 [[menu.before]]
 name = "数論報告 第1章 §3"
 url = "/papers/hilbert/zahlbericht/slides/chapter1-3/"
 parent = "新着"
-weight = 7
+weight = 10
 [[menu.before]]
 name = "代数的整数論講義 第I章"
 url = "/papers/hecke/algebraic-numbers/slides/chapter1/"
