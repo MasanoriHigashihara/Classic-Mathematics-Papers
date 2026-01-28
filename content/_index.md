@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF7043; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter1-2/">ヘッケ『代数的整数論講義』第I章 §2</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_1_2.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/9SR9GOavAIA" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">合同式と剰余類・オイラー関数・フェルマーの小定理 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #E040FB; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-2/">ワイル『リーマン面のイデー』第1章 §2</a></strong>
     <span style="margin-left: 10px;">
