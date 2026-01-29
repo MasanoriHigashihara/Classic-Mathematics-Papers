@@ -11,6 +11,12 @@ bookCollapseSection: false
 **原題**: Theorie der Transformationsgruppen I  
 **出版年**: 1888
 
+## J.Merkerによる紹介
+
+<span style="margin-left: 10px;"><a href="/Classic-Mathematics-Papers/papers/lie/transformation-groups-1/slides/merker-intro/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/u1qw_AcMFQo" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
+
+---
+
 ## 目次 (Inhalt)
 
 ### Abschnitt I. 第1章
