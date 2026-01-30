@@ -1,6 +1,6 @@
 ---
 title: "J.Merkerによる紹介 - スライド"
-date: 2026-01-30
+date: 2025-01-30
 draft: false
 type: docs
 bookHidden: true
