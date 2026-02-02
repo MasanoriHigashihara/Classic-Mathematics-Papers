@@ -69,7 +69,7 @@ bookCollapseSection: false
 **§4** Die Multiplication der Ideale und ihre Teilbarkeit; Das Primideal <span style="margin-left: 10px;"><a href="slides/chapter2-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/KYKbwnKT3zw" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 イデアルの乗法と可除性・素イデアル
 
-**§5** Die eindeutige Zerlegbarkeit eines Ideals in Primideale <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§5** Die eindeutige Zerlegbarkeit eines Ideals in Primideale <span style="margin-left: 10px;"><a href="slides/chapter2-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/FVfl47qpxuk" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 イデアルの素イデアルへの一意分解
 
 **§6** Die Formen des Zahlkörpers und ihre Inhalte <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
