@@ -72,7 +72,7 @@ bookCollapseSection: false
 **§5** Die eindeutige Zerlegbarkeit eines Ideals in Primideale <span style="margin-left: 10px;"><a href="slides/chapter2-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/FVfl47qpxuk" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 イデアルの素イデアルへの一意分解
 
-**§6** Die Formen des Zahlkörpers und ihre Inhalte <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§6** Die Formen des Zahlkörpers und ihre Inhalte <span style="margin-left: 10px;"><a href="slides/chapter2-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/hTfy0F4QVKc" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 数体の形式（Formen）と内容
 
 </details>
