@@ -39,7 +39,7 @@ bookCollapseSection: false
 **§2.** Begriff des analytischen Gebildes <span style="margin-left: 10px;"><a href="slides/chapter1-2/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/vZXPhBLjq-0" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 解析的構成体の概念 …… 5
 
-**§3.** Verhältnis der Begriffe „analytische Funktion" und „analytisches Gebilde" zueinander <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§3.** Verhältnis der Begriffe „analytische Funktion" und „analytisches Gebilde" zueinander <span style="margin-left: 10px;"><a href="slides/chapter1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/jk3UtC40cXk" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 「解析関数」という概念と「解析的構成体」という概念との相互関係 …… 12
 
 **§4.** Begriff der Fläche <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
