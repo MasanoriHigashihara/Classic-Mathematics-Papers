@@ -1,6 +1,6 @@
 ---
 title: "Erstes Kapitel §3 - スライド"
-date: 2026-02-03
+date: 2025-02-03
 draft: false
 type: docs
 bookHidden: true
