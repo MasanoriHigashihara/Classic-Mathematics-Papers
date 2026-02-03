@@ -2,6 +2,7 @@
 title: "代数函数論"
 weight: 1
 bookCollapseSection: false
+bookHidden: true
 ---
 
 # 代数函数論
