@@ -1,8 +1,7 @@
 ---
-title: "代数函数論"
+title: "代数函数論緒言"
 weight: 1
 bookCollapseSection: false
-bookHidden: true
 ---
 
 # 代数函数論
