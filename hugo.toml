@@ -34,7 +34,7 @@ noClasses = false
 name = "KenkichiIwasawa"
 weight = 1
 [[menu.before]]
-name = "代数函数論"
+name = "代数函数論緒言"
 url = "/papers/iwasawa/algebraic-function-theory/"
 parent = "KenkichiIwasawa"
 weight = 1
