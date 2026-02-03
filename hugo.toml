@@ -31,8 +31,16 @@ noClasses = false
 
 [menu]
 [[menu.before]]
-name = "新着"
+name = "KenkichiIwasawa"
 weight = 1
+[[menu.before]]
+name = "代数函数論"
+url = "/papers/iwasawa/algebraic-function-theory/"
+parent = "KenkichiIwasawa"
+weight = 1
+[[menu.before]]
+name = "新着"
+weight = 2
 [[menu.before]]
 name = "リーマン面のイデー 第1章 §3"
 url = "/papers/weyl/riemann-surface/slides/chapter1-3/"
