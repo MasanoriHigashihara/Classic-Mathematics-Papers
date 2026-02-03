@@ -34,10 +34,15 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "代数函数論緒言"
+url = "/papers/iwasawa/algebraic-function-theory/"
+parent = "新着"
+weight = 1
+[[menu.before]]
 name = "リーマン面のイデー 第1章 §3"
 url = "/papers/weyl/riemann-surface/slides/chapter1-3/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "数論報告 第2章 §6"

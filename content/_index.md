@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF6B00; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/iwasawa/algebraic-function-theory/">岩澤健吉『代数函数論』緒言</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Iwasawa/AlgebraicFunctionTheory/Iwasawa_AlgebraicFunctionTheory_History.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/WN6iwU8OYR8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">代数関数論の歴史的背景と岩澤理論 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-3/">ワイル『リーマン面のイデー』第1章 §3</a></strong>
     <span style="margin-left: 10px;">
