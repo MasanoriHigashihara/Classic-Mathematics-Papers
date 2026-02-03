@@ -11,7 +11,7 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #FF6B00; background-color: #f9f9f9;">
-    <strong>📊 <a href="papers/iwasawa/algebraic-function-theory/">岩澤健吉『代数函数論』緒言</a></strong>
+    <strong>📊 <a href="papers/iwasawa/algebraic-function-theory/slides/ogon/">岩澤健吉『代数函数論』緒言</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Iwasawa/AlgebraicFunctionTheory/Iwasawa_AlgebraicFunctionTheory_History.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
       <a href="https://youtu.be/WN6iwU8OYR8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>

@@ -16,7 +16,7 @@ bookCollapseSection: false
 
 ## 序
 
-## 緒　言 <span style="margin-left: 10px;"><a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Iwasawa/AlgebraicFunctionTheory/Iwasawa_AlgebraicFunctionTheory_History.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/WN6iwU8OYR8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
+## 緒　言 <span style="margin-left: 10px;"><a href="slides/ogon/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/WN6iwU8OYR8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 ---
 
