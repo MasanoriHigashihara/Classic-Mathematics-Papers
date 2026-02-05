@@ -28,12 +28,12 @@ Satz 1–4. …… 1
 定理1–4。…… 1
 
 **§ 2.** Kongruenzen und Restklassen. Die Eulersche Funktion φ(n). Fermatscher Satz.  
-**§2.** 合同式と剰余類。オイラー関数 φ(n)。フェルマーの小定理。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§2.** 合同式と剰余類。オイラー関数 φ(n)。フェルマーの小定理。 <span style="margin-left: 10px;"><a href="https://youtu.be/9SR9GOavAIA" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em;">🎧</a> <a href="slides/chapter1-2/" title="スライド" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a></span>  
 Satz 5–9. …… 7  
 定理5–9。…… 7
 
 **§ 3.** Ganzzahlige Polynome. Funktionenkongruenzen. Teilbarkeit mod. p. Primitive Polynome.  
-**§3.** 整係数多項式。関数合同式。p を法とする可除性。原始多項式。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§3.** 整係数多項式。関数合同式。p を法とする可除性。原始多項式。 <span style="margin-left: 10px;"><a href="https://youtu.be/YzsdNMq1ldU" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em;">🎧</a> <a href="slides/chapter1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a></span>  
 Satz 10–13a. …… 11  
 定理10–13a。…… 11
 
