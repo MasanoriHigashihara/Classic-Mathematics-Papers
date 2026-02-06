@@ -229,3 +229,17 @@ name = "数論報告 序文"
 url = "/papers/hilbert/zahlbericht/slides/vorwort/"
 parent = "新着"
 weight = 35
+
+[[menu.before]]
+name = "Emmy Noether"
+weight = 10
+[[menu.before]]
+name = "不変な変分問題"
+url = "/papers/noether/invariante-variationsprobleme/"
+parent = "Emmy Noether"
+weight = 1
+[[menu.before]]
+name = "環における理想論"
+url = "/papers/noether/idealtheorie/"
+parent = "Emmy Noether"
+weight = 2
