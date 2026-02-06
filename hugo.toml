@@ -34,10 +34,15 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
+name = "不変な変分問題 概要"
+url = "/papers/noether/invariante-variationsprobleme/slides/overview/"
+parent = "新着"
+weight = 1
+[[menu.before]]
 name = "変換群論 I 序文"
 url = "/papers/lie/transformation-groups-1/slides/vorwort/"
 parent = "新着"
-weight = 1
+weight = 2
 [[menu.before]]
 name = "代数的整数論講義 第I章 §3"
 url = "/papers/hecke/algebraic-numbers/slides/chapter1-3/"
