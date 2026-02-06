@@ -239,7 +239,7 @@ weight = 35
 name = "Emmy Noether"
 weight = 10
 [[menu.before]]
-name = "不変な変分問題"
+name = "Invariante Variationsprobleme（不変な変分問題）"
 url = "/papers/noether/invariante-variationsprobleme/"
 parent = "Emmy Noether"
 weight = 1
