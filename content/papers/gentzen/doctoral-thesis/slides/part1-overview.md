@@ -1,6 +1,6 @@
 ---
 title: "博士論文 第I部 概観 - スライド"
-date: 2026-02-07
+date: 2025-02-07
 draft: false
 type: docs
 bookHidden: true
