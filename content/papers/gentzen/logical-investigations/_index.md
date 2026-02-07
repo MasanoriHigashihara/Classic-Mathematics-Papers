@@ -46,6 +46,19 @@ bookCollapseSection: false
 
 <details>
 <summary>
+<strong>Dissertation I: Kapitel 1<br>博士論文 第I部 第1節</strong>
+<span style="margin-left: 10px;">
+<a href="../doctoral-thesis/slides/part1-chapter1/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/NsLxFy0-6bs" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+</summary>
+
+ゲンツェンの博士論文第I部 第1節です。
+
+</details>
+
+<details>
+<summary>
 <strong>I. Abschnitt: Bezeichnungsfestsetzungen<br>第I節　記号の定め（記号規約）</strong>
 <span style="margin-left: 10px;">
 <a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
