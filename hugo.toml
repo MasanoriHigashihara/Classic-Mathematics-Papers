@@ -34,7 +34,7 @@ noClasses = false
 name = "新着"
 weight = 1
 [[menu.before]]
-name = "博士論文 第I部 概要"
+name = "博士論文 第I部 概観"
 url = "/papers/gentzen/doctoral-thesis/slides/part1-overview/"
 parent = "新着"
 weight = 1

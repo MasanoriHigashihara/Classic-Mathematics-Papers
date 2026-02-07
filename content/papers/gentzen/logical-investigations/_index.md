@@ -33,14 +33,14 @@ bookCollapseSection: false
 
 <details>
 <summary>
-<strong>Dissertation I: Overview<br>博士論文 第I部 概要</strong>
+<strong>Dissertation I: Overview<br>博士論文 第I部 概観</strong>
 <span style="margin-left: 10px;">
 <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/gentzen/Gentzen_Dpaper_1_overview.pdf" target="_blank" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
 <a href="https://youtu.be/jfIVIqyZrgg" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
-ゲンツェンの博士論文第I部の概要です。
+ゲンツェンの博士論文第I部の概観です。
 
 </details>
 
