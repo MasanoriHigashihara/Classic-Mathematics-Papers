@@ -1,6 +1,6 @@
 ---
 title: "概要 - スライド"
-date: 2026-02-10
+date: 2025-12-23
 draft: false
 type: docs
 bookHidden: true
