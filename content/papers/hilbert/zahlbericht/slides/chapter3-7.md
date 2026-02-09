@@ -6,8 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# Capitel III §7
-## 第3章 §7 - イデアルに関する合同（続）
+# Capitel III §7 - Die Norm eines Ideals und ihre Eigenschaften
+## 第3章 §7 - イデアルのノルムとその性質
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
