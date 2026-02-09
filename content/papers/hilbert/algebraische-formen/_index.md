@@ -13,6 +13,10 @@ bookCollapseSection: false
 **掲載誌**: Mathematische Annalen, Band 36, S. 473–534
 
 ## 概要
+<span style="margin-left: 10px;">
+<a href="slides/overview/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/eweRVv5Ku0c" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
 
 この1890年の論文は、ヒルベルトの基底定理（Hilbert's Basis Theorem）を含む画期的な論文です。この定理は、多項式環がネーター環であることを証明し、不変式論と代数幾何学に革命をもたらしました。
 
