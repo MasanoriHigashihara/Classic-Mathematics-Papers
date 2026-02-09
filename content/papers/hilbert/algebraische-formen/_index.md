@@ -4,8 +4,8 @@ weight: 4
 bookCollapseSection: false
 ---
 
-# Ueber die Theorie der algebraischen Formen*)
-**代数的形式の理論について＊）**
+# Ueber die Theorie der algebraischen Formen
+**代数的形式の理論について**
 
 **著者**: David Hilbert in Königsberg / ケーニヒスベルクのダーフィト・ヒルベルト  
 **原題**: Ueber die Theorie der algebraischen Formen  
