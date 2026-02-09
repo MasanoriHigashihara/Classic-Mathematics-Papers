@@ -18,6 +18,14 @@ type: docs
     </span><br>
     <span style="color: #666; font-size: 0.9em;">ヒルベルトの基底定理 - スライドと音声解説</span>
   </div>
+  <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/algebraische-formen/slides/supplement-theorem4/">ヒルベルト『代数的形式の理論について』補足Ⅳ 特性関数</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/papers/Hilbert_s_1890_Breakthrough.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/b1DiRGvqzGo" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">定理Ⅳ 特性関数の補足解説 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #9C27B0; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter3-7/">ヒルベルト『数論報告』第3章 §7</a></strong>
     <span style="margin-left: 10px;">
