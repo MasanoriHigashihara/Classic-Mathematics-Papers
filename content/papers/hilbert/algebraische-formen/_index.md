@@ -20,6 +20,12 @@ bookCollapseSection: false
 
 この1890年の論文は、ヒルベルトの基底定理（Hilbert's Basis Theorem）を含む画期的な論文です。この定理は、多項式環がネーター環であることを証明し、不変式論と代数幾何学に革命をもたらしました。
 
+## 補足　定理Ⅳ 特性関数
+<span style="margin-left: 10px;">
+<a href="slides/supplement-theorem4/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/b1DiRGvqzGo" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+</span>
+
 ---
 
 ## Inhalt / 内容
