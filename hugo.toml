@@ -36,16 +36,22 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "代数的形式の理論について 概要"
+url = "/papers/hilbert/algebraische-formen/slides/overview/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "数論報告 第3章 §7"
 url = "/papers/hilbert/zahlbericht/slides/chapter3-7/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "博士論文 第I部 第1節"
 url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter1/"
 parent = "新着"
-weight = 2
+weight = 3
 
 [[menu.before]]
 name = "博士論文 第I部 概観"
