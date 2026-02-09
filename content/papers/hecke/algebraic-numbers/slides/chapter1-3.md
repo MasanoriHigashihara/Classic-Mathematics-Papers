@@ -6,8 +6,8 @@ type: docs
 bookHidden: true
 ---
 
-# Kapitel I. §3
-## 第I章 §3 平方剰余の相互法則
+# § 3. Ganzzahlige Polynome. Funktionenkongruenzen. Teilbarkeit mod. p. Primitive Polynome.
+## §3. 整係数多項式。関数合同式。p を法とする可除性。原始多項式。
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
