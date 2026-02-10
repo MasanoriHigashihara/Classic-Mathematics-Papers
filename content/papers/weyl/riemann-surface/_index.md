@@ -42,7 +42,7 @@ bookCollapseSection: false
 **§3.** Verhältnis der Begriffe „analytische Funktion" und „analytisches Gebilde" zueinander <span style="margin-left: 10px;"><a href="slides/chapter1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/jk3UtC40cXk" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 「解析関数」という概念と「解析的構成体」という概念との相互関係 …… 12
 
-**§4.** Begriff der Fläche <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§4.** Begriff der Fläche <span style="margin-left: 10px;"><a href="slides/chapter1-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/JCIz0NQt_rQ" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面の概念 …… 16
 
 **§5.** Beispiele von Flächen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

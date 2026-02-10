@@ -36,10 +36,16 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "リーマン面のイデー 第1章 §4"
+url = "/papers/weyl/riemann-surface/slides/chapter1-4/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "代数的形式 補足Ⅳ 特性関数"
 url = "/papers/hilbert/algebraische-formen/slides/supplement-theorem4/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "代数的形式の理論について 概要"
