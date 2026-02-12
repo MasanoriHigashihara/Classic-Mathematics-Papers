@@ -1,6 +1,6 @@
 ---
 title: "第1章 §1 - スライド"
-date: 2026-02-13
+date: 2026-02-12
 draft: false
 type: docs
 bookHidden: true
