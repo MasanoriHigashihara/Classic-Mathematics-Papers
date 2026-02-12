@@ -38,7 +38,7 @@ Satz 10–13a. …… 11
 定理10–13a。…… 11
 
 **§ 4.** Auflösung von einer oder mehreren Kongruenzen I. Grades mit einer Unbekannten.  
-**§4.** 1つまたは複数の一次合同式（未知数1個）の解法。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§4.** 1つまたは複数の一次合同式（未知数1個）の解法。 <span style="margin-left: 10px;"><a href="slides/chapter1-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/MFgIzRiF7Zw" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 14–15. …… 14  
 定理14–15。…… 14
 
