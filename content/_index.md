@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #7B1FA2; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/lie/transformation-groups-1/slides/chapter1-1/">リー『変換群論 I』第1章 §1</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/lie/Sophus_Lie_tf_1_1_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/PpFlyAN6E8w" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">群の無限小変換 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #FF7043; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter1-4/">ヘッケ『代数的整数論講義』第I章 §4</a></strong>
     <span style="margin-left: 10px;">
