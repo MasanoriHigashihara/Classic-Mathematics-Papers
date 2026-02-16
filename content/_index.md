@@ -11,6 +11,14 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/gentzen/doctoral-thesis/slides/part1-chapter2-2/">ゲンツェン『博士論文』第I部 第2章第2節</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/gentzen/Genzen_Dpaper_1_2_2.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/HDw0E7fa444" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ゲンツェンの博士論文第I部第2章第2節 - スライドと音声解説</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/gentzen/doctoral-thesis/slides/part1-chapter2-1/">ゲンツェン『博士論文』第I部 第2章第1節</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/gentzen/Genzen_Dpaper_1_2_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
