@@ -89,7 +89,7 @@ bookCollapseSection: false
 **§7** Die Norm eines Ideals und ihre Eigenschaften <span style="margin-left: 10px;"><a href="slides/chapter3-7/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/Eycw7-evvwg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 イデアルのノルムとその性質（例：$N(\mathfrak{a})$）
 
-**§8** Der Fermat'sche Satz in der Idealtheorie und die Funktion $\varphi(\alpha)$ <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§8** Der Fermat'sche Satz in der Idealtheorie und die Funktion $\varphi(\alpha)$ <span style="margin-left: 10px;"><a href="slides/chapter3-8/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/wiQ8xAwMjsU" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 イデアル論におけるフェルマーの定理と $\varphi(\alpha)$
 
 **§9** Die Primitivzahlen nach einem Primideal <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

@@ -36,6 +36,12 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "数論報告 第3章 §8"
+url = "/papers/hilbert/zahlbericht/slides/chapter3-8/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "博士論文 第I部 第2章第2節 補足"
 url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter2-2-supplement/"
 parent = "新着"
