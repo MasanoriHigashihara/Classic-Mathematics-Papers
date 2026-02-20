@@ -1,19 +1,19 @@
 ---
-title: "Capitel III §9 - スライド"
-date: 2026-02-17
-draft: true
+title: "Erstes Kapitel §5 - スライド"
+date: 2026-02-20
+draft: false
 type: docs
 bookHidden: true
 ---
 
-# Capitel III §9 - Die Primitivzahlen nach einem Primideal
-## 第3章 §9 - 素イデアルに関する原始数
+# Erstes Kapitel §5 - Beispiele von Flächen
+## 第1章 §5 - 面の例
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/_OQALaCY1Ws" 
+    src="https://www.youtube.com/embed/UgVHiV0RiN4" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/zchapter3-９.pdf" >}}
+{{< pdf-embed "slides/Weyl/RiemannSurface/weyl_riemann_surface_1_5.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
@@ -36,4 +36,4 @@ bookHidden: true
 ---
 
 **内容:**
-- §9 素イデアルに関する原始数
+- §5 Beispiele von Flächen（面の例）

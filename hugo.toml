@@ -36,16 +36,16 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
-name = "数論報告 第3章 §9"
-url = "/papers/hilbert/zahlbericht/slides/chapter3-9/"
+name = "リーマン面のイデー 第1章 §5"
+url = "/papers/weyl/riemann-surface/slides/chapter1-5/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "数論報告 第3章 §8"
 url = "/papers/hilbert/zahlbericht/slides/chapter3-8/"
 parent = "新着"
-weight = 2
+weight = 3
 
 [[menu.before]]
 name = "博士論文 第I部 第2章第2節 補足"
