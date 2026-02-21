@@ -27,7 +27,7 @@ bookCollapseSection: false
 <strong>第1章　賦値論よりの準備</strong>
 </summary>
 
-**§1.** 賦値と素因子
+**§1.** 賦値と素因子 <span style="margin-left: 10px;"><a href="slides/chapter1-1/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/PJUWbx61qOg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 **§2.** 賦値による距離と完備化
 

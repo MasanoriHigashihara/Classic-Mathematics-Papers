@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF6B00; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/iwasawa/algebraic-function-theory/slides/chapter1-1/">岩澤健吉『代数函数論』第1章 §1</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Iwasawa/iwasawa_af_1_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/PJUWbx61qOg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">賦値と素因子 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/algebraische-formen/slides/section1/">ヒルベルト『代数的形式の理論について』I. 任意の形式系における形式の有限性</a></strong>
     <span style="margin-left: 10px;">
