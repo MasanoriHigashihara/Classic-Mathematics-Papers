@@ -33,7 +33,7 @@ bookCollapseSection: false
 **§1** — Die infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="slides/chapter1-1/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/PpFlyAN6E8w" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第1節**　群の無限小変換
 
-**§2** — Beziehungen zwischen den infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§2** — Beziehungen zwischen den infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="slides/chapter1-2/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/XkXKgo0dNfI" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第2節**　群の無限小変換の相互関係
 
 **§3** — Infinitesimale Transformationen verschiedener Ordnung. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
