@@ -18,6 +18,14 @@ type: docs
     </span><br>
     <span style="color: #666; font-size: 0.9em;">賦値と素因子 - スライドと音声解説</span>
   </div>
+  <div style="padding: 15px; border-left: 4px solid #FF7043; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter2/">ヘッケ『代数的整数論講義』第II章</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_2.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/VGBKQAl3GTg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">アーベル群 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/algebraische-formen/slides/section1/">ヒルベルト『代数的形式の理論について』I. 任意の形式系における形式の有限性</a></strong>
     <span style="margin-left: 10px;">
