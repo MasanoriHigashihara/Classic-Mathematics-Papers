@@ -1,9 +1,8 @@
 ---
 title: "Capitel III §9 - スライド"
 date: 2026-02-17
-draft: true
+draft: false
 type: docs
-bookHidden: true
 ---
 
 # Capitel III §9 - Die Primitivzahlen nach einem Primideal
@@ -13,7 +12,7 @@ bookHidden: true
   <iframe 
     width="280" 
     height="158" 
-    src="https://www.youtube.com/embed/_OQALaCY1Ws" 
+    src="https://www.youtube.com/embed/NULYhpJNaKg" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
