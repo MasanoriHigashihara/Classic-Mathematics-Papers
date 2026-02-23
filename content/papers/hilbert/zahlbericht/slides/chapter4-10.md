@@ -1,7 +1,7 @@
 ---
 title: "Capitel IV §10 - スライド"
 date: 2026-02-23
-draft: true
+draft: false
 type: docs
 bookHidden: true
 ---

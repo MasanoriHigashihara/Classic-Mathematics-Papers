@@ -1,7 +1,7 @@
 ---
 title: "Capitel III §9 - スライド"
 date: 2026-02-17
-draft: true
+draft: false
 type: docs
 bookHidden: true
 ---
