@@ -1,8 +1,9 @@
 ---
 title: "Capitel IV §10 - スライド"
 date: 2026-02-23
-draft: false
+draft: true
 type: docs
+bookHidden: true
 ---
 
 # Capitel IV §10 - Der Satz über die Theiler der Discriminante des Körpers. Hilfssätze über ganze Functionen
