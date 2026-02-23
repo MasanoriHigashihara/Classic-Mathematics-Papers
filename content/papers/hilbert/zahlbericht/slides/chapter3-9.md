@@ -22,7 +22,7 @@ type: docs
 
 ### スライド資料
 
-{{< pdf-embed "slides/hilbert/zahlbericht/zchapter3-９.pdf" >}}
+{{< pdf-embed "slides/hilbert/zahlbericht/zchapter3-9.pdf" >}}
 
 <div class="pdf-hint">
   <p><strong>💡 ヒント:</strong></p>
