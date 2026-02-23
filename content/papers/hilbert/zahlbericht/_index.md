@@ -106,7 +106,7 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§10** Der Satz über die Theiler der Discriminante des Körpers. Hilfssätze über ganze Functionen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§10** Der Satz über die Theiler der Discriminante des Körpers. Hilfssätze über ganze Functionen <span style="margin-left: 10px;"><a href="slides/chapter4-10/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/nMrKLD1d9jQ" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 数体の判別式の約数に関する定理。整関数に関する補助定理
 
 **§11** Zerlegung der linken Seite der Fundamentalgleichung; Die Discriminante der Fundamentalgleichung <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
