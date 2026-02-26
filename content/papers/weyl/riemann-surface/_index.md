@@ -48,7 +48,7 @@ bookCollapseSection: false
 **§5.** Beispiele von Flächen <span style="margin-left: 10px;"><a href="slides/chapter1-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/UgVHiV0RiN4" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面の例 …… 25
 
-**§6.** Analytische Gebilde, als Flächen betrachtet <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§6.** Analytische Gebilde, als Flächen betrachtet <span style="margin-left: 10px;"><a href="slides/chapter1-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/GzFz6wSfzSM" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面として考察される解析的構成体 …… 30
 
 **§7.** Begriff der Riemannschen Fläche <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

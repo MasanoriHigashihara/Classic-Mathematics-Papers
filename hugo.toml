@@ -36,10 +36,16 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "リーマン面のイデー 第1章 §6"
+url = "/papers/weyl/riemann-surface/slides/chapter1-6/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
 name = "代数的形式 II. 整数係数の有限性"
 url = "/papers/hilbert/algebraische-formen/slides/section2/"
 parent = "新着"
-weight = 2
+weight = 3
 
 [[menu.before]]
 name = "数論報告 第4章 §10"
