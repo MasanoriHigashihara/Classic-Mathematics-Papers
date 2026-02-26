@@ -47,8 +47,8 @@ bookCollapseSection: false
 <summary>
 <strong>II. Die Endlichkeit der Formen mit ganzzahligen Coefficienten<br>II. 整数係数をもつ形式の有限性</strong>
 <span style="margin-left: 10px;">
-<a href="#" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
-<a href="#" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
+<a href="slides/section2/" title="スライド" style="text-decoration: none; font-size: 1.2em;">📊</a>
+<a href="https://youtu.be/J7qWoaoh5n8" title="音声解説" style="text-decoration: none; font-size: 1.2em; margin-left: 8px;">🎧</a>
 </span>
 </summary>
 
