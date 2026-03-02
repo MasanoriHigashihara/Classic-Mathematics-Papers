@@ -42,6 +42,12 @@ parent = "新着"
 weight = 2
 
 [[menu.before]]
+name = "博士論文 第I部 第2章第4節"
+url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter2-4/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
 name = "変換群論 I 第1章 §3"
 url = "/papers/lie/transformation-groups-1/slides/chapter1-3/"
 parent = "新着"
