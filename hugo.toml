@@ -36,6 +36,12 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "自然同値の一般理論 概要1"
+url = "/papers/category/natural-equivalences/slides/overview1/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
 name = "代数的整数論講義 第II章 §5"
 url = "/papers/hecke/algebraic-numbers/slides/chapter2-5/"
 parent = "新着"
