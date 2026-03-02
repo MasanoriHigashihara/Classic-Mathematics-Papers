@@ -11,6 +11,31 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📖 <a href="papers/category/category-of-categories/">ローヴェア『数学の基礎としての圏の圏』(1966)</a></strong>
+    <br>
+    <span style="color: #666; font-size: 0.9em;">「圏の圏」を用いて数学の基礎全体を再構築する野心的な論文（CCAF）</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📖 <a href="papers/category/sur-quelques-points/">グロタンディーク『ホモロジー代数のいくつかの点について』(1957)</a></strong>
+    <br>
+    <span style="color: #666; font-size: 0.9em;">アーベル圏の概念を確立し現代数学の基礎を築いた「東北論文」</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📖 <a href="papers/category/elementary-theory-of-category-of-sets/">ローヴェア『集合の圏の初等理論』(1964)</a></strong>
+    <br>
+    <span style="color: #666; font-size: 0.9em;">圏論を用いて集合論を再構築（ETCS）した重要論文</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📖 <a href="papers/category/adjoint-functors/">カン『随伴関手』(1958/1960)</a></strong>
+    <br>
+    <span style="color: #666; font-size: 0.9em;">圏論で最も重要な概念「随伴」を確立した記念碑的論文</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
+    <strong>📖 <a href="papers/category/natural-isomorphisms/">アイレンベルク＆マックレーン『群論における自然同型』(1942)</a></strong>
+    <br>
+    <span style="color: #666; font-size: 0.9em;">圏、関手、自然変換の概念を初めて公に導入した論文</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #795548; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/category/natural-equivalences/slides/overview1/">アイレンベルク＝マックレーン『自然同値の一般理論』概要1</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/category/General%20Theory%20of%20Natural%20Equivalences/The_Algebra_of_Mappings.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>

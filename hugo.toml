@@ -36,40 +36,70 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "数学の基礎としての圏の圏"
+url = "/papers/category/category-of-categories/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
+name = "ホモロジー代数のいくつかの点について"
+url = "/papers/category/sur-quelques-points/"
+parent = "新着"
+weight = 3
+
+[[menu.before]]
+name = "集合の圏の初等理論"
+url = "/papers/category/elementary-theory-of-category-of-sets/"
+parent = "新着"
+weight = 4
+
+[[menu.before]]
+name = "随伴関手"
+url = "/papers/category/adjoint-functors/"
+parent = "新着"
+weight = 5
+
+[[menu.before]]
+name = "群論における自然同型"
+url = "/papers/category/natural-isomorphisms/"
+parent = "新着"
+weight = 6
+
+[[menu.before]]
 name = "自然同値の一般理論 概要1"
 url = "/papers/category/natural-equivalences/slides/overview1/"
 parent = "新着"
-weight = 2
+weight = 7
 
 [[menu.before]]
 name = "自然同値の一般理論 概要2"
 url = "/papers/category/natural-equivalences/slides/overview2/"
 parent = "新着"
-weight = 3
+weight = 8
 
 [[menu.before]]
 name = "代数的整数論講義 第II章 §5"
 url = "/papers/hecke/algebraic-numbers/slides/chapter2-5/"
 parent = "新着"
-weight = 4
+weight = 9
 
 [[menu.before]]
 name = "博士論文 第I部 第2章第4節"
 url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter2-4/"
 parent = "新着"
-weight = 5
+weight = 10
 
 [[menu.before]]
 name = "変換群論 I 第1章 §3"
 url = "/papers/lie/transformation-groups-1/slides/chapter1-3/"
 parent = "新着"
-weight = 6
+weight = 11
 
 [[menu.before]]
 name = "リーマン面のイデー 第1章 §6"
 url = "/papers/weyl/riemann-surface/slides/chapter1-6/"
 parent = "新着"
-weight = 7
+weight = 12
 
 [[menu.before]]
 name = "代数的形式 II. 整数係数の有限性"
