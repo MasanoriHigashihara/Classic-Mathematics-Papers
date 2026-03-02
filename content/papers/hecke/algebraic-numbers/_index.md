@@ -48,7 +48,7 @@ Satz 14–15. …… 14
 ### 第II章　アーベル群 <span style="margin-left: 10px;"><a href="slides/chapter2" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/VGBKQAl3GTg" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 
 **§ 5.** Der allgemeine Gruppenbegriff. Das Rechnen mit den Elementen der Gruppe.  
-**§5.** 一般的な群の概念。群の要素による計算。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§5.** 一般的な群の概念。群の要素による計算。 <span style="margin-left: 10px;"><a href="slides/chapter2-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/TtphGJTPqoc" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 16–18. …… 17  
 定理16–18。…… 17
 

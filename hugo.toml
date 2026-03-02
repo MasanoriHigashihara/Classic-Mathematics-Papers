@@ -36,6 +36,12 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "代数的整数論講義 第II章 §5"
+url = "/papers/hecke/algebraic-numbers/slides/chapter2-5/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
 name = "変換群論 I 第1章 §3"
 url = "/papers/lie/transformation-groups-1/slides/chapter1-3/"
 parent = "新着"
