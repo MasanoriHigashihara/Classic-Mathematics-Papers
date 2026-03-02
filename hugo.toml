@@ -36,36 +36,6 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
-name = "数学の基礎としての圏の圏"
-url = "/papers/category/category-of-categories/"
-parent = "新着"
-weight = 2
-
-[[menu.before]]
-name = "ホモロジー代数のいくつかの点について"
-url = "/papers/category/sur-quelques-points/"
-parent = "新着"
-weight = 3
-
-[[menu.before]]
-name = "集合の圏の初等理論"
-url = "/papers/category/elementary-theory-of-category-of-sets/"
-parent = "新着"
-weight = 4
-
-[[menu.before]]
-name = "随伴関手"
-url = "/papers/category/adjoint-functors/"
-parent = "新着"
-weight = 5
-
-[[menu.before]]
-name = "群論における自然同型"
-url = "/papers/category/natural-isomorphisms/"
-parent = "新着"
-weight = 6
-
-[[menu.before]]
 name = "自然同値の一般理論 概要1"
 url = "/papers/category/natural-equivalences/slides/overview1/"
 parent = "新着"
