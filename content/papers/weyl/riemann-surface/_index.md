@@ -51,7 +51,7 @@ bookCollapseSection: false
 **§6.** Analytische Gebilde, als Flächen betrachtet <span style="margin-left: 10px;"><a href="slides/chapter1-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/GzFz6wSfzSM" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面として考察される解析的構成体 …… 30
 
-**§7.** Begriff der Riemannschen Fläche <span style="margin-left: 10px;"><a href="slides/chapter1-7-1/" title="スライド (1/3)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/igHBcpvHsRU" title="音声解説 (1/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§7.** Begriff der Riemannschen Fläche <span style="margin-left: 10px;"><a href="slides/chapter1-7-1/" title="スライド (1/3)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/igHBcpvHsRU" title="音声解説 (1/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="#" title="スライド (2/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="#" title="音声解説 (2/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="#" title="スライド (3/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="#" title="音声解説 (3/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 リーマン面の概念 …… 34
 
 **§8.** Schlichtartige Flächen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
