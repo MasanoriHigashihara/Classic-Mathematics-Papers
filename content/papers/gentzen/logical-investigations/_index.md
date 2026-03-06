@@ -100,15 +100,15 @@ bookCollapseSection: false
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§3</strong> Der inhaltliche Sinn der NJ-Schlußfiguren（NJ 結論図式の内容的意味）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter2-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/ksnX7BIwhcw" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§4</strong> Beschreibung der drei Beispiele aus §1 als NJ-Herleitungen（§1の3つの例をNJ導出として記述する）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter2-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/tmNyGiNEEBk" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
