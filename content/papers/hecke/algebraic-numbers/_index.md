@@ -53,7 +53,7 @@ Satz 16–18. …… 17
 定理16–18。…… 17
 
 **§ 6.** Untergruppen. Einteilung der Gruppenelemente durch eine Untergruppe. Grad der Elemente.  
-**§6.** 部分群。部分群による群要素の分類。要素の位数。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§6.** 部分群。部分群による群要素の分類。要素の位数。 <span style="margin-left: 10px;"><a href="slides/chapter2-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/8QoZIcF3Ji4" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 19–21. …… 21  
 定理19–21。…… 21
 
