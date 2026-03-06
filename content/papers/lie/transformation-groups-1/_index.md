@@ -39,7 +39,7 @@ bookCollapseSection: false
 **§3** — Infinitesimale Transformationen verschiedener Ordnung. <span style="margin-left: 10px;"><a href="slides/chapter1-3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/wFsMO6dBOXo" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第3節**　種々の次数の無限小変換
 
-**§4** — Erledigung des aufgestellten Problems. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§4** — Erledigung des aufgestellten Problems. <span style="margin-left: 10px;"><a href="slides/chapter1-4/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/Ez-AWAuRc3A" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第4節**　設定された問題の解決
 
 ---
