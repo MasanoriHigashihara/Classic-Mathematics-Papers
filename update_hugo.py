@@ -25,8 +25,8 @@ for i, line in enumerate(out_lines):
 
 new_item = """
 [[menu.before]]
-name = "変換群論 I 第1章 §4"
-url = "/papers/lie/transformation-groups-1/slides/chapter1-4/"
+name = "博士論文 第I部 第2章第5節"
+url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter2-5/"
 parent = "新着"
 weight = 2"""
 

@@ -114,8 +114,8 @@ bookCollapseSection: false
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§5</strong> Einige Bemerkungen zum Kalkül NJ. Der Kalkül NK.（計算体系NJに関する若干の注意 ― 計算体系NK）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter2-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/riC8fbj0u4A" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
 </div>
