@@ -112,7 +112,7 @@ bookCollapseSection: false
 **§11** Zerlegung der linken Seite der Fundamentalgleichung; Die Discriminante der Fundamentalgleichung <span style="margin-left: 10px;"><a href="slides/chapter4-11/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/-IeAS2KoVYo" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 基本方程式の左辺の分解、基本方程式の判別式
 
-**§12** Die Elemente und die Differente des Körpers. Beweis des Satzes über die Theiler der Körperdiscriminante <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§12** Die Elemente und die Differente des Körpers. Beweis des Satzes über die Theiler der Körperdiscriminante <span style="margin-left: 10px;"><a href="slides/chapter4-12/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/ZG3BSuTPDeg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 数体の元とディファレント。数体判別式の約数に関する定理の証明
 
 **§13** Aufstellung der Primideale; Der feste Zahlteiler der rationalen Einheitstform $U$ <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
