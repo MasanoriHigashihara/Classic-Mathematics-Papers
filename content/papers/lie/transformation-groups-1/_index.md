@@ -49,7 +49,7 @@ bookCollapseSection: false
 **Bestimmung aller Transformationsgruppen einer zweifach ausgedehnten Mannigfaltigkeit.**  
 **二重に拡張された多様体のすべての変換群の決定**
 
-**§5** — Die infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§5** — Die infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="slides/chapter2-5/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/mEgzOz9YRIE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第5節**　群の無限小変換
 
 **§6** — Beziehungen zwischen den infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
