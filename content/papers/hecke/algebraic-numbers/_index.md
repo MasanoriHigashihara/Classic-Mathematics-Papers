@@ -58,7 +58,7 @@ Satz 19–21. …… 21
 定理19–21。…… 21
 
 **§ 7.** Abelsche Gruppen. Produkt zweier Abelschen Gruppen.  
-**§7.** アーベル群。2つのアーベル群の直積。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§7.** アーベル群。2つのアーベル群の直積。 <span style="margin-left: 10px;"><a href="slides/chapter2-7/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/fE16GvE116A" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 22–25. …… 24  
 定理22–25。…… 24
 
