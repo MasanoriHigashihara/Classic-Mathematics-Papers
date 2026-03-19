@@ -54,7 +54,7 @@ bookCollapseSection: false
 **§7.** Begriff der Riemannschen Fläche <span style="margin-left: 10px;"><a href="slides/chapter1-7-1/" title="スライド (1/3)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/igHBcpvHsRU" title="音声解説 (1/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="slides/chapter1-7-2/" title="スライド (2/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="https://youtu.be/3uCzpxWnD68" title="音声解説 (2/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="#" title="スライド (3/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="#" title="音声解説 (3/3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 リーマン面の概念 …… 34
 
-**§8.** Schlichtartige Flächen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§8.** Schlichtartige Flächen <span style="margin-left: 10px;"><a href="slides/chapter1-8/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/ESa5OmqUqX8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 単葉的な型の面 …… 43
 
 **§9.** Überlagerungsflächen. Einfach zusammenhängende Flächen. Monodromiesatz und Cauchyscher Integralsatz <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
