@@ -115,7 +115,7 @@ bookCollapseSection: false
 **§12** Die Elemente und die Differente des Körpers. Beweis des Satzes über die Theiler der Körperdiscriminante <span style="margin-left: 10px;"><a href="slides/chapter4-12/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/ZG3BSuTPDeg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 数体の元とディファレント。数体判別式の約数に関する定理の証明
 
-**§13** Aufstellung der Primideale; Der feste Zahlteiler der rationalen Einheitstform $U$ <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§13** Aufstellung der Primideale; Der feste Zahlteiler der rationalen Einheitstform $U$ <span style="margin-left: 10px;"><a href="slides/chapter4-13/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/Et-8olAGBO0" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 素イデアルの構成、有理一次式 $U$ の固定因子
 
 </details>
