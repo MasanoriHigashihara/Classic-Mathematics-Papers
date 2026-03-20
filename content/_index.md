@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF5722; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter2-8/">ヘッケ『代数的整数論講義』第II章 §8</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_2_8.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/dtxwRCO_FNU" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">有限アーベル群の基底。素数に対応する基底数。巡回群。 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-8/">ワイル『リーマン面の理念』第1章 §8</a></strong>
     <span style="margin-left: 10px;">

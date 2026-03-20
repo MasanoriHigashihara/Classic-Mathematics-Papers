@@ -12,8 +12,8 @@ def update_hugo_toml():
     # blocks[1] is name = "新着" ...
     
     new_block = """
-name = "リーマン面のイデー 第1章 §7 (1)"
-url = "/papers/weyl/riemann-surface/slides/chapter1-7-1/"
+name = "代数的整数論講義 第II章 §8"
+url = "/papers/hecke/algebraic-numbers/slides/chapter2-8/"
 parent = "新着"
 weight = 2
 """
