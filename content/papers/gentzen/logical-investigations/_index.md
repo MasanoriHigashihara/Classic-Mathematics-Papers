@@ -142,8 +142,8 @@ bookCollapseSection: false
   <div style="padding: 10px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§2</strong> Einige Bemerkungen zu den Kalkülen LJ und LK. — Der Hauptsatz.（計算体系 LJ と LK に関するいくつかの注意。— 主定理）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter3-2/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/jtUwj7Q5u0g" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
     <div style="font-size: 0.9em; color: #444; margin-top: 8px; line-height: 1.5;">
       定義された LJ と LK の性質（例えば古典論理 LK が持つ鏡像的な対称性など）を考察した上で、論理学史において極めて重要な<strong>「主定理（Hauptsatz）」を宣言する節です。主定理とは、「すべての LJ- または LK-導出は、同じ終式を持ち、かつ『カット（Schnitt）』と呼ばれる推論図形が一切現れない導出に変換できる」という定理（カット除去定理）です。さらに、カットを含まない証明においては、証明過程に現れるすべての式が最終的な結論の部分式（Teilformel）</strong>にしかなり得ないという「部分式特性」が成り立つ意義について解説しています。
