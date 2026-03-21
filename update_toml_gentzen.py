@@ -9,8 +9,8 @@ def update_hugo_toml():
     blocks = content.split('[[menu.before]]')
     
     new_block = """
-name = "博士論文 第I部 第3章第1節"
-url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter3-1/"
+name = "博士論文 第I部 第3章第2節"
+url = "/papers/gentzen/doctoral-thesis/slides/part1-chapter3-2/"
 parent = "新着"
 weight = 1
 """
