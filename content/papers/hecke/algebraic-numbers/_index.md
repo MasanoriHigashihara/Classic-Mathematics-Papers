@@ -68,7 +68,7 @@ Satz 26–28. …… 27
 定理26–28。…… 27
 
 **§ 9.** Komposition der Nebengruppen. Die Faktorgruppe.  
-**§9.** 副群の合成。因子群。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§9.** 副群の合成。因子群。 <span style="margin-left: 10px;"><a href="slides/chapter2-9/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/44th8opiR-U" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 29 …… 31  
 定理29。…… 31
 
