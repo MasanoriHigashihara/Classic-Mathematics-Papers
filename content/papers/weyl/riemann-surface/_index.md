@@ -57,7 +57,7 @@ bookCollapseSection: false
 **§8.** Schlichtartige Flächen <span style="margin-left: 10px;"><a href="slides/chapter1-8/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/ESa5OmqUqX8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 単葉的な型の面 …… 43
 
-**§9.** Überlagerungsflächen. Einfach zusammenhängende Flächen. Monodromiesatz und Cauchyscher Integralsatz <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§9.** Überlagerungsflächen. Einfach zusammenhängende Flächen. Monodromiesatz und Cauchyscher Integralsatz <span style="margin-left: 10px;"><a href="slides/chapter1-9/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/zqXRYU2lBxM" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 被覆面。単連結な面。モノドロミー定理とコーシーの積分定理 …… 47
 
 **§10.** Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
