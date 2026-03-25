@@ -7,7 +7,7 @@ bookHidden: true
 ---
 
 # Kapitel II §9 - Komposition der Nebengruppen. Die Faktorgruppe.
-## 第2章 §9 - 副群の合成。因子群。
+## 第2章 §9 - 剰余群の誕生
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -36,4 +36,4 @@ bookHidden: true
 ---
 
 **内容:**
-- §9 副群の合成。因子群。
+- §9 剰余群の誕生
