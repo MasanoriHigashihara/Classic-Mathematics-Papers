@@ -55,7 +55,7 @@ bookCollapseSection: false
 **§6** — Beziehungen zwischen den infinitesimalen Transformationen einer Gruppe. <span style="margin-left: 10px;"><a href="slides/chapter2-6/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/McKOF62HxvE" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第6節**　群の無限小変換の相互関係
 
-**§7** — Eine Gruppe ist bestimmt durch ihre infinitesimalen Transformationen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§7** — Eine Gruppe ist bestimmt durch ihre infinitesimalen Transformationen. <span style="margin-left: 10px;"><a href="slides/chapter2-7/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/NfTTFlMTam4" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第7節**　群はその無限小変換によって定まる
 
 **§8** — Transformation der Linienelemente. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

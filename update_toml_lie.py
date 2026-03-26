@@ -23,8 +23,8 @@ insert_idx = new_text.find("\n", insert_idx) + 1
 
 new_entry = """
 [[menu.before]]
-name = "変換群論 I 第2章 §5"
-url = "/papers/lie/transformation-groups-1/slides/chapter2-5/"
+name = "変換群論 I 第2章 §7"
+url = "/papers/lie/transformation-groups-1/slides/chapter2-7/"
 parent = "新着"
 weight = 2
 """
