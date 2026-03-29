@@ -17,6 +17,16 @@ bookCollapseSection: true
     </span><br>
     <span style="color: #666; font-size: 0.9em;">第I部 第3章第3節 (1) - スライドと音声解説</span>
   </div>
+  <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9; opacity: 0.5;">
+    <strong>📊 第I部 第3章第3節 (2)</strong>
+    <span style="margin-left: 10px;">📊 🎧</span><br>
+    <span style="color: #666; font-size: 0.9em;">第I部 第3章第3節 (2) - 準備中</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9; opacity: 0.5;">
+    <strong>📊 第I部 第3章第3節 (3)</strong>
+    <span style="margin-left: 10px;">📊 🎧</span><br>
+    <span style="color: #666; font-size: 0.9em;">第I部 第3章第3節 (3) - 準備中</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #4CAF50; background-color: #f9f9f9;">
     <strong>📊 <a href="slides/part1-chapter3-2/">第I部 第3章第2節</a></strong>
     <span style="margin-left: 10px;">
