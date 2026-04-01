@@ -153,8 +153,12 @@ bookCollapseSection: false
   <div style="padding: 10px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§3</strong> Beweis des Hauptsatzes（主定理の証明）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter3-3-1/" title="スライド (1)" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/zxbhr0XQJSQ" target="_blank" title="音声解説 (1)" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="../doctoral-thesis/slides/part1-chapter3-3-2/" title="スライド (2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a>
+      <a href="https://youtu.be/BHwokhnIiCA" target="_blank" title="音声解説 (2)" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="#" title="スライド (3)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a>
+      <a href="#" title="音声解説 (3)" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
     <div style="font-size: 0.9em; color: #444; margin-top: 8px; line-height: 1.5;">
       前の節で宣言された主定理を、実際に厳密な手続きによって証明する節です。証明の技術的な困難を避けるため、ゲンツェンはカットの変種である<strong>「混合（Mischung）」</strong>という新しい推論図式を導入します。そして、消去したい式の複雑さを表す「次数（Grad）」と、証明図の中でのその式の位置の深さを表す「階数（Rang）」という2つの指標を定義し、これらに対する二重の数学的帰納法を用いて、証明の木構造から混合（カット）を徐々に上へと押し上げ、最終的に完全に消去してしまう具体的なアルゴリズムを展開しています。
