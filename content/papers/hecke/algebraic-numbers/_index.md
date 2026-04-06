@@ -73,7 +73,7 @@ Satz 29 …… 31
 定理29。…… 31
 
 **§ 10.** Charaktere von endlichen Abelschen Gruppen. Die Gruppe der Charaktere. Bestimmung aller Untergruppen.  
-**§10.** 有限アーベル群の指標（キャラクター）。指標群。すべての部分群の決定。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§10.** 有限アーベル群の指標（キャラクター）。指標群。すべての部分群の決定。 <span style="margin-left: 10px;"><a href="slides/chapter2-10-1/" title="スライド (1/2)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/3KCXG6DJodg" title="音声解説 (1/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="slides/chapter2-10-2/" title="スライド (2/2) 証明詳細版" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="https://youtu.be/ITj9hRMiews" title="音声解説 (2/2) 証明詳細版" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 30–33 …… 34  
 定理30–33。…… 34
 
