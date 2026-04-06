@@ -132,7 +132,7 @@ bookCollapseSection: false
 **§14** Die Relativnorm, die Relativdifferente und die Relativdiscriminante <span style="margin-left: 10px;"><a href="slides/chapter5-14/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/wLdF8iXil3g" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 相対ノルム・相対ディファレント・相対判別式
 
-**§15** Eigenschaften der Relativdifferente und der Relativdiscriminante eines Körpers <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§15** Eigenschaften der Relativdifferente und der Relativdiscriminante eines Körpers <span style="margin-left: 10px;"><a href="slides/chapter5-15/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/abpV324w9Pg" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 ある体の相対ディファレントと相対判別式の性質
 
 **§16** Die Zerlegung eines Elementes des Körpers k im Oberkörper K. Der Satz von der Differente des Oberkörpers K <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
