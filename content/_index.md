@@ -10,6 +10,22 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-10-1/">ワイル『リーマン面の理念』第1章 §10 (1)</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Weyl/RiemannSurface/weyl_riemann_surface_1_10_1.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/Au8KMiGKUyI" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">面の片側性と両側性。留数定理 (1) - スライドと音声解説</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-10-2/">ワイル『リーマン面の理念』第1章 §10 (2)</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Weyl/RiemannSurface/weyl_riemann_surface_1_10_2.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/TEnWjL5vMgE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">面の片側性と両側性。留数定理 (2) 証明詳細版 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter5-15/">ヒルベルト『数論報告』第5章 §15</a></strong>
     <span style="margin-left: 10px;">

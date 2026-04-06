@@ -60,7 +60,7 @@ bookCollapseSection: false
 **§9.** Überlagerungsflächen. Einfach zusammenhängende Flächen. Monodromiesatz und Cauchyscher Integralsatz <span style="margin-left: 10px;"><a href="slides/chapter1-9/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/zqXRYU2lBxM" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 被覆面。単連結な面。モノドロミー定理とコーシーの積分定理 …… 47
 
-**§10.** Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§10.** Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz <span style="margin-left: 10px;"><a href="slides/chapter1-10-1/" title="スライド (1/2)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/Au8KMiGKUyI" title="音声解説 (1/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="slides/chapter1-10-2/" title="スライド (2/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="https://youtu.be/TEnWjL5vMgE" title="音声解説 (2/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面の片側性と両側性。留数定理 …… 56
 
 **§11.** Integralfunktionen. Geschlechtszahl. Kanonische Zerschneidung <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
