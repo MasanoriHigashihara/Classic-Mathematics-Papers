@@ -7,7 +7,7 @@ bookHidden: true
 ---
 
 # Erstes Kapitel §10 (2) - Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz
-## 第1章 §10 (2) - 面の片側性と両側性。留数定理（証明詳細版）
+## 第1章 §10 (2) - 面の片側性と両側性。留数定理
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -36,4 +36,4 @@ bookHidden: true
 ---
 
 **内容:**
-- §10 Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz（面の片側性と両側性。留数定理）(2) 証明詳細版
+- §10 Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz（面の片側性と両側性。留数定理）(2)
