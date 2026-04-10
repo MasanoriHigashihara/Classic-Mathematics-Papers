@@ -1,6 +1,6 @@
 ---
 title: "Abschnitt II §8 - スライド"
-date: 2026-04-11
+date: 2025-04-11
 draft: false
 type: docs
 bookHidden: true
