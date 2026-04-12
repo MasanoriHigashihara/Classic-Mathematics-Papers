@@ -1,5 +1,5 @@
 ---
-title: "博士論文 第II部 第4節 (1) - スライド"
+title: "博士論文 第II部 第4節 §1 - スライド"
 date: 2026-04-12
 draft: false
 type: docs
@@ -7,7 +7,7 @@ bookHidden: true
 ---
 
 # Dissertation II - §4 (1)
-## 博士論文 第II部 第4節 (1)
+## 博士論文 第II部 第4節 §1
 
 <div style="text-align:center; margin: 1.5rem 0;">
   <iframe 
@@ -37,4 +37,4 @@ bookHidden: true
 
 **内容:**
 
-ゲンツェンの博士論文第II部 第4節（1）です。
+ゲンツェンの博士論文第II部 第4節§1です。

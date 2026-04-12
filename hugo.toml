@@ -36,7 +36,7 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
-name = "博士論文 第II部 第4節 (1)"
+name = "博士論文 第II部 第4節 §1"
 url = "/papers/gentzen/doctoral-thesis/slides/part2-chapter4-1/"
 parent = "新着"
 weight = 2
