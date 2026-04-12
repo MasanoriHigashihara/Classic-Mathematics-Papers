@@ -11,6 +11,14 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter5-16-v3/">ヒルベルト『数論報告』第5章 §16 補足 相対ノルム計算 (3)</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/zchapter5-16-v3.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/zaR3MitxPkQ" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">§16 補足 相対ノルム計算（4回構成の第3回） - スライドと音声解説</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter5-16-v2/">ヒルベルト『数論報告』第5章 §16 補足 相対ノルム計算 (2)</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/zchapter5-16-v2.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
