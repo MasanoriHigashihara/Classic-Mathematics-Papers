@@ -40,8 +40,8 @@ bookCollapseSection: false
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
     <strong>§1</strong> Anwendungen des Hauptsatzes in der Aussagenlogik（命題論理における主定理の応用）
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
+      <a href="/Classic-Mathematics-Papers/papers/gentzen/doctoral-thesis/slides/part2-chapter4-1/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/am1CEuSITM8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a>
     </span>
   </div>
   <div style="padding: 8px; background-color: #f5f5f5; border-radius: 5px;">
