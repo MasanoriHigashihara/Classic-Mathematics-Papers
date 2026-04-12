@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #009688; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-11/">ワイル『リーマン面の理念』第1章 §11</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/Weyl/RiemannSurface/weyl_riemann_surface_1_11.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/bhX_AT1-8bY" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">積分関数。種数。標準的切断 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter5-16-v4/">ヒルベルト『数論報告』第5章 §16 補足 相対ノルム計算 (4)</a></strong>
     <span style="margin-left: 10px;">

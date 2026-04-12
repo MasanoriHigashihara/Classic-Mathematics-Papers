@@ -63,7 +63,7 @@ bookCollapseSection: false
 **§10.** Einseitigkeit und Zweiseitigkeit von Flächen. Der Residuensatz <span style="margin-left: 10px;"><a href="slides/chapter1-10-1/" title="スライド (1/2)" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/Au8KMiGKUyI" title="音声解説 (1/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a> <a href="slides/chapter1-10-2/" title="スライド (2/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">📊</a> <a href="https://youtu.be/TEnWjL5vMgE" title="音声解説 (2/2)" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 面の片側性と両側性。留数定理 …… 56
 
-**§11.** Integralfunktionen. Geschlechtszahl. Kanonische Zerschneidung <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§11.** Integralfunktionen. Geschlechtszahl. Kanonische Zerschneidung <span style="margin-left: 10px;"><a href="slides/chapter1-11/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/bhX_AT1-8bY" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 積分関数。種数。標準的切断 …… 68
 
 </details>
