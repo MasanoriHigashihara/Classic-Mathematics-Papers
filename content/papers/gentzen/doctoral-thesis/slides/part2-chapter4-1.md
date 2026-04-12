@@ -6,7 +6,7 @@ type: docs
 bookHidden: true
 ---
 
-# Dissertation II - §4 (1)
+# Dissertation II - §4 §1
 ## 博士論文 第II部 第4節 §1
 
 <div style="text-align:center; margin: 1.5rem 0;">
