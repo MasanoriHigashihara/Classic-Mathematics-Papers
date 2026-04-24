@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF5722; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter2-11/">ヘッケ『代数的整数論講義』第II章 §11</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_2_11.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/hWI8h3_j264" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">無限アーベル群。こうした群の有限基底と部分群の基底。 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #009688; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter1-11/">ワイル『リーマン面の理念』第1章 §11</a></strong>
     <span style="margin-left: 10px;">

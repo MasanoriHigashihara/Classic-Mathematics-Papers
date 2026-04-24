@@ -78,7 +78,7 @@ Satz 30–33 …… 34
 定理30–33。…… 34
 
 **§ 11.** Unendliche Abelsche Gruppen. Endliche Basis einer solchen und Basis einer Untergruppe.  
-**§11.** 無限アーベル群。こうした群の有限基底と部分群の基底。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§11.** 無限アーベル群。こうした群の有限基底と部分群の基底。 <span style="margin-left: 10px;"><a href="slides/chapter2-11/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/hWI8h3_j264" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 34–40 …… 38  
 定理34–40。…… 38
 
