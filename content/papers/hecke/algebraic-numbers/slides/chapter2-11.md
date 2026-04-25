@@ -1,6 +1,6 @@
 ---
 title: "Kapitel II §11 - スライド"
-date: 2026-04-25
+date: 2026-04-24
 draft: false
 type: docs
 bookHidden: true
