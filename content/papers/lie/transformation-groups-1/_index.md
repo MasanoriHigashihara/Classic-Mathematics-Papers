@@ -67,6 +67,8 @@ bookCollapseSection: false
 **§10** — Gruppen, die eine Curvenschaar φ(x,y) = Const. invariant lassen. <span style="margin-left: 10px;"><a href="slides/chapter2-10/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/JXf-4K8u5yE" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第10節**　族 φ(x, y) = Const の曲線を不変に保つ群
 
+**§10 補足** 具体例による検証 <span style="margin-left: 10px;"><a href="slides/chapter2-10-ver/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/lCbpn-K-8eg" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a></span>
+
 **§11** — Die infinitesimalen Transformationen 1. Ordnung entscheiden, ob eine invariante Curvenschaar existiert. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第11節**　一階の無限小変換による不変曲線族の決定
 
