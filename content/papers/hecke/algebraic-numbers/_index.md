@@ -84,7 +84,7 @@ Satz 34–40 …… 38
 
 ---
 
-### Kapitel III. Abelsche Gruppen in der rationalen Zahlentheorie
+### Kapitel III. Abelsche Gruppen in der rationalen Zahlentheorie <span style="margin-left: 10px;"><a href="slides/chapter3/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/vxbLHCohipE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>
 ### 第III章　有理数論におけるアーベル群
 
 **§ 12.** Gruppen ganzer Zahlen bei Addition und Multiplikation.  
