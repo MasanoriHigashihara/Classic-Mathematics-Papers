@@ -61,7 +61,7 @@ bookCollapseSection: false
 **§8** — Transformation der Linienelemente. <span style="margin-left: 10px;"><a href="slides/chapter2-8/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/OQHU6b2k3RI" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第8節**　線素の変換
 
-**§9** — Infinitesimale Transformationen verschiedener Ordnung. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§9** — Infinitesimale Transformationen verschiedener Ordnung. <span style="margin-left: 10px;"><a href="slides/chapter2-9/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/4gXLqdyjRnA" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 **第9節**　種々の次数の無限小変換
 
 **§10** — Gruppen, die eine Curvenschaar φ(x,y) = Const. invariant lassen. <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
