@@ -151,7 +151,7 @@ bookCollapseSection: false
 </span>
 </summary>
 
-**§17** Die Existenz conjugirter Zahlen, deren absolute Beträge gewissen Ungleichungen genügen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§17** Die Existenz conjugirter Zahlen, deren absolute Beträge gewissen Ungleichungen genügen <span style="margin-left: 10px;"><a href="slides/chapter6-17/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/1gbwoPp0jTE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 絶対値がある不等式を満たす共役数の存在
 
 **§18** Sätze über die absolute Grösse der Körperdiscriminante <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
