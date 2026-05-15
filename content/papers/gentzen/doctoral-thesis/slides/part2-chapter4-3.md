@@ -1,6 +1,6 @@
 ---
 title: "博士論文 第II部 第4節 §3 - スライド"
-date: 2026-05-16
+date: 2026-05-15
 draft: false
 type: docs
 bookHidden: true
