@@ -156,7 +156,7 @@ bookCollapseSection: false
 
 **§17 補足** 具体例による検証 <span style="margin-left: 10px;"><a href="slides/chapter6-17-ver/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/9yrQsHO2GT8" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a></span>
 
-**§18** Sätze über die absolute Grösse der Körperdiscriminante <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§18** Sätze über die absolute Grösse der Körperdiscriminante <span style="margin-left: 10px;"><a href="slides/chapter6-18/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/67k6CMN86pA" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 体の判別式の絶対的な大きさに関する定理
 
 **§19** Der Satz von der Existenz der Einheiten eines Körpers. Ein Hilfssatz über die Existenz einer Einheit von besonderer Eigenschaft <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  

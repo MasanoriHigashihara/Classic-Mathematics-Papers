@@ -36,64 +36,70 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "数論報告 第6章 §18"
+url = "/papers/hilbert/zahlbericht/slides/chapter6-18/"
+parent = "新着"
+weight = 2
+
+[[menu.before]]
 name = "博士論文 第II部 第4節 §3"
 url = "/papers/gentzen/doctoral-thesis/slides/part2-chapter4-3/"
 parent = "新着"
-weight = 2
+weight = 3
 
 [[menu.before]]
 name = "変換群論 I 第2章 §10 補足 具体例による検証"
 url = "/papers/lie/transformation-groups-1/slides/chapter2-10-ver/"
 parent = "新着"
-weight = 3
+weight = 4
 
 [[menu.before]]
 name = "変換群論 I 第2章 §10"
 url = "/papers/lie/transformation-groups-1/slides/chapter2-10/"
 parent = "新着"
-weight = 4
+weight = 5
 
 [[menu.before]]
 name = "代数的整数論講義 第III章まとめ"
 url = "/papers/hecke/algebraic-numbers/slides/chapter3/"
 parent = "新着"
-weight = 5
+weight = 6
 
 [[menu.before]]
 name = "リーマン面の理念 第2章 §12 補足 具体例による検証"
 url = "/papers/weyl/riemann-surface/slides/chapter2-12-ver/"
 parent = "新着"
-weight = 6
+weight = 7
 
 [[menu.before]]
 name = "リーマン面の理念 第2章 §12"
 url = "/papers/weyl/riemann-surface/slides/chapter2-12/"
 parent = "新着"
-weight = 7
+weight = 8
 
 [[menu.before]]
 name = "数論報告 第6章 §17 補足 具体例による検証"
 url = "/papers/hilbert/zahlbericht/slides/chapter6-17-ver/"
 parent = "新着"
-weight = 8
+weight = 9
 
 [[menu.before]]
 name = "数論報告 第6章 §17"
 url = "/papers/hilbert/zahlbericht/slides/chapter6-17/"
 parent = "新着"
-weight = 9
+weight = 10
 
 [[menu.before]]
 name = "博士論文 第II部 第4節 §2"
 url = "/papers/gentzen/doctoral-thesis/slides/part2-chapter4-2/"
 parent = "新着"
-weight = 10
+weight = 11
 
 [[menu.before]]
 name = "変換群論 I 第2章 §9"
 url = "/papers/lie/transformation-groups-1/slides/chapter2-9/"
 parent = "新着"
-weight = 11
+weight = 12
 
 [[menu.before]]
 name = "代数的整数論講義 第II章 §11"
