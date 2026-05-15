@@ -11,6 +11,14 @@ type: docs
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter6-18-ver/">ヒルベルト『数論報告』第6章 §18 補足 具体例による検証</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/zchapter6-18-ver.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/4q0IAoCyWRY" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">§18 補足 具体例による検証 - スライドと音声解説</span>
+  </div>
+  <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter6-18/">ヒルベルト『数論報告』第6章 §18</a></strong>
     <span style="margin-left: 10px;">
       <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hilbert/zahlbericht/zchapter6-18.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
