@@ -1,0 +1,39 @@
+---
+title: "Kapitel III §12 - スライド"
+date: 2026-05-15
+draft: false
+type: docs
+bookHidden: true
+---
+
+# Kapitel III §12 - Gruppen ganzer Zahlen bei Addition und Multiplikation.
+## 第3章 §12 - 整数の加法および乗法に関する群。
+
+<div style="text-align:center; margin: 1.5rem 0;">
+  <iframe 
+    width="280" 
+    height="158" 
+    src="https://www.youtube.com/embed/UZHhc7p9dq0" 
+    style="border:none; border-radius:8px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+  <p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">🎧 音声解説（NotebookLM）</p>
+</div>
+
+### スライド資料
+
+{{< pdf-embed "slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_3_12.pdf" >}}
+
+<div class="pdf-hint">
+  <p><strong>💡 ヒント:</strong></p>
+  <ul>
+    <li>PDFが表示されない場合は、上のダウンロードボタンからPDFをダウンロードしてご覧ください</li>
+    <li>ブラウザによっては、PDFビューアーが自動的に表示されます</li>
+  </ul>
+</div>
+
+---
+
+**内容:**
+- §12 整数の加法および乗法に関する群。

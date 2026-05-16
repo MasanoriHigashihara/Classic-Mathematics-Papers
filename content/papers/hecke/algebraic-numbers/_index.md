@@ -88,7 +88,7 @@ Satz 34–40 …… 38
 ### 第III章　有理数論におけるアーベル群
 
 **§ 12.** Gruppen ganzer Zahlen bei Addition und Multiplikation.  
-**§12.** 整数の加法および乗法に関する群。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§12.** 整数の加法および乗法に関する群。 <span style="margin-left: 10px;"><a href="slides/chapter3-12/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/UZHhc7p9dq0" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 41 …… 45  
 定理41。…… 45
 

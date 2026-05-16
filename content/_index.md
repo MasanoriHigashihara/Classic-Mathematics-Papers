@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF5722; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter3-12/">ヘッケ『代数的整数論講義』第III章 §12</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_3_12.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/UZHhc7p9dq0" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">整数の加法および乗法に関する群 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #009688; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/weyl/riemann-surface/slides/chapter2-13-ver/">ワイル『リーマン面の理念』第2章 §13 補足 具体例による検証</a></strong>
     <span style="margin-left: 10px;">
