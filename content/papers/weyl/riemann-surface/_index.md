@@ -90,6 +90,8 @@ bookCollapseSection: false
 **§13.** Über das Poissonsche Integral <span style="margin-left: 10px;"><a href="slides/chapter2-13/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/uVKRZ3zouMU" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 ポアソン積分について …… 82
 
+**§13 補足** 具体例による検証 <span style="margin-left: 10px;"><a href="slides/chapter2-13-ver/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/BpOYQ1NCsUw" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 5px;">🎧</a></span>
+
 **§14.** Ansatz zum Beweise der Existenztheoreme. Aufstellung der Elementarfunktionen <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 存在定理の証明への着想。初等関数の構成 …… 91
 
