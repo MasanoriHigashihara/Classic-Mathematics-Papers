@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #FF5722; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/hecke/algebraic-numbers/slides/chapter3-13/">ヘッケ『代数的整数論講義』第III章 §13</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/hecke/algebraicnumbers/Hecke_Algebraic_Number_Theory_Chapter_3_13.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/8xFjKZX42i0" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">n と互いに素な剰余類の群 ℜ(n) の構造。p 法および p² 法の素数 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #3F51B5; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/hilbert/zahlbericht/slides/chapter6-19-1/">ヒルベルト『数論報告』第6章 §19 (1/3)</a></strong>
     <span style="margin-left: 10px;">

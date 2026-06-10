@@ -93,7 +93,7 @@ Satz 41 …… 45
 定理41。…… 45
 
 **§ 13.** Struktur der Gruppe ℜ(n) der zu n teilerfremden Restklassen mod. n. Primzahlen mod. p und mod. p².  
-**§13.** n と互いに素な剰余類の群 ℜ(n) の構造。p 法および p² 法の素数。 <span style="margin-left: 10px;"><a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
+**§13.** n と互いに素な剰余類の群 ℜ(n) の構造。p 法および p² 法の素数。 <span style="margin-left: 10px;"><a href="slides/chapter3-13/" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a> <a href="https://youtu.be/8xFjKZX42i0" target="_blank" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a></span>  
 Satz 42–45 …… 47  
 定理42–45。…… 47
 
