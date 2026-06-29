@@ -6,4 +6,4 @@ bookCollapseSection: true
 
 # 高瀬数学塾 Takase-math-school
 
-本物の数学力を育む個別指導の数学専門塾です。
+数学者・数学史家の高瀬正仁先生のオンライン講義です。
