@@ -758,3 +758,8 @@ name = "数論報告 序文"
 url = "/papers/hilbert/zahlbericht/slides/vorwort/"
 parent = "新着"
 weight = 125
+
+[[menu.before]]
+name = "高瀬数学塾 Takase-math-school"
+url = "/papers/takase-math-school/"
+weight = 9999
