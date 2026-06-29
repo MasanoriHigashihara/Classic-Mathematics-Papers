@@ -763,3 +763,9 @@ weight = 125
 name = "高瀬数学塾 Takase-math-school"
 url = "/papers/takase-math-school/"
 weight = 9999
+
+[[menu.before]]
+name = "📊 第127回 超越関数の世界―発見と展望　2026/06/26 📊 🎧"
+url = "/papers/takase-math-school/slides/127-transcendental-functions/"
+parent = "高瀬数学塾 Takase-math-school"
+weight = 10001
