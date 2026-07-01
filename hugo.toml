@@ -36,14 +36,14 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
-name = "高瀬数学塾 第126回 代数関数から代数曲線へ"
-url = "/papers/takase-math-school/slides/126-algebraic-functions/"
+name = "高瀬数学塾 第127回 超越関数の世界―発見と展望"
+url = "/papers/takase-math-school/slides/127-transcendental-functions/"
 parent = "新着"
 weight = 1
 
 [[menu.before]]
-name = "高瀬数学塾 第127回 超越関数の世界―発見と展望"
-url = "/papers/takase-math-school/slides/127-transcendental-functions/"
+name = "高瀬数学塾 第126回 代数関数から代数曲線へ"
+url = "/papers/takase-math-school/slides/126-algebraic-functions/"
 parent = "新着"
 weight = 2
 
