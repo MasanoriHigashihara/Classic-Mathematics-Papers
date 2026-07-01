@@ -13,7 +13,7 @@ bookHidden: true
   <iframe 
     width="280" 
     height="158" 
-    src="" 
+    src="https://www.youtube.com/embed/rn1ar1bEJas" 
     style="border:none; border-radius:8px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -23,7 +23,7 @@ bookHidden: true
 
 ### スライド資料
 
-{{< pdf-embed "slides/takase/takase_127_transcendental_functions.pdf" >}}
+{{< pdf-embed "slides/takase_math_school/takase_math_20260626.pdf" >}}
 
 <div style="background:#f8f9fa; border-left:4px solid #4a9eff; padding:1rem; margin:1.5rem 0; border-radius:4px;">
 💡 ヒント:

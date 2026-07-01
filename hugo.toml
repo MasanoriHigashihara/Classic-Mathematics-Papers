@@ -36,6 +36,12 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "高瀬数学塾 第127回 超越関数の世界―発見と展望"
+url = "/papers/takase-math-school/slides/127-transcendental-functions/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "博士論文 第II部 第5節 §3"
 url = "/papers/gentzen/doctoral-thesis/slides/part2-chapter5-3/"
 parent = "新着"
