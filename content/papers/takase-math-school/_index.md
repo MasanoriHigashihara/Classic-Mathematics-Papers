@@ -11,6 +11,14 @@ bookCollapseSection: true
 ## 講義一覧
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
+    <strong>📊 <a href="slides/128-legendre-elliptic-functions/">高瀬数学塾 第128回 ルジャンドルの楕円関数論　2026/07/03</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/takase_math_school/takase_math_20260703_128.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/4QDpLOR1MbE" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ルジャンドルの楕円関数論 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #E91E63; background-color: #f9f9f9;">
     <strong>📊 <a href="slides/127-transcendental-functions/">高瀬数学塾 第127回 超越関数の世界―発見と展望　2026/06/26</a></strong>
     <span style="margin-left: 10px;">
