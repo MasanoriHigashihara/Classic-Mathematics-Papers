@@ -28,10 +28,10 @@ bookCollapseSection: true
     <span style="color: #666; font-size: 0.9em;">超越関数の世界―発見と展望 - スライドと音声解説</span>
   </div>
   <div style="padding: 15px; border-left: 4px solid #9C27B0; background-color: #f9f9f9;">
-    <strong>📊 <a href="slides/126-algebraic-functions/">高瀬数学塾 第126回 代数関数から代数曲線へ ― アーベル積分の加法定理をめぐって(3)</a></strong>
+    <strong>📊 <a href="slides/126-algebraic-functions/">高瀬数学塾 第126回 代数関数から代数曲線へ ― アーベル積分の加法定理をめぐって(3)　2026/06/19</a></strong>
     <span style="margin-left: 10px;">
-      <a href="#" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
-      <a href="#" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/takase_math_school/takase_math_20260619_126.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/Qym_ayIhEjM" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
     </span><br>
     <span style="color: #666; font-size: 0.9em;">代数関数から代数曲線へ ― アーベル積分の加法定理をめぐって(3) - スライドと音声解説</span>
   </div>
