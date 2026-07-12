@@ -36,6 +36,18 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "高瀬数学塾 第129回 アーベルの虚数乗法論再考―オイラーの影響をめぐって"
+url = "/papers/takase-math-school/slides/129-abel-imaginary-multiplication/"
+parent = "新着"
+weight = 0
+
+[[menu.before]]
+name = "高瀬数学塾 第128回 ルジャンドルの楕円関数論"
+url = "/papers/takase-math-school/slides/128-legendre-elliptic-functions/"
+parent = "新着"
+weight = 0
+
+[[menu.before]]
 name = "高瀬数学塾 第127回 超越関数の世界―発見と展望"
 url = "/papers/takase-math-school/slides/127-transcendental-functions/"
 parent = "新着"
