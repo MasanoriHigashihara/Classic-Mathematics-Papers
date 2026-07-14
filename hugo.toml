@@ -45,13 +45,13 @@ weight = 0
 name = "高瀬数学塾 第128回 ルジャンドルの楕円関数論"
 url = "/papers/takase-math-school/slides/128-legendre-elliptic-functions/"
 parent = "新着"
-weight = 0
+weight = 2
 
 [[menu.before]]
 name = "高瀬数学塾 第127回 超越関数の世界―発見と展望"
 url = "/papers/takase-math-school/slides/127-transcendental-functions/"
 parent = "新着"
-weight = 1
+weight = 3
 
 [[menu.before]]
 name = "高瀬数学塾 第126回 代数関数から代数曲線へ"
