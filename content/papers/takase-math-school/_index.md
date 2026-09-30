@@ -11,6 +11,14 @@ bookCollapseSection: true
 ## 講義一覧
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
+    <strong>📊 <a href="slides/132-algebraic-solvability/">高瀬数学塾 第132回 代数的可解性の根底にあるもの―ラグランジュからアーベルへ　2026/07/31</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/takase_math_school/takase_math_20260731_132.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/jyzNTPh16n4" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">代数的可解性の根底にあるもの―ラグランジュからアーベルへ - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #FF5722; background-color: #f9f9f9;">
     <strong>📊 <a href="slides/131-curves-analytic-source/">高瀬数学塾 第131回 曲線の解析的源泉をめぐって―曲線と関数再考　2026/07/24</a></strong>
     <span style="margin-left: 10px;">
