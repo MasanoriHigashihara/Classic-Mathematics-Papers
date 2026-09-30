@@ -36,10 +36,16 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "高瀬数学塾 第131回 曲線の解析的源泉をめぐって―曲線と関数再考"
+url = "/papers/takase-math-school/slides/131-curves-analytic-source/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "高瀬数学塾 第130回 自然対数の底eの発見からオイラーの公式へ"
 url = "/papers/takase-math-school/slides/130-natural-log-euler-formula/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "高瀬数学塾 第129回 アーベルの虚数乗法論再考―オイラーの影響をめぐって"
