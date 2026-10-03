@@ -36,10 +36,16 @@ name = "新着"
 weight = 1
 
 [[menu.before]]
+name = "高瀬数学塾 特別講座 第24回 ヒルベルトの遍歴とクロネッカーとの対話"
+url = "/papers/takase-math-school/slides/s24-hilbert-kronecker-dialogue/"
+parent = "新着"
+weight = 1
+
+[[menu.before]]
 name = "高瀬数学塾 第132回 代数的可解性の根底にあるもの―ラグランジュからアーベルへ"
 url = "/papers/takase-math-school/slides/132-algebraic-solvability/"
 parent = "新着"
-weight = 1
+weight = 2
 
 [[menu.before]]
 name = "高瀬数学塾 第131回 曲線の解析的源泉をめぐって―曲線と関数再考"

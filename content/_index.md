@@ -10,6 +10,14 @@ type: docs
 ## 🆕 新着
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
+  <div style="padding: 15px; border-left: 4px solid #E91E63; background-color: #f9f9f9;">
+    <strong>📊 <a href="papers/takase-math-school/slides/s24-hilbert-kronecker-dialogue/">高瀬数学塾 特別講座 第24回 ヒルベルトの遍歴とクロネッカーとの対話　2026/08/07</a></strong>
+    <span style="margin-left: 10px;">
+      <a href="https://pub-b7de6127921a4952aac9bd48e1710bcb.r2.dev/slides/takase_math_school/takase_math_20260807_s24.pdf" title="スライド" style="text-decoration: none; font-size: 1.1em;">📊</a>
+      <a href="https://youtu.be/OpMpXDh0Eio" title="音声解説" style="text-decoration: none; font-size: 1.1em; margin-left: 8px;">🎧</a>
+    </span><br>
+    <span style="color: #666; font-size: 0.9em;">ヒルベルトの遍歴とクロネッカーとの対話 - スライドと音声解説</span>
+  </div>
   <div style="padding: 15px; border-left: 4px solid #00BCD4; background-color: #f9f9f9;">
     <strong>📊 <a href="papers/takase-math-school/slides/132-algebraic-solvability/">高瀬数学塾 第132回 代数的可解性の根底にあるもの―ラグランジュからアーベルへ　2026/07/31</a></strong>
     <span style="margin-left: 10px;">
